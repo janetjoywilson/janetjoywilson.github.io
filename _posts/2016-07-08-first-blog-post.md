@@ -11,4 +11,4 @@ tag:
 
 ## Welcome one welcome all
 
-This is the first post, and it is being started by Robertson McClure. It is also going to be used to train Janet Joy Wilson in how to use Jekyll and be able to deploy her own website. 
+This is the first, and it is being started by Robertson McClure. It is also going to be used to train Janet Joy Wilson in how to use Jekyll and be able to deploy her own website.
