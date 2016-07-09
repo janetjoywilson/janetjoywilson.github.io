@@ -1,7 +1,7 @@
 # Site
 title: Janet Joy Wilson
 description: A stylish woman with a stylish blog
-url: http://localhost:4000
+url: http://janetjoywilson.ca
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -56,7 +56,6 @@ instagram:          jsquaredink
 
 # Gems
 gems:
-  - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
 
