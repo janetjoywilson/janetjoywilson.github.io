@@ -823,8 +823,11 @@ canvas {
     }
   }
 }
-.entry-title > a{
-  border: none !important;
+.entry-title {
+  list-style-type: none;
+  > a {
+    border: none !important;
+  }
 }
 .pagination {
   display: flex;

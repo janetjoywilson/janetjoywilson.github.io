@@ -3,32 +3,20 @@
   image: http://localhost:4000/images/thereadingline.jpg
   completed: true
 
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
-
-- title: Moon Jekyll Theme
-  url: http://taylantatli.me/Moon
-  image: https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
+- title: Slow Down Jane
+  url: https://toronto.100in1day.ca/initiatives/5Fmb7x2jg5PIe2F92JToW68AMHD
+  image: https://upload.wikimedia.org/wikipedia/commons/c/c7/Jane_Street_Sign.jpg
   completed: true
 
-- title: Ramme Jekyll Theme
-  url: http://taylantatli.me/Ramme
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+- title: The Morning Show Book Club
+  url: http://penguinrandomhouse.ca/programs/tms-book-club
+  image: http://penguinrandomhouse.ca/sites/default/files/field/image/life_we_bury_tms_book_club_crop.jpg
   completed: true
 
-- title: Daisy Pelican Theme
-  url: http://taylantatli.me/Daisy-Pelican-Theme/
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+- title: Cycle Toronto Ward 13 Bikes
+  url: https://www.cycleto.ca/ward/13
+  image: http://i.cbc.ca/1.1401795.1378974238!/httpImage/image.jpg_gen/derivatives/16x9_620/li-620-sherbourne-bike-lane.jpg
   completed: true
 
-- title: Block Icon Theme
-  url: https://github.com/TaylanTatli/Block-Icon-Theme
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
-  completed: false
-
-- title: Start Page
-  url: http://taylantatli.me/StartPage/
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+- title: Take over the world
   completed: false
