@@ -11,11 +11,13 @@ tag:
 
 > Why? Because I love sharing **books!**
 >
-> Who is this for?  You ... my fellow book lover.
->
-> Where? Everywhere! Books offer an interesting new world to explore.
->
->How will I keep this interesting for you and me?! 
->Variety! It's the spice of life, eh?
+> Who is this for?  YOU ... my fellow book lover.
 
-Come along for the love of words!
+
+Words, sentences, paragraphs, chapters, stories, novels, illustrations, graphics, poems and more!
+
+It's a brand new day for me to try something new and I hope you'll come along with me.
+
+My goal is to share with you the books that have taken me on an emtoional journey or had me on the floor laughing!
+
+Interested?
