@@ -86,14 +86,14 @@ canvas {
     }
   }
   &:hover {
-    border-color: $green;
+    border-color: $logo-color;
     &:before {
-      border-color: $green;
+      border-color: $logo-color;
     }
     span {
-      border-color: $green;
+      border-color: $logo-color;
       &:before {
-        border-color: $green;
+        border-color: $logo-color;
       }
     }
   }
@@ -131,10 +131,10 @@ canvas {
     background: $white;
   }
   &:hover {
-    border-color: $green;
+    border-color: $logo-color;
     &:before,
     &:after {
-      border-color: $green;
+      border-color: $logo-color;
     }
   }
 }
@@ -354,7 +354,7 @@ canvas {
         left: 0;
         right: 0;
         bottom: 0;
-        background: $green;
+        background: $logo-color;
         -webkit-transform: scaleY(0);
         transform: scaleY(0);
         -webkit-transform-origin: 50% 100%;
@@ -421,7 +421,7 @@ canvas {
       -ms-transform: none;
       -o-transform: none;
       transform: none;
-      background: $green;
+      background: $logo-color;
       left: 0;
       width: 200px;
     }
@@ -506,7 +506,7 @@ canvas {
       display: inline-block;
       max-width: 75%;
       &:hover span {
-        border-bottom: 1px dotted $green;
+        border-bottom: 1px dotted $logo-color;
       }
     }
   }
@@ -564,8 +564,8 @@ canvas {
     display: block;
   }
   a:not(.btn):not(.pagination_pager) {
-    color: #399f62;
-    border-bottom: 1px dotted $green;
+    color: #115976;
+    border-bottom: 1px dotted $logo-color;
   }
   ul,
   ol {
@@ -602,7 +602,7 @@ canvas {
     font-size: 15px;
   }
   .section-line {
-    color: $green;
+    color: $logo-color;
     position: relative;
     display: -webkit-box;
     display: -moz-box;
@@ -624,9 +624,9 @@ canvas {
       margin-left: 10px;
     }
     a {
-      color: $green;
+      color: $logo-color;
       &:hover {
-        color: #4dbe7a;
+        color: #1a8bb9;
       }
     }
     em {
@@ -859,7 +859,7 @@ canvas {
       border-radius: 0 4px 4px 0;
     }
     &:hover {
-      background-color: $green;
+      background-color: $logo-color;
       color: $white !important;
     }
     &.disabled {
