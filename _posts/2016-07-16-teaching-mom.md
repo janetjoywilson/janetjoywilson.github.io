@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teaching Mom"
+title: "why books & bicycles"
 date: 2016-07-16
 image: images/trl.jpg
 excerpt: "This is the excerpt that you will see beneath your blog post. It could be as long as you want it to be, or as short."
