@@ -5,16 +5,17 @@ date: 2016-07-16
 image: images/trl.jpg
 excerpt: "let me explain how I combined my passion for books & bicycles"
 tag:
+- personal
 - bicycles
 - books
-- urban planning
+- theatre
+- dance
 - infrastructure
-- shape my city
 ---
 
 ## I love alliteration
 
-I confess I have an addiction to alliteration. No, I am not in therapy for it as I think it adds to my charm. Yes, I am funny or so I think and with that said, books & bicycles fit perfectly together. I'm writing a bit of a bio below so that you know my history and maybe understand some of the choices I make.
+I confess I have an addiction to alliteration. No, I am not in therapy for it as I think it adds to my charm. Yes, I am funny or so I think and with that said, books & bicycles fit perfectly together. I'm writing a bit of a bio below so that you know my history and maybe understand some of the choices I have made.
 
 ## farm girl
 
@@ -22,7 +23,7 @@ I have a distant memory of learning to read in the summer room of our farm house
 
 I was about eight or nine when I started taking tap dance lessons. First in a hall then in someone's kitchen and finally in Dunnville at the Sharon House School of Dance. The studio was in the basement of their house and I spent many hours learning choreography to group and solo dances and later teaching three year olds how to balance while doing a shuffle ball change. The reason I share this bit of history is that dancing opened up a new world for me that was far from the farm.  Kind of like what novels did for me later on. I remember a teacher reading out loud The Hobbit to our class. The story and the experience was extraordinary but that particular farm school didn't have a school library.
 
-At this point in time, I have to be honest with you dear reader.  I changed schools in Grade Six because I had been bullied in our small town school. I kept quiet about it to my parents. Later I blocked out the memory. I only discovered this locked room when I was involved in a writing workshop at the age of 27 while use _Writing Down the Bones_ by [Natalie Goldberg](http://nataliegoldberg.com/about/). The stream of consciousness exercise starting with "I don't remember..." which triggerd remembering that year of my life! Maybe I should be in therapy!!!
+At this point in time, I have to be honest with you dear reader.  I changed schools in grade six because I had been bullied in our small town school. I kept quiet about it to my parents. Later I blocked out the memory. I only discovered this locked memory when I participated in a writing workshop at the age of 27. We used _Writing Down the Bones_ by [Natalie Goldberg](http://nataliegoldberg.com/about/) and it was my first experience with writing a stream of consciousness. This particular exercise started with "I don't remember..." which triggered remembering that year of my life! Maybe I should be in therapy!!!
 
 Anyway, in my new school, my teacher, Mrs. Spears, took us to the library once a week and it was there that I would gather up five to six novels and inhale them throughout the week until I could choose six more! I was so hungry for stories. What author or book do I remember from that time? It was the 1970 novel by [Judy Blume](http://www.judyblume.com/) called _Are You There God? It's me, Margaret_, she spoke to me! I listened.
 
@@ -50,11 +51,11 @@ I married and in 1996 I had a son. A few years later when he had a bicycle sans 
 
 ## today
 
-I work for [Penguin Random House Canada](http://penguinrandomhouse.ca/). In April 2013 I started to ride my bicycle to work every day downtown. It's a 30 km round trip through the city and along the lake. I got hooked. I also saw first hand the infrastructure needs because there were more "Bike Lane Ends Here" signs than bike lanes! I became interested in making change as complaining is only more frustrating for me.
+I work for [Penguin Random House Canada](http://penguinrandomhouse.ca/). In April 2013 I started to ride my bicycle to work every day downtown. It's a 30 km round trip through the city and along the lake. I got hooked on the feeling and the view from two wheels. I also saw first-hand the infrastructure needs in Toronto because there were more "Bike Lane Ends Here" signs than bike lanes! I became interested in making change as complaining is only more frustrating for me.
 
-In April 2014 I became co-captain of [Cycle Toronto](https://www.cycleto.ca/) Ward 13 Bikes and began the long process of learning about the City of Toronto because that's how you can make change although I've been tempted to paint bike lanes over the years!
+In April 2014 I became co-captain of [Cycle Toronto](https://www.cycleto.ca/) Ward 13 Bikes and began the long process of learning about the City of Toronto because that's how you can make change although I've been tempted to paint bike lanes myself over the years!
 
-That summer [Amanda Lewis](https://www.linkedin.com/in/amanda-lewis-56942473) and I attended a Ward Captain meeting. I remember seeing her across the room and thinking - 'hey, we work together at PRHC. We should combine books & bicycles!' - she was also interested. We had lots of ideas and over a coffee [The Reading Line](www.thereadingline.ca)] was born.
+That summer [Amanda Lewis](https://www.linkedin.com/in/amanda-lewis-56942473) and I attended a Ward Captain meeting. I remember seeing her across the room and thinking - 'hey, we work together at PRHC. We should combine books & bicycles!' - she was also interested. We had lots of ideas and over a coffee [The Reading Line](www.thereadingline.ca) was born.
 
 ## tomorrow
 
