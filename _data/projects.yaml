@@ -1,22 +1,22 @@
-- title: The Reading Line
+- title:
   url: http://www.thereadingline.ca
   image: http://janetjoywilson.ca/images/thereadingline.jpg
   completed: true
 
-- title: Slow Down Jane
+- title:
   url: https://toronto.100in1day.ca/initiatives/5Fmb7x2jg5PIe2F92JToW68AMHD
   image: https://upload.wikimedia.org/wikipedia/commons/c/c7/Jane_Street_Sign.jpg
   completed: true
 
-- title: The Morning Show Book Club
+- title:
   url: http://penguinrandomhouse.ca/programs/tms-book-club
-  image: http://penguinrandomhouse.ca/sites/default/files/field/image/life_we_bury_tms_book_club_crop.jpg
+  image: http://janetjoywilson.ca/images/global_hardhat.jpg
   completed: true
 
-- title: Cycle Toronto Ward 13 Bikes
+- title:
   url: https://www.cycleto.ca/ward/13
   image: http://i.cbc.ca/1.1401795.1378974238!/httpImage/image.jpg_gen/derivatives/16x9_620/li-620-sherbourne-bike-lane.jpg
   completed: true
 
-- title: Take over the world
+- title: take over the world
   completed: false
