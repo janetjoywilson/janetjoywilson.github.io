@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<body id="posts">
+  <div class="block-left">
+    <div class="content">
+      <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo | replace: '.', '-small.' }}"></a>
+      <h1 class="section-title">{{ page.title }}</h1>
+    </div>
+  </div>
+
+  <div class="block-right">
+    <div class="content">
+    {% include navigation.html %}
+      <ul class="book-list">
+      {% for book in site.library %}
+        <li>
+          <a href="{{ site.url }}{{ book.url }}">
+            <img src="{{ book.image }}" />
+            <ul>
+              <li>{{ book.title | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+              <li>{{ book.author }}</li>
+            </ul>
+          </a>
+        </li>
+      {% endfor %}
+      </ul>
+    </div>
+    {% include credits.html %}
+  </div>
+  {% include scripts.html %}
+</body>

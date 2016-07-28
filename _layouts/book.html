@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<body id="posts" class="inner-post-page">
+  <div class="block-left">
+    <div class="content">
+      <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo | replace: '.', '-small.' }}"></a>
+    </div>
+  </div>
+
+  <div class="block-right">
+    <div class="inner-post content">
+      {% include navigation.html %}
+      <h2>{{ page.title }}</h2>
+      <div class="date-highlight">&#x2756;</div>
+      {{ content }}
+      <br>
+      {% include page-pagination.html %}
+    </div>
+    {% include credits.html %}
+  </div>
+</body>

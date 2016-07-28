@@ -1,12 +1,7 @@
 ---
-layout: compress
+layout: default
 ---
-
-<!DOCTYPE html>
-<html>
-{% include head.html %}
 <body id="homepage">
-
   <div class="block-left">
     <div class="content">
       <div class="main-info">
@@ -21,20 +16,14 @@ layout: compress
   </div>
 
   <div class="block-right">
-    <a href="{{ site.url }}/blog" title="posts" class="posts-menu-icon"></a>
-    <span class="posts-link">BLOG</span>
-    <a title="project" class="projects-menu-icon">
-      <span></span>
-    </a>
-    <span class="projects-link">PROJECTS</span>
     <div class="content">
+      {% include navigation.html %}
       <div class="about-info">
         {{ content }}
       </div>
     </div>
+    {% include credits.html %}
   </div>
-  {% include overlay.html %}
   {% include scripts.html %}
   <script src="{{ site.url }}/assets/js/canvas.js"></script>
 </body>
-</html>

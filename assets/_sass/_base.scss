@@ -22,7 +22,7 @@ html {
 html,
 body {
   height: 100%;
-  line-height: 1.2
+  line-height: 1.2;
 }
 
 body {
@@ -32,16 +32,21 @@ body {
 }
 
 a {
-  color: $overlay-color;
+  color: $logo-color;
+  cursor: pointer;
   outline: none;
   text-decoration: none
 }
 
 a:hover,
 a:active,
-a:focus,
+a:focus {
+  color: darken($logo-color, 20);
+  font-weight: bold;
+}
+
 a:visited {
-  color: $overlay-color
+  color: darken($logo-color, 30);
 }
 
 table {

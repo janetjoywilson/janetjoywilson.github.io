@@ -1,0 +1,18 @@
+<nav class="fill">
+  <ul>
+    <li><a href="{{ site.url }}/blog">blog</a></li>
+    <li><a href="{{ site.url }}/projects">projects</a></li>
+    <li><a href="{{ site.url }}/library">library</a></li>
+  </ul>
+</nav>
+
+
+<div class="date-highlight">
+  {% if page.author %}
+    {{ page.author }}
+  {% elsif page.date %}
+    {{ page.date | date: '%B %e, %Y' }}
+  {% else %}
+    &#x2756;
+  {% endif %}
+</div>
