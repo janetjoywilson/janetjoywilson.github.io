@@ -4,3 +4,5 @@ title: Projects
 description: "List of projects"
 permalink: /projects/
 ---
+
+# Coming soon ...

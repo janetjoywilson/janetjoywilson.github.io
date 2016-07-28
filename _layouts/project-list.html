@@ -13,6 +13,7 @@ layout: default
     <div class="content">
       {% include navigation.html %}
       <ul class="projects-list">
+      {{ content }}
       {% for project in site.projects %}
       {% capture image %}{{ project.image }}{% endcapture %}
         <li>

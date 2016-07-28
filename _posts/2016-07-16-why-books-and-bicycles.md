@@ -2,7 +2,6 @@
 layout: post
 title: "why books & bicycles?"
 date: 2016-07-16
-image: images/trl.jpg
 excerpt: "let me explain how I combined my passion for books & bicycles"
 tag:
 - personal
@@ -65,6 +64,6 @@ I've given you more than enough background about me ... I'll probably keep rewri
 
 May I share a favourite book with you today.
 
-There is so much shocking and horrible events in the world, I have to choose kind ... a reference to a favourite book of mine called [_Wonder_](http://penguinrandomhouse.ca/programs/tms-book-club/feature/wonder-wonder) by R.J. Palacio. She calls her book a "meditation on kindness" ... we should all meditate on kindness. 
+There is so much shocking and horrible events in the world, I have to choose kind ... a reference to a favourite book of mine called [_Wonder_](http://penguinrandomhouse.ca/programs/tms-book-club/feature/wonder-wonder) by R.J. Palacio. She calls her book a "meditation on kindness" ... we should all meditate on kindness.
 
 I welcome you to my open book kind of life where I will share book and bicycle recommendations with you, dear reader.
