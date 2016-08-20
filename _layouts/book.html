@@ -11,9 +11,17 @@ layout: default
   <div class="block-right">
     <div class="inner-post content">
       {% include navigation.html %}
-      <h2>{{ page.title }}</h2>
+      <h2 id="book-title">{{ page.title }}</h2>
+      <div class="book-details">
+        <ul>
+          <li>{{ page.publisher }}</li>
+          <li>{{ page.isbn }}</li>
+        </ul>
+      </div>
       <div class="date-highlight">&#x2756;</div>
-      {{ content }}
+      <div class="review">
+        {{ content }}
+      </div>
       <br>
       {% include page-pagination.html %}
     </div>

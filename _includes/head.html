@@ -44,11 +44,17 @@
   <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/main.css">
   <!-- Left Block Image for Posts -->
   {% if page.image %}
+  {% if page.isbn %}
+  <style type="text/css">
+    #posts.inner-post-page .block-left {background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url({{ site.url }}/images/covers/{{ page.image }}) no-repeat;background-size: cover;}
+  </style>
+  {% else %}
   {% capture image %}{{ page.image }}{% endcapture %}
   {% unless image contains 'http://' or image contains 'https://' %}{% capture image %}{{ site.url }}/{{ image }}{% endcapture %}{% endunless %}
   <style type="text/css">
     #posts.inner-post-page .block-left {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ image }}) no-repeat;background-size: cover;}
   </style>
+  {% endif %}
   {% else %}
   <style type="text/css">
     #posts.inner-post-page .block-left {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ site.url }}/{{ site.background.default-post }}) no-repeat;background-size: cover;}
@@ -59,4 +65,10 @@
     #posts .block-left {background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url({{ site.url }}/{{ site.background.post-list }}) no-repeat;background-size: cover, cover;}
     .block-left {background: linear-gradient(rgba(44,45,51,0.9), rgba(44,45,51,0.9)), url({{ site.url }}/{{ site.background.homepage }}) no-repeat;background-size: cover;}
   </style>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script type="text/javascript">
+  $(window).load(function() {
+  	$(".loader").fadeOut("slow");
+  })
+  </script>
 </head>

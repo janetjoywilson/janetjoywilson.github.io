@@ -18,9 +18,9 @@ layout: default
       {% for book in site.library %}
         <li>
           <a href="{{ site.url }}{{ book.url }}">
-            <img src="{{ book.image }}" />
+            <img src="{{ site.url }}/images/covers/{{ book.image }}" />
             <ul>
-              <li>{{ book.title | markdownify | remove: "<p>" | remove: "</p>" }}</li>
+              <li>{{ book.title }}</li>
               <li>{{ book.author }}</li>
             </ul>
           </a>
