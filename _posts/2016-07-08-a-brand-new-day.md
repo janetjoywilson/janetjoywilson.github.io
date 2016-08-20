@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "a brand new day"
+title: "A brand new day"
 date: 2016-07-08
 excerpt: "my first post"
-tag: 
+tag:
 - personal
 ---
 

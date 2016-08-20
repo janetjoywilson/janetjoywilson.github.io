@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "why books & bicycles?"
+title: "Why books & bicycles?"
 date: 2016-07-16
 excerpt: "let me explain how I combined my passion for books & bicycles"
 tag:
