@@ -24,11 +24,11 @@ Did you know that as a Canadian with a print disability you have the right to ac
 
 I witnessed machines & robots producing One Use Only audiobooks that are mailed free to 4,500 clients DAILY by the Canada Post. Impressive to say the least.
 
-I had a tour of the facility because I was participating in the [Cycling for Libraries](http://www.cyclingforlibraries.org/) un-conference in Ontario – their first ever North American Tour!
+I had a tour of the facility because I was participating in the [Cycling for Libraries] un-conference in Ontario – their first ever North American Tour!
 
-## what is Cycling for Libraries?
+## what is [Cycling for Libraries]?
 
-Founded in 2011, the Cycling for libraries is an international cycling conference for librarians and library lovers. It aims to advocate libraries and increase awareness of the valuable services and resources that libraries offer to the community. I signed up because I'm a book and a cycling advocate. The schedule was 100km a day for 5 days.  Could I do it? I didn't know but if I didn't try then I really wouldn't know and when you're in a group of 30 you have to keep pedaling! I am writing this after the fact so I did indeed survive and truly it was epic! Will I do it again? YES! 2017 will be in Helsinki and I can't wait!!
+Founded in 2011, the [Cycling for Libraries] is an international cycling conference for librarians and library lovers. It aims to advocate libraries and increase awareness of the valuable services and resources that libraries offer to the community. I signed up because I'm a book and a cycling advocate. The schedule was 100km a day for 5 days.  Could I do it? I didn't know but if I didn't try then I really wouldn't know and when you're in a group of 30 you have to keep pedaling! I am writing this after the fact so I did indeed survive and truly it was epic! Will I do it again? YES! 2017 will be in Helsinki and I can't wait!!
 
 ## audiobooks
 
@@ -103,3 +103,5 @@ Whatever format you choose to “read” it’s all great right?! From the print
 Here’s my talkin’ about listenin’ with Jeff on [The Morning Show](http://globalnews.ca/video/2887566/janet-joy-wilsons-august-book-picks ).
 
 Bottom line … just read.
+
+[Cycling for Libraries]: http://www.cyclingforlibraries.org/
