@@ -15,7 +15,7 @@ layout: default
     {% include navigation.html %}
       <ul class="book-list">
       {{ content }}
-      {% for book in site.library %}
+      <!-- {% for book in site.library %}
         <li>
           <a href="{{ site.url }}{{ book.url }}">
             <img src="{{ site.url }}/images/covers/{{ book.image }}" />
@@ -25,7 +25,7 @@ layout: default
             </ul>
           </a>
         </li>
-      {% endfor %}
+      {% endfor %} -->
       </ul>
     </div>
     {% include credits.html %}

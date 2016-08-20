@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Have you heard? Books sound great!"
+title: Have you heard? Books sound great!
 date: 2016-08-14
 excerpt: "choose print, braille, tablet or CD to enjoy the words"
 tag:
