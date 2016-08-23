@@ -43,7 +43,7 @@ Children who are better listeners are also better learners.
 
 Pretty amazing let alone listening to great stories by skilled readers is fun!  I call this Edutainment and I think it's the best way to learn whether you're a child or an adult - Mary Poppins had it right ... a spoon full of sugar helps the medicine go down.
 
-## awe-inspiring audiobooks for August
+## awe-inspiring audiobooks for august
 
  I have some suggestions for the family.
 
@@ -51,7 +51,7 @@ Here's 30 minutes of a delightful and humorous verse!
 
 "Oh, the places you’ll go!"
 
-It’s a book that was written and illustrated by children’s author Dr. Seuss and first published by Random House on January 22, 1990, making it his last book published in his lifetime. The book concerns the journey of life and its challenges. Though written in the style of classics such as Green Eggs and Ham and The Cat in the Hat, Oh, the Places You’ll Go! has many specific characters including a narrator and the reader.
+It’s a book that was written and illustrated by children’s author Dr. Seuss and first published by Random House on January 22, 1990, making it his last book published in his lifetime. The book concerns the journey of life and its challenges. Though written in the style of classics such as "Green Eggs and Ham" and "The Cat in the Hat", "Oh, the Places You’ll Go!" has many specific characters including a narrator and the reader.
 
 This is a perennial book to give as a gift for graduation because it communicates everything you’d want to say to someone you care about, no matter what the age or stage or life, embarking on a new journey or having a little trouble.
 
@@ -61,47 +61,48 @@ This is a perennial book to give as a gift for graduation because it communicate
 
 "Today is YOUR DAY – your mountain is waiting!"
 
-On the same CD is The Lorax, a book written in 1971, long before saving the earth became a global concern.
+On the same CD is "The Lorax", a book written in 1971, long before saving the earth became a global concern.
 
-The Lorax was Dr. Seuss’ personal favorite of his books. “The Lorax,” he once explained, “came out of me being angry. In The Lorax I was out to attack what I think are evil things and let the chips fall where they might.”
+"The Lorax" was Dr. Seuss’ personal favorite of his books. “The Lorax,” he once explained, “came out of me being angry. In The Lorax I was out to attack what I think are evil things and let the chips fall where they might.”
 
 Again there is simple music in the background & this one is read by the award winning actor Ted Danson. (yes from Cheers)
 
 I think this "shared experience of listening together" would initiate conversations.
 
-Have I also mentioned that these are available in a book format and thus a great way to reinforce the printed words and the fluency of the reading. Great for comprehension and retention. The childn also is reading 'up' because someone else is reading to them. Great for bedtime when parents are a little tired too!
+Have I mentioned these are available in a book format and thus a great way to reinforce the printed words and the fluency of the reading. Plus it's fabulous for comprehension and retention. The child doesn't have to stay at their reading level and can read 'up' because someone else is reading to them. And consider this - you may not be the greatest at reading - not everyone is - so to take a break and let a professional read to both of you! That's a win-win.
 
-Always Maintain a Joyful Mind
-And Other Lojong Teachings on Awakening Compassion and Fearlessness  by Pema Chödrön
+"Always Maintain a Joyful Mind
+And Other Lojong Teachings on Awakening Compassion and Fearlessness" by [Pema Chödrön](http://pemachodronfoundation.org/)
 
 This is a book & CD which compliments one another.
 
-The book contains the Tibetan Buddhists' collection of fifty-nine pith teachings (called lojong in Tibetan) to help develop wisdom and compassion amid the challenges of daily living. The lojong teachings include: “Always maintain only a joyful mind,” “Don’t be swayed by external circumstances,” “Don’t be so predictable,” and “Be grateful to everyone.” Each slogan is followed by Pema Chödrön’s accessible and succinct commentary on how to understand and apply it.
+The book contains the Tibetan Buddhists' collection of fifty-nine pith teachings (called lojong in Tibetan) to help develop wisdom and compassion amid the challenges of daily living. The lojong teachings include: “Always maintain only a joyful mind,” “Don’t be swayed by external circumstances,” “Don’t be so predictable,” and “Be grateful to everyone.” Each slogan is followed by [Pema Chödrön]’s accessible and succinct commentary on how to understand and apply it.
 
-Included in the back is a CD featuring a forty-five-minute audio program entitled “Opening the Heart,” in which Pema Chödrön offers in-depth instruction on tonglen meditation, a powerful practice that anyone can undertake to awaken compassion for oneself and others.
+Included in the back is a CD featuring a forty-five-minute audio program entitled “Opening the Heart,” in which [Pema Chödrön] offers in-depth instruction on tonglen meditation, a powerful practice that anyone can undertake to awaken compassion for oneself and others.
 
 Pema’s voice is warm and friendly and it’s easy to digest. She starts with …”WHAT IS TONGLEN?”
 Answer: DISCOVERING THE BARRIERS BETWEEN SELF & OTHERS
 Question: HOW DO I DISSOLVE THE BARRIERS?
 Answer: OPENING THE HEART/MIND.
 
-Pema guides you to on how to open your heart and your mind whey have habitually shut down.  Take the 45 minutes to listen and take the steps to learning how to train the heart muscle.
+The beloved Buddhist teacher guides you to on how to open your heart and your mind whey have habitually shut down.  Take the 45 minutes to listen and take the steps to learning how to train the heart muscle.
 
-Me Before You by JoJo Moyes is 14 hours of listening time but the talented cast of 6 actors makes the hours fly by .
+"Me Before You" by JoJo Moyes is 14 hours of listening time but the talented cast of 6 actors makes the hours fly by .
 
-I am “late to the game” was said to me by a colleague as I hadn't read the book nor seen the film. In order to ‘catch up’ I’m listening to this audio book as I cook and clean yet I was also found myself sitting on the floor of my kitchen weeping and/or laughing! If you don't know, it's a heartbreakingly romantic novel that asks, what do you do when making the person you love happy also means breaking your own heart?
+"You're late to the game” was said to me by a colleague as I hadn't read the book nor seen the film. In order to ‘catch up’ I’m listening to this audio book as I cook and clean yet I found myself sitting on the floor of my kitchen weeping and/or laughing! If you don't know the story, it's a heartbreakingly romantic novel that asks, what do you do when making the person you love happy also means breaking your own heart?
 
-I found this review on goodreads and just have to reprint it:
+I found this review on [goodreads](https://www.goodreads.com/book/show/15507958-me-before-you) and just had to reprint it:
 “Oh, for goodness sake, just listen to this.
 Me Before You is an utterly indescribable book. The publisher’s description put me off for quite a long time. But, all the glowing Audible reviews persuaded me to take an aural gander. OMG! Poignant, funny, captivating. Jojo Moyes is a writer to follow. She tackled a subject about which no one really wants to read, and made it an infinitely empathetic, oh so English, witty, inspiring tale of courage, reminding us of the amazing, magical gift another bestows on us when they truly listen and make an effort to understand—really grasp—who we are at our very core.
 The narrators were very good, especially Susan Lyons who does the main character. You will finish it, and sigh, and want so much to recommend it to others, but alas, Me Before You totally defies portrayal. All you’ll be able to say is, “It’s remarkable.”
 
 ## what format do you enjoy best?
 
-Whatever format you choose to “read” it’s all great right?! From the printed book, braille (I'll be writing about this another time as I just discovered this from [DK Braille](https://www.youtube.com/watch?v=dvtagYtJlt0), tablet or audiobook you are checking into a story, a world, a new thought and being transported by words.  
+Whatever format you choose to “read” it’s all great right?! From the printed book, braille (I'll be writing about this format another time as I just discovered [DK Braille](https://www.youtube.com/watch?v=dvtagYtJlt0) ), tablet or audiobook you are checking into a story, a world, a new thought and being transported by words.  
 
-Here’s my talkin’ about listenin’ with Jeff on [The Morning Show](http://globalnews.ca/video/2887566/janet-joy-wilsons-august-book-picks ).
+If you're interested, here's me talkin' about listenin' on Global TV [The Morning Show](http://globalnews.ca/video/2887566/janet-joy-wilsons-august-book-picks ).
 
 Bottom line … just read.
 
 [Cycling for Libraries]: http://www.cyclingforlibraries.org/
+[Pema Chödrön]: http://pemachodronfoundation.org/
