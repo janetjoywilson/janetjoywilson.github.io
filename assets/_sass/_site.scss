@@ -379,6 +379,7 @@ canvas {
       border: none;
     }
     a {
+      text-align: center;
       overflow: auto;
       height: 100%;
       display: block;
@@ -536,12 +537,12 @@ canvas {
 .inner-post {
   h1 {
     font-size: 70px;
-    line-height: 70px;
+    line-height: 80px;
     margin-bottom: 50px;
   }
   h2 {
     font-size: 30px;
-    line-height: 30px;
+    line-height: 40px;
     margin-top: 20px;
     margin-bottom: 30px;
   }
@@ -788,6 +789,11 @@ canvas {
   #book-title {
     font-size: 40px !important;
   }
+  .book-details {
+    span {
+      font-size: 30px !important;
+    }
+  }
   .projects-list {
     li {
       a {
@@ -870,6 +876,23 @@ canvas {
   }
   .credits {
     padding: 20px !important;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .book-list {
+    li {
+      a {
+        ul {
+          li:first-child {
+            font-size: 20px;
+          }
+          li:last-child {
+            font-size: 15px;
+          }
+        }
+      }
+    }
   }
 }
 
@@ -1113,83 +1136,9 @@ nav.fill ul li a:hover:after {
   position: relative;
   height: auto;
   text-align: center;
-  ul {
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
-    list-style-type: none;
-    padding-left: 0;
-    li {
-      margin-top: 0px !important;
-      line-height: 10px;
-    }
-  }
-  [type="checkbox"] {
-    position: absolute;
-    left: -9999px;
-  }
-  label {
-    transition: color .5s ease;
-    letter-spacing: 1px;
-    width: 100%;
-    height: 20px;
-    cursor: pointer;
-    position: absolute;
-    top: 0;
-    transition: top .4s ease;
-    text-align: center;
-    text-align: center;
-    color: darken($white, 40);
-    margin: 0;
-    display: flex;
-    align-items: center;
-    &:before {
-      content: '';
-      text-align: right;
-      -webkit-box-flex: 1;
-      -moz-box-flex: 1;
-      -webkit-flex: 1;
-      -ms-flex: 1;
-      flex: 1;
-      height: 2px;
-      background: #eaeaea;
-      margin-right: 10px;
-    }
-    &:after {
-      content: '';
-      text-align: left;
-      -webkit-box-flex: 1;
-      -moz-box-flex: 1;
-      -webkit-flex: 1;
-      -ms-flex: 1;
-      flex: 1;
-      height: 2px;
-      background: #eaeaea;
-      margin-left: 10px;
-    }
-    &:hover {
-      color: $logo-color;
-      &:before {
-        background-color: $logo-color;
-      }
-      &:after {
-        background-color: $logo-color;
-      }
-    }
-  }
-  input[type="checkbox"] ~ ul {
-    width: 100%;
-    overflow: hidden;
-    max-height: 0;
-    transition: max-height .35s ease;
-  }
-  [type="checkbox"]:checked ~ ul {
-    max-height: 300px;
-    transition: max-height 1s ease;
-  }
-  [type="checkbox"]:checked + label {
-    top: 100%;
-    transition: top .4s ease;
+  span {
+    font-size: 2vw;
+    color: darken($logo-color, 20);
   }
 }
 

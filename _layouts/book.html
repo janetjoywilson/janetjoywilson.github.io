@@ -13,12 +13,9 @@ layout: default
       {% include navigation.html %}
       <h2 id="book-title">{{ page.title }}</h2>
       <div class="book-details">
-        <ul>
-          <li>{{ page.publisher }}</li>
-          <li>{{ page.isbn }}</li>
-        </ul>
+        <span>{{ page.author }}</span>
       </div>
-      <div class="date-highlight">&#x2756;</div>
+      <div class="date-highlight">{{ page.publisher }}</div>
       <div class="review">
         {{ content }}
       </div>
