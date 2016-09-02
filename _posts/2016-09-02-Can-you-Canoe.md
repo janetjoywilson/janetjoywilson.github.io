@@ -45,7 +45,7 @@ My lesson?  I can do it if I put my mind to it cuz I'm kinda stubborn and I love
 
 During the canoe trip Liz was talking about a teacher who loved [Thomas Hardy](https://interestingliterature.com/2015/02/23/the-best-thomas-hardy-novels/) and made the class read everything he'd ever written.  While she was telling this to another on the trail I had just had the thought about being far from the madding crowd which in turn carried me to a memory from 1987 when I went to [Thomas Hardy's cottage](https://www.nationaltrust.org.uk/hardys-cottage) in Dorset.
 
-Hardy took the title from Thomas Gray's poem [Elegy Written in a Country Churchyard](https://en.wikipedia.org/wiki/Elegy_Written_in_a_Country_Churchyard) (1751).
+Hardy took the title from Thomas Gray's poem [Elegy Written in a Country Churchyard](https://en.wikipedia.org/wiki/Elegy_Written_in_a_Country_Churchyard) (1751):
 
 Far from the madding crowd's ignogle strife
 Their sober wishes never learn'd to stray;
