@@ -19,8 +19,9 @@ I need this in my life. How do I know? It's easy, if I don’t get a regular inj
 ## ca·noe
 
 A canoe is a narrow, keelless boat with pointed ends, propelled by a paddle or paddles.
-I love using pedal power to move myself through the city on two wheels. The engineering is perfection! So sitting in a small boat I am awed by paddle power as two people use two pieces of wood to propel a canoe forward carrying two people and gear enough to house & feed oneself for days.
-It's truly amazing. No gas. No emissions. No carbon footprint. Yes to great views!
+I love using pedal power to move myself through the city on two wheels. The engineering is perfection! So sitting in this small boat I am awed by paddle power as two people use two pieces of wood to propel a canoe forward carrying two people and gear enough to house & feed oneself for days.
+
+During our trip we would share our favourite stories from Roy MacGregor's [Canoe Country](http://penguinrandomhouse.ca/books/217532/canoe-country#9780307361424) which I had given to Liz & Astrid last fall.
 
 ## ad·ven·ture
 
@@ -30,15 +31,19 @@ The 1250 m trail leading back into [Lady Evelyn Lake](https://www.ontarioparks.c
 
 ## the lesson
 
-What does one learn when you test yourself? In school we find out whether we've understood the lesson. In life we discover how far we can go. I tend to challenge myself physically. A few years ago it was skiing at Whistler. Two years ago it was rowing at the [Argonauts Rowing Club](http://www.argonautrowingclub.com/). That may not seem so challenging but for me who is not a swimmer I had to get into an eight without a life jacket and strap in my feet! Plus it feels like you're sitting on the water which is cool but also disconcerting!  
+What does one learn when you test yourself? In school we find out whether we've understood the lesson. In life we discover how far we can go. I tend to challenge myself physically.
 
-Side bar : I don't swim because I sink. I grew up on a farm near Lake Erie. We did not swim in the lake. I never had lessons. Anytime I went to friends' houses with a pool I usually almost drowned.  My confident level never had a chance to increase!  20 years ago when my son was born I enrolled in swimming lessons at the local pool. I have some technique but I don't have the strength nor belief for my survival swimming out in a lake. So I have to take a deep breath to go forward with activities I want to try like rowing or commit to participating in a canoe trip.
+A few years ago it was skiing at [Whistler](https://www.whistlerblackcomb.com/). This is challenging enough for someone from Ontario but I moved it up a few notches and took my son [Heli-Skiing](http://www.whistlerheliskiing.com/). WOW what an EXTRAordinary experience that was & I was not up to the skiing in mountain powder but I did it!
 
-My lesson?  I can do it.
+Two years ago it was rowing at the [Argonauts Rowing Club](http://www.argonautrowingclub.com/). That may not seem so challenging but for me who is not a swimmer I had to get into a four & an eight without a life jacket and strap my feet into shoes held in the boat! Plus it feels like you're sitting on the water which is cool but also disconcerting!  
+
+Side bar : I don't swim because I sink. I grew up on a farm near Lake Erie. We did not swim in the lake. I never had lessons. Anytime I went to friends' houses with a pool I usually almost drowned.  My confidence level never had a chance to increase!  20 years ago when my son was born I enrolled in swimming lessons at the local pool. I have some technique but I don't have the strength nor belief for my survival swimming out in a lake. So I have to take a deep breath to go forward with activities I want to try like rowing or commit to participating in a canoe trip.
+
+My lesson?  I can do it if I put my mind to it cuz I'm kinda stubborn and I love learning new things!
 
 ## far from the madding crowd
 
-During the canoe trip Liz was talking about a teacher who loved Thomas Hardy and made the class read everything he'd ever written.  While she was telling this to another on the trail I had just had the thought about being far from the madding crowd which in turn carried me to a memory from 1987 when I went to [Thomas Hardy's cottage](https://www.nationaltrust.org.uk/hardys-cottage) in Dorset.
+During the canoe trip Liz was talking about a teacher who loved [Thomas Hardy](https://interestingliterature.com/2015/02/23/the-best-thomas-hardy-novels/) and made the class read everything he'd ever written.  While she was telling this to another on the trail I had just had the thought about being far from the madding crowd which in turn carried me to a memory from 1987 when I went to [Thomas Hardy's cottage](https://www.nationaltrust.org.uk/hardys-cottage) in Dorset.
 
 Hardy took the title from Thomas Gray's poem [Elegy Written in a Country Churchyard](https://en.wikipedia.org/wiki/Elegy_Written_in_a_Country_Churchyard) (1751).
 
