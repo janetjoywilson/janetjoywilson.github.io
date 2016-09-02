@@ -47,12 +47,9 @@ During the canoe trip Liz was talking about a teacher who loved [Thomas Hardy](h
 
 Hardy took the title from Thomas Gray's poem [Elegy Written in a Country Churchyard](https://en.wikipedia.org/wiki/Elegy_Written_in_a_Country_Churchyard) (1751).
 
-Far from the madding crowd's ignoble strife
-
+Far from the madding crowd's ignogle strife
 Their sober wishes never learn'd to stray;
-
 Along the cool sequester'd vale of life
-
 They kept the noiseless tenor of their way.
 
 ## naturally yours
