@@ -21,7 +21,9 @@ I need this in my life. How do I know? It's easy, if I don’t get a regular inj
 A canoe is a narrow, keelless boat with pointed ends, propelled by a paddle or paddles.
 I love using pedal power to move myself through the city on two wheels. The engineering is perfection! So sitting in this small boat I am awed by paddle power as two people use two pieces of wood to propel a canoe forward carrying two people and gear enough to house & feed oneself for days.
 
-During our trip we would share our favourite stories from Roy MacGregor's [Canoe Country](http://penguinrandomhouse.ca/books/217532/canoe-country#9780307361424) which I had given to Liz & Astrid last fall.
+During our trip we talked about Roy MacGregor's [Canoe Country](http://penguinrandomhouse.ca/books/217532/canoe-country#9780307361424) which I had given to Liz & Astrid last fall as a pre-Christmas gift because books make the best presents!!
+
+Roy says in his introduction: "I love my canoe. Nothing in the material world has cost less to maintain and run; nothing has afforded me more opportunity to flee that world. In this age of fretting over our carbon footprint, how comforting is it to know that you not only don't require fuel but will not be spilling at the dock. ... For the canoe is as much a part of the Canadian landscape as the trees, rocks, the mountains, the rivers - and even the highways heading for essential escape."
 
 ## ad·ven·ture
 
