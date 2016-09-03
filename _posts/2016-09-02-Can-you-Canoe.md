@@ -54,7 +54,7 @@ Their sober wishes never learn'd to stray;
 Along the cool sequester'd vale of life
 They kept the noiseless tenor of their way.
 
-Did you know [Far from the Madding Crowd](https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd) written in 1874 and his fourth novel, has been made into a film four times! The most recent is a 2015 British-American romantic drama film directed by Thomas Vinterberg and starring Carey Mulligan, Matthias Schoenaerts, Michael Sheen, Tom Sturridge and Juno Temple. 
+Did you know [Far from the Madding Crowd](https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd) written in 1874 and his fourth novel, has been made into a film four times! The most recent is a 2015 British-American romantic drama film directed by Thomas Vinterberg and starring Carey Mulligan, Matthias Schoenaerts, Michael Sheen, Tom Sturridge and Juno Temple.
 
 ## naturally yours
 
@@ -64,7 +64,7 @@ I watched the sky and it's reflection in the lake change second by second becaus
 
 I was reminded of my time practising [Vipassana Meditation](http://www.torana.dhamma.org/) and the lesson I learned and repeat to myself is that the only constant is change. Vipassana is one of India's oldest techniques of meditation, first taught 2,500 years ago. It's a practical method of self-awareness that allows one to face the tensions and problems of daily life in a calm and balanced way. Being in the wilderness truly allows you time for self-awareness.
 
-## friendship
+## friend·ship
 
 Friendship is defined as a relationship of mutual affection between people. A World Happiness Database study found that people with close friendships are happier. Makes sense, eh?
 
