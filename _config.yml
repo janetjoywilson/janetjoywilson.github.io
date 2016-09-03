@@ -5,6 +5,8 @@ url: http://janetjoywilson.ca
 logo: logo.png                                       # Site logo
 locale: en_US
 
+google-analytics: UA-79717942-2
+
 # Jekyll
 permalink:          /:title/
 markdown:           kramdown

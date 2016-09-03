@@ -24,6 +24,8 @@ layout: default
     </div>
     {% include credits.html %}
   </div>
+  {% if jekyll.environment == 'production' %}
   {% include scripts.html %}
+  {% endif %}
   <script src="{{ site.url }}/assets/js/canvas.js"></script>
 </body>

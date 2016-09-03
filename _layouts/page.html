@@ -29,4 +29,7 @@ layout: default
     </div>
     {% include credits.html %}
   </div>
+  {% if jekyll.environment == 'production' %}
+  {% include scripts.html %}
+  {% endif %}
 </body>
