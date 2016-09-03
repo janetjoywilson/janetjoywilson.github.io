@@ -451,7 +451,7 @@ canvas {
         }
       }
       img {
-        transition: .5s ease-in-out;
+        transition: .5s ease-in-out 1s;
         float: left;
         margin-left: calc(50% - 75px);
         margin-right: 10px;
@@ -459,6 +459,7 @@ canvas {
         display: block;
       }
       ul {
+        transition: .01s ease-in-out .4s;
         text-align: center;
         transition: none;
         opacity: 0;
@@ -604,6 +605,7 @@ canvas {
     border: 1px solid rgba($white, 0.4);
     color: $white;
     font-size: 15px;
+    margin: 3px;
   }
   .section-line {
     color: $logo-color;
