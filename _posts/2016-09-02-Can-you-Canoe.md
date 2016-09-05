@@ -35,6 +35,8 @@ We had an unusual, exciting and hazardous, experience on [Lady Evelyn Lake](http
 The portages into the remote [Sugar Lake](http://mapcarta.com/24663560) were not maintained so it was rough, really rough!, but add a raintstorm and the rocks littering the path became treacherous.  We ended up cutting trees & branches on the trail so we could get the canoes through and walking slowly endeavouring to find a footing. The prize for a remote lake with rarely used trails is solitude. Priceless.
 The 1250 m trail leading back into [Lady Evelyn Lake](https://www.ontarioparks.com/park/ladyevelynsmoothwater) was particularly challenging with all variety of terrain. While carrying the canoe on the 2nd half of the trail I lost my footing and fell hard on my left shin and right knee cap. Thankfully Denise is a nurse and was behind me so she helped reduce the immediate shock I was in and assessed the damage. I was lucky I had on long pants so the scrap was superficial. The impact produced major swelling but I was able to stand up & walk to the end of the trail using my own power AND I didn't lose my sense of humour!!
 
+![Panorama Picture]({{ site.url }}/images/blog/panorama.jpg)
+
 ## the lesson
 
 What does one learn when you test yourself? In school we find out whether we've understood the lesson. In life we discover how far we can go. I tend to challenge myself physically.
