@@ -49,6 +49,8 @@ Side bar : I don't swim because I sink. I grew up on a farm near Lake Erie. We d
 
 My lesson?  I can do it if I put my mind to it cuz I'm kinda stubborn and I love learning new things!
 
+![map Picture]({{ site.url }}/images/blog/map.jpg)
+
 ## far from the madding crowd
 
 During the canoe trip Liz was talking about a teacher who loved [Thomas Hardy](https://interestingliterature.com/2015/02/23/the-best-thomas-hardy-novels/) and made the class read everything he'd ever written.  While she was telling this to another on the trail I had just had the thought about being [far from the madding crowd](https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd) which in turn carried me to a memory from 1987 during my 'post university Europe Bound trip' when I went to [Thomas Hardy's cottage](https://www.nationaltrust.org.uk/hardys-cottage) in Dorset.
