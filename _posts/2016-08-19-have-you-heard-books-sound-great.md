@@ -24,6 +24,8 @@ Did you know that as a Canadian with a print disability you have the right to ac
 
 I witnessed machines & robots producing One Use Only audiobooks that are mailed free to 4,500 clients DAILY by the Canada Post. Impressive to say the least.
 
+![CELA Picture]({{ site.url }}/images/blog/cela.jpg)
+
 I had a tour of the facility because I was participating in the [Cycling for Libraries] un-conference in Ontario – their first ever North American Tour!
 
 ![cyc4lib six Picture]({{ site.url }}/images/blog/cyc4lib six.jpg)
