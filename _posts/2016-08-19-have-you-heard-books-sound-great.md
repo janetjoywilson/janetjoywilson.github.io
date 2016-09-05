@@ -27,6 +27,7 @@ I witnessed machines & robots producing One Use Only audiobooks that are mailed 
 I had a tour of the facility because I was participating in the [Cycling for Libraries] un-conference in Ontario – their first ever North American Tour!
 
 ![cyc4lib six Picture]({{ site.url }}/images/blog/cyc4lib six.jpg)
+Six Nations Public Library 50th Anniversary Celebration
 
 ## what is [Cycling for Libraries]?
 
