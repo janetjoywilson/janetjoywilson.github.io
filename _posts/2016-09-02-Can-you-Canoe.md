@@ -16,6 +16,8 @@ tag:
 Wilderness is defined as an uncultivated, uninhabited, & inhospitable region.
 I need this in my life. How do I know? It's easy, if I don’t get a regular injection of nature I start swearing. A lot!
 
+![Wilderness Picture]({{ site.url }}/images/blog/wilderness.jpg)
+
 ## ca·noe
 
 A canoe is a narrow, keelless boat with pointed ends, propelled by a paddle or paddles.
@@ -25,11 +27,15 @@ During our trip we talked about Roy MacGregor's [Canoe Country](http://penguinra
 
 Roy says in his introduction: "I love my canoe. Nothing in the material world has cost less to maintain and run; nothing has afforded me more opportunity to flee that world. In this age of fretting over our carbon footprint, how comforting is it to know that you not only don't require fuel but will not be spilling at the dock. ... For the canoe is as much a part of the Canadian landscape as the trees, rocks, the mountains, the rivers - and even the highways heading for essential escape."
 
+![Canoe Picture]({{ site.url }}/images/blog/canoe.jpg)
+
 ## ad·ven·ture
 
 We had an unusual, exciting and hazardous, experience on [Lady Evelyn Lake](https://www.ontarioparks.com/park/ladyevelynsmoothwater) in Temagami on our second annual backcountry canoe trip Aug 25-29 2016.
 The portages into the remote [Sugar Lake](http://mapcarta.com/24663560) were not maintained so it was rough, really rough!, but add a raintstorm and the rocks littering the path became treacherous.  We ended up cutting trees & branches on the trail so we could get the canoes through and walking slowly endeavouring to find a footing. The prize for a remote lake with rarely used trails is solitude. Priceless.
 The 1250 m trail leading back into [Lady Evelyn Lake](https://www.ontarioparks.com/park/ladyevelynsmoothwater) was particularly challenging with all variety of terrain. While carrying the canoe on the 2nd half of the trail I lost my footing and fell hard on my left shin and right knee cap. Thankfully Denise is a nurse and was behind me so she helped reduce the immediate shock I was in and assessed the damage. I was lucky I had on long pants so the scrap was superficial. The impact produced major swelling but I was able to stand up & walk to the end of the trail using my own power AND I didn't lose my sense of humour!!
+
+![Panorama Picture]({{ site.url }}/images/blog/panorama.jpg)
 
 ## the lesson
 
@@ -42,6 +48,8 @@ Two years ago it was rowing at the [Argonauts Rowing Club](http://www.argonautro
 Side bar : I don't swim because I sink. I grew up on a farm near Lake Erie. We did not swim in the lake. I never had lessons. Anytime I went to friends' houses with a pool I usually almost drowned.  My confidence level never had a chance to increase!  20 years ago when my son was born I enrolled in swimming lessons at the local pool. I have some technique but I don't have the strength nor belief for my survival swimming out in a lake. So I have to take a deep breath to go forward with activities I want to try like rowing or commit to participating in a canoe trip.
 
 My lesson?  I can do it if I put my mind to it cuz I'm kinda stubborn and I love learning new things!
+
+![map Picture]({{ site.url }}/images/blog/map.jpg)
 
 ## far from the madding crowd
 
@@ -56,6 +64,8 @@ They kept the noiseless tenor of their way.
 
 Did you know [Far from the Madding Crowd](https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd) written in 1874 and his fourth novel, has been made into a film four times! The most recent is a 2015 British-American romantic drama film directed by Thomas Vinterberg and starring Carey Mulligan, Matthias Schoenaerts, Michael Sheen, Tom Sturridge and Juno Temple.
 
+![Morning Picture]({{ site.url }}/images/blog/morning.jpg)
+
 ## naturally yours
 
 Each morning I woke as the sun was rising which was approximately 6 o'clock. I greeted the morning alone. I would wade into the lake for a refreshing (chilly) welcome and dry off while practising yoga and stretched slowly from the night in the tent.
@@ -63,6 +73,8 @@ Each morning I woke as the sun was rising which was approximately 6 o'clock. I g
 I watched the sky and it's reflection in the lake change second by second because I was watching and I noticed. In the city it's challenging to slow down and take notice of the weather let alone the subtle changes in a breeze.
 
 I was reminded of my time practising [Vipassana Meditation](http://www.torana.dhamma.org/) and the lesson I learned and repeat to myself is that the only constant is change. Vipassana is one of India's oldest techniques of meditation, first taught 2,500 years ago. It's a practical method of self-awareness that allows one to face the tensions and problems of daily life in a calm and balanced way. Being in the wilderness truly allows you time for self-awareness.
+
+![Tarp Picture]({{ site.url }}/images/blog/tarp.jpg)
 
 ## friend·ship
 

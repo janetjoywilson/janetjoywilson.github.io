@@ -24,7 +24,12 @@ Did you know that as a Canadian with a print disability you have the right to ac
 
 I witnessed machines & robots producing One Use Only audiobooks that are mailed free to 4,500 clients DAILY by the Canada Post. Impressive to say the least.
 
+![CELA Picture]({{ site.url }}/images/blog/cela.jpg)
+
 I had a tour of the facility because I was participating in the [Cycling for Libraries] un-conference in Ontario – their first ever North American Tour!
+
+![cyc4lib six Picture]({{ site.url }}/images/blog/cyc4lib six.jpg)
+Six Nations Public Library 50th Anniversary Celebration
 
 ## what is [Cycling for Libraries]?
 
@@ -32,7 +37,7 @@ Founded in 2011, the [Cycling for Libraries] is an international cycling confere
 
 ## audiobooks
 
-I listened to a lot of audiobooks when my son was little because we’d play them on road trips. We learned all about muggles and wizards in each of the Harry Potter books (read them first then listened to the amazing and award-winning Jim Dale!) I have worked on learning Spanish off and on using [Living Language](http://www.livinglanguage.com/products/spanish/) but so far I won't get far with "me gusta mucho el color de las paredes"
+I listened to a lot of audiobooks when my son was little because we’d play them on road trips. We learned all about muggles and wizards in each of the Harry Potter books (read them first then [listened](http://www.audible.com/pd/Kids/Harry-Potter-and-the-Sorcerers-Stone-Book-1-Audiobook/B017V4IM1G/ref=a_mt_HarryP_c4_1_1_i?ie=UTF8&pf_rd_r=03JT1B1M4N9SZZKFX69D&pf_rd_m=A2ZO8JX97D5MN9&pf_rd_t=101&pf_rd_i=HarryPotterAudio&pf_rd_p=2292811862&pf_rd_s=center-4) to the amazing and award-winning Jim Dale!) I have worked on learning Spanish off and on using [Living Language](http://www.livinglanguage.com/products/spanish/) but so far I won't get far with "me gusta mucho el color de las paredes"
 
 For those of us who work with words, here are some numbers that impress me:
 audio increases reading accuracy by 52% and improves comprehension by 76% !!
