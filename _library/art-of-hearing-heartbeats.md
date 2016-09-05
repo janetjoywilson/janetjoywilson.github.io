@@ -14,7 +14,7 @@ A poignant and inspirational love story set in Burma, The Art of Hearing Heartbe
 
 “An epic narrative that requires…a large box of tissues.” —Publishers Weekly
 
-This is a perfect pick for a Book Club! Take a look at the Reading Guide [here](http://penguinrandomhouse.ca/books/209944/the-art-of-hearing-heartbeats-by-jan-philipp-sendker/reading-guide).
+This is a perfect pick for a Book Club! Take a look at the [Reading Guide here](http://penguinrandomhouse.ca/books/209944/the-art-of-hearing-heartbeats-by-jan-philipp-sendker/reading-guide).
 
 I love love love this novel and wrote lots about it on the [TMS Book Club page](http://penguinrandomhouse.ca/programs/tms-book-club/blog/he-loved-and-was-loved).
 
