@@ -17,4 +17,4 @@ Be brave enough to break your own heart.
 You can't ride to the fair unless you get on the pony.
 Ask yourself: What is the best I can do? And then do that.
 
-I think is the perfect gift for all your friends in any stage of their life.
+I think this is the perfect gift for all your friends in any stage of their life.
