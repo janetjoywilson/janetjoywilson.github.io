@@ -27,6 +27,8 @@ During our trip we talked about Roy MacGregor's [Canoe Country](http://penguinra
 
 Roy says in his introduction: "I love my canoe. Nothing in the material world has cost less to maintain and run; nothing has afforded me more opportunity to flee that world. In this age of fretting over our carbon footprint, how comforting is it to know that you not only don't require fuel but will not be spilling at the dock. ... For the canoe is as much a part of the Canadian landscape as the trees, rocks, the mountains, the rivers - and even the highways heading for essential escape."
 
+![Canoe Picture]({{ site.url }}/images/blog/canoe.jpg)
+
 ## ad·ven·ture
 
 We had an unusual, exciting and hazardous, experience on [Lady Evelyn Lake](https://www.ontarioparks.com/park/ladyevelynsmoothwater) in Temagami on our second annual backcountry canoe trip Aug 25-29 2016.
