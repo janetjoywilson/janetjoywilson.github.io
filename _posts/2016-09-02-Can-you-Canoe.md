@@ -68,11 +68,11 @@ Did you know [Far from the Madding Crowd](https://en.wikipedia.org/wiki/Far_from
 
 ## naturally yours
 
-Each morning I woke as the sun was rising which was approximately 6 o'clock. I greeted the morning alone. I would wade into the lake for a refreshing (chilly) welcome and dry off while practising yoga and stretched slowly from the night in the tent.
+Each morning I woke as the sun was rising which was approximately 6 o'clock. I greeted the morning alone. I would wade into the lake for a refreshing (chilly) welcome and dry off while practicing yoga and stretched slowly from the night in the tent.
 
-I watched the sky and it's reflection in the lake change second by second because I was watching and I noticed. In the city it's challenging to slow down and take notice of the weather let alone the subtle changes in a breeze.
+I watched the sky and its reflection in the lake change second by second because I was watching and I noticed. In the city it's challenging to slow down and take notice of the weather let alone the subtle changes in a breeze.
 
-I was reminded of my time practising [Vipassana Meditation](http://www.torana.dhamma.org/) and the lesson I learned and repeat to myself is that the only constant is change. Vipassana is one of India's oldest techniques of meditation, first taught 2,500 years ago. It's a practical method of self-awareness that allows one to face the tensions and problems of daily life in a calm and balanced way. Being in the wilderness truly allows you time for self-awareness.
+I was reminded of my time practicing [Vipassana Meditation](http://www.torana.dhamma.org/) and the lessons I learned. One that I repeat to myself is that the only constant is change. Vipassana is one of India's oldest techniques of meditation, first taught 2,500 years ago. It's a practical method of self-awareness that allows one to face the tensions and problems of daily life in a calm and balanced way. Being in the wilderness truly allows you time for self-awareness.
 
 ![Tarp Picture]({{ site.url }}/images/blog/tarp.jpg)
 
