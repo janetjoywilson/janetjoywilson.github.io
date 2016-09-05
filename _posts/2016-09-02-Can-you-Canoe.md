@@ -16,6 +16,8 @@ tag:
 Wilderness is defined as an uncultivated, uninhabited, & inhospitable region.
 I need this in my life. How do I know? It's easy, if I don’t get a regular injection of nature I start swearing. A lot!
 
+[Wilderness Picture]({{ site.url }}/images/blog/wilderness.jpg)
+
 ## ca·noe
 
 A canoe is a narrow, keelless boat with pointed ends, propelled by a paddle or paddles.
