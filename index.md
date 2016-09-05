@@ -12,6 +12,6 @@ i read too much (you can never read too much!)
 
 i love ice cream
 
-you've come to my place where i will share my favourite books, places to ride a bicycle and silly alliterations with you
+you've arrived here to a place where i'll share my favourite books, places to ride a bicycle, adventures in nature and suggestions to try something different.
 
-come along for a never ending story
+come with me for a never ending story called life.
