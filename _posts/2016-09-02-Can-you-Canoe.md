@@ -74,6 +74,8 @@ I watched the sky and it's reflection in the lake change second by second becaus
 
 I was reminded of my time practising [Vipassana Meditation](http://www.torana.dhamma.org/) and the lesson I learned and repeat to myself is that the only constant is change. Vipassana is one of India's oldest techniques of meditation, first taught 2,500 years ago. It's a practical method of self-awareness that allows one to face the tensions and problems of daily life in a calm and balanced way. Being in the wilderness truly allows you time for self-awareness.
 
+![Tarp Picture]({{ site.url }}/images/blog/tarp.jpg)
+
 ## friend·ship
 
 Friendship is defined as a relationship of mutual affection between people. A World Happiness Database study found that people with close friendships are happier. Makes sense, eh?
