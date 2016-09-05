@@ -415,21 +415,42 @@ canvas {
       border: none;
     }
     a {
-      transition: .5s ease-in-out;
+      transition: 0s 2s;
       overflow: auto;
       height: 100%;
       display: block;
       border: 1px solid white;
       color: darken($logo-color, 20);
+      img {
+        transition: 0s 2s;
+        float: left;
+        margin-left: calc(50% - 75px);
+        margin-right: 10px;
+        width: 150px;
+        display: block;
+      }
+      ul {
+        transition: 0s 2s;
+        text-align: center;
+        transition: none;
+        opacity: 0;
+        width: 0;
+        height: 0;
+        font-size: 0;
+        float: left;
+        vertical-align: top;
+        list-style: none;
+        letter-spacing: 1px;
+      }
       &:hover {
         color: darken($logo-color, 20);
         border: 1px solid $logo-color;
         img {
-          transition: .4s ease-in-out;
+          transition: 0s 0s;
           margin-left: 0px;
         }
         ul {
-          transition: .01s ease-in-out .4s;
+          transition: 0s 0s;
           font-size: 2vw;
           opacity: 1;
           width: calc(100% - 160px);
@@ -449,27 +470,6 @@ canvas {
             }
           }
         }
-      }
-      img {
-        transition: .5s ease-in-out 1s;
-        float: left;
-        margin-left: calc(50% - 75px);
-        margin-right: 10px;
-        width: 150px;
-        display: block;
-      }
-      ul {
-        transition: .01s ease-in-out .4s;
-        text-align: center;
-        transition: none;
-        opacity: 0;
-        width: 0;
-        height: 0;
-        font-size: 0;
-        float: left;
-        vertical-align: top;
-        list-style: none;
-        letter-spacing: 1px;
       }
     }
   }
