@@ -18,10 +18,9 @@ layout: default
         <li>
           <a href="{{ site.url }}{{ book.url }}">
             <img src="{{ site.url }}/images/covers/{{ book.image }}" />
-            <ul>
-              <li>{{ book.title }}</li>
-              <li>{{ book.author }}</li>
-            </ul>
+            <h4>{{ book.title }}</h4>
+            <br />
+            <h6>{{ book.author }}</h6>
           </a>
         </li>
       {% endfor %}
