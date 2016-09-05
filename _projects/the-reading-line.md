@@ -1,5 +1,6 @@
 ---
 layout: project
 title: The Reading Line
-link: http://www.thereadingline.ca
+link: http://thereadingline.github.io
+weight: 2
 ---

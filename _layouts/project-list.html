@@ -13,10 +13,12 @@ layout: default
     <div class="content">
       {% include navigation.html %}
       <ul class="projects-list">
-      {% for project in site.projects %}
+      {% assign sorted = (site.projects | sort: 'weight') %}
+      {% for project in sorted %}
         <li>
-          <a href="{{ project.link }}" target="_blank">
-              <span>{{ project.title }}</span>
+          <a href="{{ project.link }}" target="_blank" style="letter-spacing:1px;">
+            <span style="margin-bottom:20px;">{{ project.title }}</span>
+            {{ project.content }}
           </a>
         </li>
       {% endfor %}
