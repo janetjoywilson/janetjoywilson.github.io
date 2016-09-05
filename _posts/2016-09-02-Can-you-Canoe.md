@@ -64,6 +64,8 @@ They kept the noiseless tenor of their way.
 
 Did you know [Far from the Madding Crowd](https://en.wikipedia.org/wiki/Far_from_the_Madding_Crowd) written in 1874 and his fourth novel, has been made into a film four times! The most recent is a 2015 British-American romantic drama film directed by Thomas Vinterberg and starring Carey Mulligan, Matthias Schoenaerts, Michael Sheen, Tom Sturridge and Juno Temple.
 
+![Morning Picture]({{ site.url }}/images/blog/morning.jpg)
+
 ## naturally yours
 
 Each morning I woke as the sun was rising which was approximately 6 o'clock. I greeted the morning alone. I would wade into the lake for a refreshing (chilly) welcome and dry off while practising yoga and stretched slowly from the night in the tent.
