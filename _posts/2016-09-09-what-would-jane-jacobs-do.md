@@ -73,9 +73,11 @@ I was reflecting on when I first heard about Jane Jacobs. It was on a Jane’s W
 
 [Jane100](http://www.jane100.com/) number 1300 walks (2015 data) in 189 cities across 6 continents and will continue to grow as it is about ordianary people sharing what they know about their community. She said “every perspective is important to building a vibrant and healthy city.” It’s a community based approach to city building!
 
-I had the opportunity to talk about Jane Jacob's on Global TV The Morning Show in May 2016, [here it is](http://globalnews.ca/video/2713606/tms-may-book-picks%20).  Did you like my tshirt? The super cool What Would Jane Jacobs Do? tshirt is available in person or online at the [Spacing Store](https://spacingstore.ca/) in downtown Toronto.
+I had the opportunity to talk about Jane Jacob's on Global TV The Morning Show in May 2016, [here it is](http://globalnews.ca/video/2713606/tms-may-book-picks%20).  Amanda and I cycled around the Annex and said thank you to this extraordinary ordinary woman.
 
-I hope that I’ve inspired you to read something Jane Jacobs wrote or go on a [Jane's Walk](http://www.jane100.com/)  this year to celebrate #Jane100[Jane100](http://www.jane100.com/).
+![Jane Jacobs home Picture]({{ site.url }}/images/blog/janejacobs home.JPG)
+
+I hope that I’ve inspired you to read something Jane Jacobs wrote or go on a [Jane's Walk](http://www.jane100.com/)  this year to celebrate [Jane100](http://www.jane100.com/).
 
 ![Jane Jacobs 4 Picture]({{ site.url }}/images/blog/janejacobs bikefamily.jpg)
 
