@@ -17,6 +17,8 @@ To mark what would have been Jane Jacob’s centenary, [Jane100](http://www.jane
 
 You can ask me what will I do and I’ll tell you that I went to the World Premiere of Matt Tyrnauer’s gripping new documentary “Citizen Jane: Battle for the City” today! It was screened as part of [TIFF](http://www.tiff.net/) (Toronto International Film Festival) at what was her neighbourhood cinema, [the Bloor](http://www.hotdocscinema.ca/) in the Annex.”.
 
+![Jane Jacobs Picture]({{ site.url }}/images/blog/janejacobs annex.jpg)
+
 “What brought me to the story was Jacobs,” Tyrnauer told [Variety](http://variety.com/2016/film/markets-festivals/citizen-jane-director-on-jane-jacobs-heroism-and-why-robert-moses-is-like-trump-1201855048/). “She was a bad ass who used the power of the pen and the force of her intellect in a brilliant and heroic way that was way ahead of her time.”
 
 Along with this somewhat passive activity albeit it got me worked up, this year my passion project with Amanda Lewis aptly named [The Reading Line](https://thereadingline.github.io/) celebrated [Jane100](http://www.jane100.com/). We took inspiration from this extraordinary woman for our #BookRide called Books On Bathurst. It was like a [Jane100](http://www.jane100.com/) but on two wheels!
@@ -75,7 +77,7 @@ I had the opportunity to talk about Jane Jacob's on Global TV The Morning Show i
 
 I hope that I’ve inspired you to read something Jane Jacobs wrote or go on a [Jane's Walk](http://www.jane100.com/)  this year to celebrate #Jane100[Jane100](http://www.jane100.com/).
 
-![Jane Jacobs 4 Picture]({{ site.url }}/images/blog/janejacobs eyeglass.jpg)
+![Jane Jacobs 4 Picture]({{ site.url }}/images/blog/janejacobs bikefamily.jpg)
 
 RIP  Jane Jacobs  
 May 4, 1916 - April 25, 2006
