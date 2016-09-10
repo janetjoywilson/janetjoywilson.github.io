@@ -15,7 +15,7 @@ tag:
 
 To mark what would have been Jane Jacob’s centenary, [Jane100](http://www.jane100.com/) is a year-long celebration inviting you to attend an event that brings Jane’s ideas to life - be it a book club, a block party, a film screening or a day of community design.  From May 2016 to May 2017, [Jane100](http://www.jane100.com/) will animate Toronto with 100 events that will engage citizens in dialogue, action and the spirit of Jane.  What will you do?
 
-You can ask me what will I do and I’ll tell you that I went to the World Premiere of Matt Tyrnauer’s gripping new documentary “Citizen Jane: Battle for the City” today! It was screened as part of [TIFF](http://www.tiff.net/) (Toronto International Film Festival) at what was her neighbourhood cinema, [the Bloor](http://www.hotdocscinema.ca/) in the Annex.”.
+You can ask me what will I do and I’ll tell you that I went to the World Premiere of Matt Tyrnauer’s gripping new documentary “Citizen Jane: Battle for the City” today! It was screened as part of [TIFF](http://www.tiff.net/) (Toronto International Film Festival) at what was her neighbourhood cinema, [the Bloor](http://www.hotdocscinema.ca/) in the Annex.
 
 ![Jane Jacobs Picture]({{ site.url }}/images/blog/janejacobs annex.jpg)
 
@@ -37,13 +37,15 @@ Nathan Storring, one of the editors of [Vital Little Plans](https://www.chapters
 
 [Melville House Books](http://www.mhpbooks.com/) continuing series [THE LAST INTERVIEW](http://www.mhpbooks.com/books/jane-jacobs-the-last-interview/) now includes Jane Jacobs.  The last recorded interview was from May 2, 2005.  The collection of conversations brilliantly illuminates her writings on urban life, economics, and politics along with her personal commitment to activism.
 
-And there is the first major biography on Jane Jacobs called [Eyes on the Street: The Life of Jane Jacobs](https://www.chapters.indigo.ca/en-ca/books/eyes-on-the-street-the/9780307961907-item.html) by Robert Kanigel available September 20th, 2016.
+There's more! The first major biography on Jane Jacobs called [Eyes on the Street: The Life of Jane Jacobs](https://www.chapters.indigo.ca/en-ca/books/eyes-on-the-street-the/9780307961907-item.html) by Robert Kanigel will be available September 20th, 2016. Make sure you open the book to see a map of Toronto on the endpapers. it's a beautiful edition with lots about her time in Toronto (she did live here for 40 years!)
 
 ![Jane Jacobs 3 Picture]({{ site.url }}/images/blog/janejacobs collage.jpg)
 
-In the spring I visited the [JANE AT HOME](http://www.urbanspacegallery.ca/exhibits/jane-home) exhibit described as “The ordinary life of an extraordinary woman.” curated by Jane’s son Jim Jacobs and Caitlin Broms-Jacobs at the [Urbanscape Gallery](http://www.urbanspacegallery.ca/) at 401 Richmond, where the [Spacing Store](https://spacingstore.ca/) is located. I’m sorry to say that the short-run exhibit closed, as it was so insightful.
+In the spring of 2016 I visited the [JANE AT HOME](http://www.urbanspacegallery.ca/exhibits/jane-home) exhibit described as “The ordinary life of an extraordinary woman.” curated by Jane’s son Jim Jacobs and Caitlin Broms-Jacobs at the [Urbanscape Gallery](http://www.urbanspacegallery.ca/) at 401 Richmond, where the [Spacing Store](https://spacingstore.ca/) is located. I’m sorry to say that the short-run exhibit closed, as it was so insightful.
 
-Jane Jacobs encouraged us to stay engaged with our community, whether it’s a big city or a small town. WHO WAS JANE JACOBS? is a list I pulled directly from [Jane100](http://www.jane100.com/) as it’s a great reminder of what Jane Jacobs believed in and gave to us:
+Jane Jacobs encouraged us to stay engaged with our community, whether it’s a big city or a small town.
+
+WHO WAS JANE JACOBS? is a list I pulled directly from [Jane100](http://www.jane100.com/) as it’s a great reminder of what Jane Jacobs believed in and gave to us:
 
 1.	Eyes on the Street: Pedestrian traffic throughout the day, and the watchful eyes that come with it, enhance the safety of city streets.
 
