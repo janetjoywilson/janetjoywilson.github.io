@@ -2,7 +2,7 @@
 layout: post
 title: If music be the food of love
 date: 2016-09-16  
-excerpt: "music and bicycles were a perfect pitch"
+excerpt: "music and bicycles had perfect pitch"
 tag:
 - music
 - bicycles
@@ -16,9 +16,13 @@ The 7th annual [Toronto Bicycle Musical Festival](http://torontobicyclemusicfest
 
 I live in the west end of Toronto so I began my journey east to the [Evergreen Brick Works](https://www.evergreen.ca/get-involved/evergreen-brick-works/) at 10 am. I brought and ended up wearing my [Cleverhood](http://www.cleverhood.com/) that I purchased (I think of it as an investment as I ride in all weather & this is expensive) at the [Spacing Store](https://spacingstore.ca/) in the spring. Little did I know that I would receive multiple compliments on the styling of my [Electric Houndstooth Rain Cape](https://spacingstore.ca/products/cleverhood-cycling-rain-cape-electric-houndstooth). One of the details that I love best about this rain cape is its hidden reflective thread. Plus it's breathable unlike my rain jacket that I can't wear on a hot day.
 
+![cleverhood Picture]({{ site.url }}/images/blog/cleverhood.jpg)
+
 The year-round and largest [Farmer's Market](https://www.evergreen.ca/get-involved/evergreen-brick-works/farmers-market/)in Toronto was still in full swing at the [Evergreen Brick Works](https://www.evergreen.ca/get-involved/evergreen-brick-works/) at the start of the Festival which meant a lot of people under the roof but also a full parking lot of cars. This proved problematic when the group exited the site.
 
 But first the music that made the rain stop!  There were two bands that began the set with music that you could not help but dance! Toronto's [YUKA](http://yuka.ca/) and the [Heavyweights Brass Band](http://www.heavyweightsbrassband.com/) complete with a TUBA, were both fantastic!
+
+![PedalPower Picture]({{ site.url }}/images/blog/pedalpower.jpg)
 
 ## pedal power
 
@@ -32,6 +36,8 @@ I should return to the festival ... at noon we all gathered and waited while the
 
 The route from the trail to [Prairie Drive Park](https://www.kidsprograms.ca/location/prairie-drive-park-of-city-of-toronto/) included some side streets until we reached Pharmacy Avenue in Scarborough. I have to say I've never cycled in Scarborough! It wasn't as bad as I imagined albeit I was in a group of 100+ cyclists all taking the lane.
 
+![Prairie Park Picture]({{ site.url }}/images/blog/prairieparkdrive.jpg)
+
 By this time, the clouds had cleared and the heat was turned up aided by [Nhapitapi](https://soundcloud.com/nhapitapi) and the [Girls Rock Camp](http://www.girlsrocktoronto.org/). The Festival had three food vendors on hand including my favourite... [Dovercourt Village Pizza Company](http://www.villagepizzato.com/) who brought two kinds of delish za!
 
 ## If music be the food of love, play on; Give me excess of it, that surfeiting, The appetite may sicken, and so die."
@@ -39,6 +45,8 @@ By this time, the clouds had cleared and the heat was turned up aided by [Nhapit
 Music plays an important in the plays of Shakespeare and is often used to carry the plot. The quote above is spoken by Orsino because he is frustrated in his courtship of Countess Olivia. He muses that an excess of music could cure his obsession with love as eating removes your appetite for food.
 
 I was thankful that not only had the [Toronto Bicycle Musical Festival](http://torontobicyclemusicfestival.com/) provided an ongoing musical program but there was food to satisfy my hunger! BUT by three o'clock I had run out of steam. I had cycled 24 KM and still had to get home. My hardworking friends at [Scarborough Cycles](http://www.scarboroughcycles.ca/) suggested a route for as I didn't want to go back the same way. So I put on my cloak of confidence and cycled south on Pharmacy Ave alone, west on Danforth and south on Victoria Park Ave which was originally a pioneer road for the settlement of Scarborough. This took me south to Queen Street East and access to the [Martin Goodman Trail](http://www.waterfrontoronto.ca/explore_projects2/the_wider_waterfront/martin_goodman_trail) which was named in memory of the former President and Editor-in-Chief of the Toronto Star who passed away in 1981. I love cycling alongside Lake Ontario but it was NOT tranquil that day as the wind had increased and a storm was a brewing along with the heat!
+
+![trail Picture]({{ site.url }}/images/blog/martingoodmantrail.jpg)
 
 ## frappuccino
 
