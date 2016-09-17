@@ -15,7 +15,8 @@ layout: default
     {% include navigation.html %}
     {% include library-filter.html %}
     {% for category in site.data.categories %}
-    <h2 id="{{ category }}"><a href="#{{ category }}">{{ category }}</a></h2>
+    <div class="date-highlight">&#x2756;</div>
+    <h2 id="{{ category }}" class="category-title"><a href="#{{ category }}">{{ category | upcase }}</a></h2>
     <ul class="book-list">
     {% for book in site.library %}
     {% if book.categories contains category %}
