@@ -2,13 +2,15 @@
 layout: page
 title: Library Catalogs
 description: "The Library cataloged by type of book"
-permalink: /catalog/
+permalink: /library/catalog/
 ---
-<ul class="entry-meta">
+
+<ul class="categories">
+  <li><a href="{{ site.url }}/library/">All</a></li>
   {% for category in site.data.categories %}
-    <li><a href="{{ site.url }}/catalog/#{{ category }}" class="category">{{ category }}</a></li>
-    {% unless forloop.last %}
-    {% endunless %}
+  <li><a href="{{ site.url }}/library/catalog/#{{ category }}">{{ category }}</a></li>
+  {% unless forloop.last %}
+  {% endunless %}
   {% endfor %}
 </ul>
 
