@@ -4,7 +4,7 @@ title: What would Jane Jacobs do?
 date: 2016-09-09  
 excerpt: "it's hard to disagree with Jane Jacobs"
 tag:
-- Jane Jacobs
+- jane jacobs
 - books
 - bicycles
 - urban planning
