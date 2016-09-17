@@ -6,9 +6,9 @@ image: fugitive-pieces.jpg
 isbn: 9780771058820
 publisher: Penguin Random House Canada
 ---
-A New York Times Notable Book of the Year
-Winner of the Lannan Literary Fiction Award
-Winner of the Guardian Fiction Award
+## A New York Times Notable Book of the Year
+## Winner of the Lannan Literary Fiction Award
+## Winner of the Guardian Fiction Award
 
 In 1940 a boy bursts from the mud of a war-torn Polish city, where he has buried himself to hide from the soldiers who murdered his family. His name is Jakob Beer. He is only seven years old. And although by all rights he should have shared the fate of the other Jews in his village, he has not only survived but been rescued by a Greek geologist, who does not recognize the boy as human until he begins to cry. With this electrifying image, [Anne Michaels](http://canpoetry.library.utoronto.ca/michaels/) ushers us into her rapturously acclaimed novel of loss, memory, history, and redemption.
 
