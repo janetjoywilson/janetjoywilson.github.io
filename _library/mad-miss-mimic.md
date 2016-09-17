@@ -11,7 +11,7 @@ It’s London in 1872. Our central character is Leonora Sommerville who belongs 
 
 [Sarah Henstra](http://penguinrandomhouse.ca/authors/273425/sarah-henstra) has researched and taken historical facts to blend a love story, mystery and thriller during a time period blurred by opium fever.
 
-The National Reading Campaign, Children's Book Reviews said "With a star-crossed romance, well-researched historical detail, and a conspiracy run by a mysterious syndicate, Henstra's first novel is guaranteed entertainment."
+[The National Reading Campaign](http://www.nationalreadingcampaign.ca/), Children's Book Reviews said "With a star-crossed romance, well-researched historical detail, and a conspiracy run by a mysterious syndicate, Henstra's first novel is guaranteed entertainment."
 
 The Globe Mail's recommendation was "This is the perfect beach read for that teen who got an A in History (and would rather stay inside watching Downton Abbey than go to the beach in the first place)."
 
