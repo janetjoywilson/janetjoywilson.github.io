@@ -2,16 +2,22 @@
 layout: home
 ---
 
-# hello
+# Janet Joy Wilson
 
-my life is an open book
+#### {{ site.about }}
 
-i say too much
+Welcome to my website! My life is an open book.
 
-i read too much (you can never read too much!)
+This is where I will share a whole bunch of things:
 
-i love ice cream
+### My [favourite books]({{ site.url }}/library/)
 
-you've arrived here to a place where i'll share my favourite books, places to ride a bicycle, adventures in nature and suggestions to try something different.
+### [Adventures]({{ site.url }}/blog/) in nature
 
-come with me for a never ending story called life.
+### Places to [ride a bicycle]({{ site.url }}/blog/)
+
+### [Suggestions]({{ site.url }}/blog/) to try something different ...
+
+<br />
+
+So come along with me for a never ending story called life!
