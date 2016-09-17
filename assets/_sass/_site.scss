@@ -404,64 +404,6 @@ canvas {
   }
 }
 
-.book-list {
-  margin: 50px 0;
-  > li {
-    margin-bottom: 23px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid darken($white, 8.2353);
-    list-style: none;
-    &:last-child {
-      border: none;
-    }
-    a {
-      transition: 0.4s ease-in-out 10s;
-      overflow: auto;
-      height: 100%;
-      display: block;
-      border: 1px solid white;
-      color: darken($logo-color, 20);
-      text-align: center;
-      img {
-        transition: 0.4s ease-in-out 10s;
-        float: left;
-        margin-left: calc(50% - 75px);
-        margin-right: 10px;
-        width: 150px;
-        display: block;
-      }
-      h4, h6 {
-        transition: 0s ease-in-out 10s;
-        visibility: hidden;
-        letter-spacing: 2px;
-        font-size: 1px;
-      }
-      &:hover {
-        transition: 0.3s ease-in-out 0s;
-        color: darken($logo-color, 20);
-        border: 1px solid $logo-color;
-        img {
-          transition: 0.3s ease-in-out 0s;
-          margin-left: 0px;
-        }
-        h4, h6 {
-          transition: 0s ease-in-out 0.3s;
-          transition: 0s font-size 0.2s;
-          visibility: visible;
-        }
-        h4 {
-          margin-top: 4%;
-          font-size: 30px;
-        }
-        h6 {
-          margin-top: 0;
-          font-size: 15px;
-        }
-      }
-    }
-  }
-}
-
 .posts-list {
   margin: 50px 0;
   > li {
@@ -728,37 +670,6 @@ canvas {
     left: 0!important;
     margin: auto;
   }
-  .book-list {
-    > li {
-      a {
-        border: 1px solid $logo-color;
-        img {
-          margin-left: 0px;
-        }
-        h4, h6 {
-          visibility: visible;
-        }
-        h4 {
-          margin-top: 7%;
-          font-size: 35px;
-        }
-        h6 {
-          margin-top: 0;
-          font-size: 20px;
-        }
-        &:hover {
-          h4 {
-            margin-top: 7%;
-            font-size: 35px;
-          }
-          h6 {
-            margin-top: 0;
-            font-size: 20px;
-          }
-        }
-      }
-    }
-  }
   #book-title {
     font-size: 40px !important;
   }
@@ -849,29 +760,6 @@ canvas {
   }
   .credits {
     padding: 20px !important;
-  }
-}
-
-@media screen and (max-width: 450px) {
-  .book-list {
-    li {
-      a {
-        h4 {
-          font-size: 25px;
-        }
-        h6 {
-          font-size: 15px;
-        }
-        &:hover {
-          h4 {
-            font-size: 25px;
-          }
-          h6 {
-            font-size: 15px;
-          }
-        }
-      }
-    }
   }
 }
 
@@ -1137,6 +1025,7 @@ nav.fill ul li a:hover:after {
   padding-left: 0!important;
   list-style-type: none;
   color: $logo-color;
+  text-align: center;
   li {
     display: inline-block;
     margin-right: 15px;
@@ -1161,4 +1050,66 @@ nav.fill ul li a:hover:after {
   text-align: center;
   letter-spacing: 3px;
   font-size: 2em;
+}
+
+.book-list {
+  padding-left: 0;
+  list-style-type: none;
+  li {
+    margin-top: 40px;
+    border: 1px solid white;
+    overflow: auto;
+    img {
+      width: 20%;
+      margin-right: 5%;
+      display: inline-block;
+      float: left;
+    }
+    h3 {
+      display: inline-block;
+      vertical-align: top;
+      color: black;
+      width: 75%;
+    }
+    p {
+      display: inline-block;
+      width: 75%;
+      margin-bottom: 0;
+    }
+    &:hover {
+      border: 1px solid $logo-color;
+    }
+  }
+}
+
+#search-bar {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#search-bar input[type=text] {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 5px 0;
+  padding: 10px;
+  border-radius: 4px;
+  outline: none;
+  border: 1px solid black;
+  &:focus {
+    border: 1px solid $logo-color;
+  }
+}
+
+#search-bar input[type=button], input[type=submit], input[type=reset] {
+  margin: 5px 0;
+  background-color: darken($logo-color, 20);
+  text-decoration: none;
+  padding: 5px;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  letter-spacing: 2px;
+  width: 50%;
+  border-radius: 4px;
+  cursor: pointer;
 }

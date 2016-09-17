@@ -11,17 +11,17 @@ layout: default
   </div>
 
   <div class="block-right">
-    <div class="content">
+    <div class="inner-post content">
     {% include navigation.html %}
+    {% include search-bar.html %}
     {% include library-filter.html %}
       <ul class="book-list">
       {% for book in site.library %}
         <li>
           <a href="{{ site.url }}{{ book.url }}">
             <img src="{{ site.url }}/images/covers/{{ book.image }}" />
-            <h4>{{ book.title }}</h4>
-            <br />
-            <h6>{{ book.author }}</h6>
+            <h3>{{ book.title }}</h4>
+            <p>{{ book.content | strip_html | strip_newlines | truncate: 150 }}</p>
           </a>
         </li>
       {% endfor %}
