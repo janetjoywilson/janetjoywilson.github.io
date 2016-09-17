@@ -13,7 +13,7 @@ This is a charming, funny, tender, fresh, moving, poignant and sunny novel which
 
 I had the pleasure of having a remote conversation with the author, Marie-Sabine Roger.  Please take the time to count the pigeons and read her eloquent responses to my questions.
 
-# What was the inspiration for this novel?  Do you know someone like Germain or Marguerite?
+### What was the inspiration for this novel?  Do you know someone like Germain or Marguerite?
 
  I was a teacher for around ten years, just after my first books for children were published.
 
@@ -23,7 +23,7 @@ I worked with very young children (from 4 to 11 years old) and most of the schoo
 
 
 
-# This is your first novel to be a bestseller that was then made into a movie and now translated into English!! Did you anticipate any of this? What has surprised you most about the success of this novel?
+### This is your first novel to be a bestseller that was then made into a movie and now translated into English!! Did you anticipate any of this? What has surprised you most about the success of this novel?
 
  “Surprised” doesn’t even come close!
 
@@ -37,7 +37,7 @@ And now the miracle continues with this English translation! (It really is a mir
 
 
 
-# To translate your work into English takes a leap of faith unless you know the translator and/or are fairly fluent in English. Did you choose the translator & work with them yourself or did you have to trust others?
+### To translate your work into English takes a leap of faith unless you know the translator and/or are fairly fluent in English. Did you choose the translator & work with them yourself or did you have to trust others?
 
  It’s very important for an author to know that their book has been translated in a way that’s faithful to the original. Translation is a very intimate act, actually. With a film adaptation you know the director and screenwriter are going to highlight certain parts of the book and leave out others, maybe even going so far as to invent scenes from scratch if they think the film needs it. But a translation puts the author’s words in someone else’s mouth. It’s a very delicate sort of alchemy, because we don’t experience and describe situations and feelings in exactly the same way in different languages. (Even if I am regularly surprised, when speaking with my English friends in France, by how much our two languages have borrowed from each other over the years.)
 
@@ -47,7 +47,7 @@ And now the miracle continues with this English translation! (It really is a mir
 
 
 
-# You’ve written books for both children and adults … does your process change for either audience?
+### You’ve written books for both children and adults … does your process change for either audience?
 
 People have often asked me over the years what I think makes a “good” children’s book. The answer seemed clear to me: a good children’s book… is quite simply a good book. The processes involved in writing a novel and a picture book are different, of course, but the goal is the same.
 
@@ -57,7 +57,7 @@ People have often asked me over the years what I think makes a “good” childr
 
 
 
-# What is the message that you want the reader to take away from this story?
+### What is the message that you want the reader to take away from this story?
 
  My book doesn’t have a message as such. That would imply that I somehow know better than you, and that I want to give you a lesson in life, which is not the case. In this book, as in all my others, I’ve written about things that have affected me emotionally. Sometimes these are very painful, wounding things, but I wasn’t trying to write a sad book – on the contrary, I prefer to leave space for smiles, laughter and tenderness.
 
