@@ -1,6 +1,6 @@
 ---
 layout: catalog
-title: Library Catalogs
-description: "The Library cataloged by type of book"
+title: Library
+description: "List of books"
 permalink: /library/catalog/
 ---
