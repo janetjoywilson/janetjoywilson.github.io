@@ -14,6 +14,6 @@ Why should you read this book?
 
 Sasha is a beautiful writer. Her personal journey of self-acceptance and discovery shows the power of cooking to bond, to empower and to heal - and she celebrates the simple truth that happiness is created from within.
 
-During our [Global TV The Morning Show Book Club meeting](http://globalnews.ca/video/2660120/tms-book-club-15), we shared our views for this unique memoir and I shared the gift of food from a local restaurant called [Ro House](http://www.rohouse.ca/).
+During our [Global TV The Morning Show Book Club meeting](http://globalnews.ca/video/2660120/tms-book-club-15), we shared our views on this unique memoir and I shared the gift of food from a one my favourite local restaurants called [Ro House](http://www.rohouse.ca/).
 
 Food and books are a recipe for love.
