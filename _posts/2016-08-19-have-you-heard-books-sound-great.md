@@ -14,6 +14,8 @@ tag:
 
 If I have a free Saturday morning, my guilty pleasure is to cycle Betsy Breezer up to Jane & Annette to buy a coffee & danish at [Patisserie 27](http://www.patisserie27.com/). The pastry is delicate and the flavours devine. I allow my taste buds to be transported to Paris albeit my view is Jane Street.  I allow myself to relax for a few minutes just savouring the moment.
 
+![Danish Picture]({{ site.url }}/images/blog/danish.jpg)
+
 Calgary Jennifer shared her vice with me via twitter. She listens on headphones to audiobooks while knitting so she doesn’t disturb her partner. If that's her only vice she's a saint and I want her for my BFF.
 
 I’ve been thinking about audiobooks because I had chosen it as a theme for my Global TV appearance in August - you know I love alliteration!  But also because I recently visited the Centre for Equitable Library Access [CELA](http://iguana.celalibrary.ca/iguana/www.main.cls?surl=CELA-home&lang=eng&theme=reset). It’s at the [CNIB](http://www.cnib.ca/en/Pages/default.aspx) on Bayview Avenue.
