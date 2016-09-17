@@ -46,7 +46,12 @@
   {% if page.image %}
   {% if page.isbn %}
   <style type="text/css">
-    #posts.inner-post-page .block-left {background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url({{ site.url }}/images/covers/{{ page.image }}) no-repeat;background-size: cover;}
+    #posts.inner-post-page .block-left {
+      background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url({{ site.url }}/images/covers/{{ page.image }}) no-repeat;
+      background-size: contain;
+      background-position: center center;
+      background-color: #ccc;
+    }
   </style>
   {% else %}
   {% capture image %}{{ page.image }}{% endcapture %}
