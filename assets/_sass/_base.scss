@@ -42,11 +42,6 @@ a:hover,
 a:active,
 a:focus {
   color: darken($logo-color, 20);
-  font-weight: bold;
-}
-
-a:visited {
-  color: darken($logo-color, 30);
 }
 
 table {

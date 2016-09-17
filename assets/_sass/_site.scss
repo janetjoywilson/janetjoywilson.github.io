@@ -1142,9 +1142,17 @@ nav.fill ul li a:hover:after {
     margin-right: 15px;
   }
   a {
+    color: darken($logo-color, 20);
     font-size: 20px;
     display: block;
     padding: 10px;
-    border: 1px solid black;
+    border: 1px solid darken($logo-color, 20);
+    &:visited {
+      color: darken($logo-color, 20);
+    }
+    &:hover {
+      color: $logo-color;
+      border: 1px solid $logo-color;
+    }
   }
 }

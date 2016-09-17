@@ -1,0 +1,8 @@
+<ul class="categories">
+  <li><a href="{{ site.url }}/library/">All</a></li>
+  {% for category in site.data.categories %}
+  <li><a href="{{ site.url }}/library/catalog/#{{ category }}">{{ category | upcase }}</a></li>
+  {% unless forloop.last %}
+  {% endunless %}
+  {% endfor %}
+</ul>
