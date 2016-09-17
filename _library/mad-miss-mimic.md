@@ -7,9 +7,13 @@ isbn: 9780143192367
 publisher: RazorBill
 categories: [Fiction, Children]
 ---
-It’s London in 1872. Our central character is Leonora Sommerville who belongs to the upper class society.  She’s strikingly beautiful and an heiress but she has a speech disorder beyond a stutter. She is able to mimic perfectly other people’s voices that gets her into trouble and earns her the name Mad Miss Mimic.
+It’s London in 1872. Our central character is Leonora Sommerville who belongs to the upper class society.  She’s strikingly beautiful and an heiress but she has a speech disorder beyond a stutter. She is able to mimic perfectly other people’s voices that gets her into trouble and earns her the name [Mad Miss Mimic](http://penguinrandomhouse.ca/books/392432/mad-miss-mimic#9780143192367).
 
 [Sarah Henstra](http://penguinrandomhouse.ca/authors/273425/sarah-henstra) has researched and taken historical facts to blend a love story, mystery and thriller during a time period blurred by opium fever.
+
+The National Reading Campaign, Children's Book Reviews said "With a star-crossed romance, well-researched historical detail, and a conspiracy run by a mysterious syndicate, Henstra's first novel is guaranteed entertainment."
+
+The Globe Mail's recommendation was "This is the perfect beach read for that teen who got an A in History (and would rather stay inside watching Downton Abbey than go to the beach in the first place)."
 
 If you and I were having tea together with Sarah, here’s some questions we could discuss:
 
@@ -21,6 +25,6 @@ If you and I were having tea together with Sarah, here’s some questions we cou
 
 Want more? Watch this [book trailer](https://www.youtube.com/watch?v=wG9ymH37TRo) as "there are things I cannot say in any voice".
 
-One of the characters I adored was Leonora’s aunt and so I’ll leave you with this:
+One of the characters I adored was Leonora’s aunt and so I’ll leave you with this line to reflect on:
 
 “My aunt Emmaline says that your story decides who you are.”  
