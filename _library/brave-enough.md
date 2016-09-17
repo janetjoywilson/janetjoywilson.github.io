@@ -5,6 +5,7 @@ author: Cheryl Strayed
 image: brave-enough.jpg
 isbn: 9780345810878
 publisher: Knopf
+categories: [Nonfiction]
 ---
 From the best-selling author of [Wild](http://penguinrandomhouse.ca/books/200313/wild#9780307476074), a collection of quotes--drawn from the wide range of her writings--that capture her wisdom, courage, and outspoken humor, presented in a gift-sized package that's as irresistible to give as it is to receive.
 
