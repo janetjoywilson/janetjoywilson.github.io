@@ -5,6 +5,7 @@ author: Jane Jacobs
 image: the-death-and-life-of-great-american-cities.jpg
 isbn: 9780679741954
 publisher: Vintage
+categories: [Nonfiction]
 ---
 Thirty years after its publication, The Death and Life of Great American Cities was described by The New York Times as "perhaps the most influential single work in the history of town planning....[It] can also be seen in a much larger context.  It is first of all a work of literature; the descriptions of street life as a kind of ballet and the bitingly satiric account of traditional planning theory can still be read for pleasure even by those who long ago absorbed and appropriated the book's arguments."  
 

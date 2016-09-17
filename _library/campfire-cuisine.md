@@ -5,6 +5,7 @@ author: Robin Donovan
 image: campfire-cuisine.jpg
 isbn: 9781594746284
 publisher: Quirk Books
+categories: [Nonfiction]
 ---
 There is more than 100 recipes for delicious, healthy, satisfying meals to make at your campsite or in any outdoor setting.
 

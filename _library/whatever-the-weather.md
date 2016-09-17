@@ -5,4 +5,5 @@ author: Annie Riechmann
 image: whatever-the-weather.jpg
 isbn: 9781611802313
 publisher: Shambhala
+categories: [Nonfiction, Children]
 ---

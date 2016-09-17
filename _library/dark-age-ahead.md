@@ -5,6 +5,7 @@ author: Jane Jacobs
 image: dark-age-ahead.jpg
 isbn: 9780679313106
 publisher: Vintage Canada
+categories: [Nonfiction]
 ---
 Visionary thinker Jane Jacobs uses her authoritative work on urban life and economies to show us how we can protect and strengthen our culture and communities.
 

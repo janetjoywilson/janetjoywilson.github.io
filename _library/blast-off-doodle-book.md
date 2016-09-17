@@ -5,6 +5,7 @@ author: Karen Young
 image: blast-off-doodle-book.jpg
 isbn: 9780448482101
 publisher: Smithsonian
+categories: [Children]
 ---
 FOR KIDS &/OR THE KID IN YOU!!
 

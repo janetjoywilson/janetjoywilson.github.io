@@ -5,4 +5,5 @@ author: Natalie Goldberg
 image: the-great-spring.jpg
 isbn: 9781611803167
 publisher: Shambhala
+categories: [Nonfiction]
 ---
