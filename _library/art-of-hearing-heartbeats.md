@@ -5,6 +5,7 @@ author: Jan-Philipp Sendker
 image: art-of-hearing-heartbeats.jpg
 isbn: 9781590514634
 publisher: Other Press
+categories: [Fiction]
 ---
 A poignant and inspirational love story set in Burma, The Art of Hearing Heartbeats spans the decades between the 1950s and the present.  When a successful New York lawyer suddenly disappears without a trace, neither his wife nor his daughter Julia has any idea where he might be…until they find a love letter he wrote many years ago, to a Burmese woman they have never heard of. Intent on solving the mystery and coming to terms with her father’s past, Julia decides to travel to the village where the woman lived. There she uncovers a tale of unimaginable hardship, resilience, and passion that will reaffirm the reader’s belief in the power of love to move mountains.
 

@@ -5,4 +5,5 @@ author: John Lorine & Jay Pitter
 image: subdivided.png
 isbn: 9781552453322
 publisher: Coach House
+categories: [Nonfiction]
 ---
