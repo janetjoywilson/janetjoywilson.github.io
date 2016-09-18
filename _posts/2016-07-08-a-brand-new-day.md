@@ -18,7 +18,7 @@ tag:
 
 It's a brand new day for me to try something new and I hope you'll come along with me.
 
-My ambition is to share with you the books that have taken me on an emtoional journey or had me on the floor laughing!
+My ambition is to share with you the books that have taken me on an emotional journey or had me on the floor laughing!
 
 Interested?
 

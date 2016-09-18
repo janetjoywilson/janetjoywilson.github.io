@@ -2,7 +2,7 @@
 layout: post
 title: What would Jane Jacobs do?
 date: 2016-09-09  
-excerpt: "it's hard to disagree with Jane Jacobs"
+excerpt: "I wish i could ask the legendary urban theorist, author and citizen activist."
 tag:
 - jane jacobs
 - books

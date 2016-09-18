@@ -2,7 +2,7 @@
 layout: post
 title: If music be the food of love
 date: 2016-09-16  
-excerpt: "music and bicycles had perfect pitch"
+excerpt: "I attended the Toronto Bicycle Music Festival and I tell ya, it hit all the right notes."
 tag:
 - music
 - bicycles
@@ -12,7 +12,7 @@ tag:
 
 ## bicycle musical festival
 
-The 7th annual [Toronto Bicycle Musical Festival](http://torontobicyclemusicfestival.com/) was perfectly tuned to the environment. Similar to an interesting arrangement, there were all kinds of terrain and weather for the day! As they say in Halifax, just wait 5 minutes and the weather will change.
+The 7th annual [Toronto Bicycle Music Festival](http://torontobicyclemusicfestival.com/) was perfectly tuned to the environment. Similar to an interesting arrangement, there were all kinds of terrain and weather for the day! As they say in Halifax, just wait 5 minutes and the weather will change.
 
 I live in the west end of Toronto so I began my journey east to the [Evergreen Brick Works](https://www.evergreen.ca/get-involved/evergreen-brick-works/) at 10 am. I brought and ended up wearing my [Cleverhood](http://www.cleverhood.com/) that I purchased (I think of it as an investment as I ride in all weather & this is expensive) at the [Spacing Store](https://spacingstore.ca/) in the spring. Little did I know that I would receive multiple compliments on the styling of my [Electric Houndstooth Rain Cape](https://spacingstore.ca/products/cleverhood-cycling-rain-cape-electric-houndstooth). One of the details that I love best about this rain cape is its hidden reflective thread. Plus it's breathable unlike my rain jacket that I can't wear on a hot day.
 

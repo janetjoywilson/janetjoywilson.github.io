@@ -2,7 +2,7 @@
 layout: post
 title: Have you heard? Books sound great!
 date: 2016-08-19
-excerpt: "choose print, braille, tablet or CD to enjoy the words"
+excerpt: "It doesn't matter what format you choose to read a book. Let it be print, braille, tablet or CD, just enjoy the words."
 tag:
 - books
 - bicycles

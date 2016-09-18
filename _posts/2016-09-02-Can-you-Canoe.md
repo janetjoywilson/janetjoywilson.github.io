@@ -2,7 +2,7 @@
 layout: post
 title: "Can you canoe?"
 date: 2016-09-02
-excerpt: "I traded pedal power for paddle power"
+excerpt: "I traded my usual pedal power for paddle power in northern Ontario."
 tag:
 - personal
 - canoes
