@@ -2,7 +2,7 @@
 layout: book
 title: Unearthed
 author: Alexandra Risen
-image:
+image: unearthed.jpg
 isbn: 9780143198956
 publisher: Viking
 categories: [Nonfiction]
