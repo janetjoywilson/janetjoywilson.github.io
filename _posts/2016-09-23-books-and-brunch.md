@@ -57,7 +57,7 @@ Here's what others have said about her book:
 
 "As Alexandra Risen breathes life into an abandoned garden, she gives us a probing reflectoin on inner landscapes, lost roots and the restorative power of nature." - Plum Johnson, author of They Left Us Everything.
 
-Note: I read Alexandra's beautiful and moving memoir in two evenings. I will write about it in the Library section at a later date.
+Since the brunch occurred, I have read Alexandra's beautiful and moving memoir. I will write about it in my Library section but first I'm savouring it.
 
 ![trudeau Picture]({{ site.url }}/images/blog/trudeau.jpg)
 
