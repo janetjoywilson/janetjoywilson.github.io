@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Books and brunch with Ben"
-date: 2016-07-08
+date: 2016-09-23
 excerpt: "Ben McNally has been serving great books with brunch since 1998! I had my first taste of this long standing tradition this month."
 tag:
 - books
@@ -17,7 +17,7 @@ It's truly embarrassing that I have never attended a [Ben McNally](http://benmcn
 
 ## why?
 
-Because I was the official guest of [Dr. Ruth Scurr](https://www.theguardian.com/profile/ruth-scurr) which meant that I sat at the Authors' Table which is better than the grown-up table at Christmas.
+Because I was the official guest of [Dr. Ruth Scurr](https://www.theguardian.com/profile/ruth-scurr) which meant that I sat at the Authors' Table which is far better than a grown-up table at Christmas.
 
 ## who was there?
 
@@ -25,7 +25,7 @@ Because I was the official guest of [Dr. Ruth Scurr](https://www.theguardian.com
 
 ### J. Edward Chamberlin author of [The Banker and The Blackfoot](http://penguinrandomhouse.ca/books/249651/banker-and-blackfoot#9780345810014), A Memoir of My Grandfather in Chinook Country.
 
-Ted (all his family have nicknames) and his wife, the poet Lorna Goodison, came all the way from Halfmoon Bay in British Columbia. I immediately asked WHERE is Halfmoon Bay?!
+Ted (all his family have nicknames) and his wife, the poet Lorna Goodison, flew in from Halfmoon Bay in British Columbia. I immediately asked WHERE is Halfmoon Bay?!
 
 Halfmoon Bay is a small community of about 2,800 people. The area in and around Halfmoon Bay was originally inhabited solely by the Shishalh people of the Coast Salish First Nations. Halfmoon Bay's settlers chose the area for its mild climate and abundance of fresh water and natural food (fish, shellfish, berries and roots). The Shishalh tribe became known as the Sechelts, a derivation of she'shalt, meaning "the people". Roberts Creek formed the boundary between the Sechelt people to the north and the Squamish people to the south.
 
@@ -87,23 +87,23 @@ Aubrey was born in Wiltshire, England, in 1626. The reign of Queen Elizabeth and
 
 ![johnaubrey Picture]({{ site.url }}/images/blog/johnaubrey.jpg)
 
-John Aubrey, My Own Life is an extraordinary book about the first modern biographer, which reimagines what biography can be. This intimate diary of Aubrey’s days is composed of his own words, collected, collated, and enlarged upon by Ruth Scurr in an act of meticulous scholarship and daring imagination. Scurr’s biography honors and echoes Aubrey’s own innovations in the art of biography. Rather than subject his life to a conventional narrative, Scurr has collected the evidence—the remnants of a life from manuscripts, letters, and books—and arranged it chronologically, modernizing words and spellings, and adding explanations when necessary, with sources provided in the extensive endnotes. Here are Aubrey’s intricate drawings of Stonehenge and the ancient Avebury stones; Aubrey on Charles I’s execution (“On this day, the King was executed. It was bitter cold, so he wore two heavy shirts, lest he should shiver and seem afraid”); and Aubrey on antiquity (“Matters of antiquity are like the light after sunset—clear at first—but by and by crepusculum—the twilight—comes—then total darkness”). From the darkness, Scurr has wrested a vibrant, intimate account of the life of an ingenious man.
+[John Aubrey, My Own Life](https://www.chapters.indigo.ca/en-ca/books/john-aubrey-my-own-life/9781681370422-item.html?ikwid=john+aubrey&ikwsec=Home&ikwidx=0) is an extraordinary book about the first modern biographer, which reimagines what biography can be. This intimate diary of Aubrey’s days is composed of his own words, collected, collated, and enlarged upon by Ruth Scurr in an act of meticulous scholarship and daring imagination. Scurr’s biography honors and echoes Aubrey’s own innovations in the art of biography. Rather than subject his life to a conventional narrative, Scurr has collected the evidence—the remnants of a life from manuscripts, letters, and books—and arranged it chronologically, modernizing words and spellings, and adding explanations when necessary, with sources provided in the extensive endnotes. Here are Aubrey’s intricate drawings of Stonehenge and the ancient Avebury stones; Aubrey on Charles I’s execution (“On this day, the King was executed. It was bitter cold, so he wore two heavy shirts, lest he should shiver and seem afraid”); and Aubrey on antiquity (“Matters of antiquity are like the light after sunset—clear at first—but by and by crepusculum—the twilight—comes—then total darkness”). From the darkness, Scurr has wrested a vibrant, intimate account of the life of an ingenious man.
 
-## Why didn't Ruth write a regular biography?
+## why didn't Ruth write a regular biography?
 
 She told us she tried to write a biography about Aubrey but he was a man who said "a pox" on biographies that "record specific details". So tried an experiment not knowing whether it would work. She said it was like "restoring a painting" and that was how she used his diaries leaving gaps when she had nothing to fill in with and removed herself from the desire to providing a voice over.
 
 It is a big book but she advised we could read a little bit at a time like you would a diary. I can't wait to dig into my copy especially after spending time with Ruth in Toronto.
 
-## What did we do?
+## what did we do?
 
 We took to [Yonge Street](https://www.chapters.indigo.ca/en-ca/books/john-aubrey-my-own-life/9781681370422-item.html?ikwid=john+aubrey&ikwsec=Home&ikwidx=0), the world's longest street at 1,896 km long according to the sidewalk next to the Eaton Centre. It was Open Streets Toronto and so we actually walked in the middle of the street until it was too hot!
 
-As Ruth's unofficial tour guide I had to take her to see Indigo Books. On the way through the Eaton Centre we stopped at [Roots](https://en.wikipedia.org/wiki/Roots_Canada) for a little souvenir shopping for her daughters. Their classic sweatshirt with the Roots logo featuring the Cooper font and the quintessential Canadian animal, the beaver was designed by two of Canada’s graphic designers of the 1970s, Heather Cooper and Robert Burns.
+As Ruth's unofficial tour guide I had to take her to see [Indigo Books](https://www.chapters.indigo.ca/en-ca/). On the way through the [Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html) we stopped at [Roots](https://en.wikipedia.org/wiki/Roots_Canada) for a little souvenir shopping for her daughters. Their classic sweatshirt with the Roots logo featuring the Cooper font and the quintessential Canadian animal, the beaver was designed by two of Canada’s graphic designers of the 1970s, Heather Cooper and Robert Burns.
 
 ![indigo Picture]({{ site.url }}/images/blog/indigo.jpg)
 
-We arrived at Indigo Books and we walked around the main floor which has books along with blankets, mugs, purses and more! Upstairs we couldn't find the eight copies that were supposed to be in section. Christian & Justin proved to be very helpful. They found four copies and brought a sharpie along with signed by the author stickers. We were both happy campers to leave the store with signed books and on the table in the section.
+We arrived at [Indigo Books](https://www.chapters.indigo.ca/en-ca/) and walked around the main floor which has books coupled with blankets, mugs, purses and more! Upstairs we couldn't find the eight copies that were supposed to be in section. Christian & Justin proved to be very helpful. They found four copies and brought a sharpie along with signed by the author stickers. We were both happy campers to leave the store with signed books  on the table in the section.
 
 ![benstore Picture]({{ site.url }}/images/blog/benstore.jpg)
 
