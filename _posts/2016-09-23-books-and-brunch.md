@@ -57,6 +57,8 @@ Here's what others have said about her book:
 
 "As Alexandra Risen breathes life into an abandoned garden, she gives us a probing reflectoin on inner landscapes, lost roots and the restorative power of nature." - Plum Johnson, author of They Left Us Everything.
 
+Note: I read Alexandra's beautiful and moving memoir in two evenings. I will write about it in the Library section at a later date.
+
 ![trudeau Picture]({{ site.url }}/images/blog/trudeau.jpg)
 
 So. I was sitting at the authors' table as I said. I was introduced to Alexandre. I said hello. That was it. Then Ben got up and introduced Alexandre Trudeau.
@@ -91,19 +93,19 @@ Aubrey was born in Wiltshire, England, in 1626. The reign of Queen Elizabeth and
 
 ## why didn't Ruth write a regular biography?
 
-She told us she tried to write a biography about Aubrey but he was a man who said "a pox" on biographies that "record specific details". So tried an experiment not knowing whether it would work. She said it was like "restoring a painting" and that was how she used his diaries leaving gaps when she had nothing to fill in with and removed herself from the desire to providing a voice over.
+She told us she tried to write a biography about Aubrey but he was a man who said "a pox" on biographies that "record specific details". So she tried an experiment not knowing whether it would work. She said it was like "restoring a painting" and that was how she used his diaries leaving gaps when she had nothing to fill in with and removed herself from the desire to providing a voice over.
 
-It is a big book but she advised we could read a little bit at a time like you would a diary. I can't wait to dig into my copy especially after spending time with Ruth in Toronto.
+It's a big book but she advised we could read a little bit at a time like you would a diary. I can't wait to dig into my copy especially after spending time with Ruth in Toronto.
 
 ## what did we do?
 
-We took to [Yonge Street](https://www.chapters.indigo.ca/en-ca/books/john-aubrey-my-own-life/9781681370422-item.html?ikwid=john+aubrey&ikwsec=Home&ikwidx=0), the world's longest street at 1,896 km long according to the sidewalk next to the Eaton Centre. It was Open Streets Toronto and so we actually walked in the middle of the street until it was too hot!
+We took to [Yonge Street](https://www.chapters.indigo.ca/en-ca/books/john-aubrey-my-own-life/9781681370422-item.html?ikwid=john+aubrey&ikwsec=Home&ikwidx=0), the world's longest street at 1,896 km long according to the sidewalk next to the Eaton Centre. It was [Open Streets Toronto](http://www.openstreetsto.org/) and so we actually walked in the middle of the street until it was too hot!
 
-As Ruth's unofficial tour guide I had to take her to see [Indigo Books](https://www.chapters.indigo.ca/en-ca/). On the way through the [Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html) we stopped at [Roots](https://en.wikipedia.org/wiki/Roots_Canada) for a little souvenir shopping for her daughters. Their classic sweatshirt with the Roots logo featuring the Cooper font and the quintessential Canadian animal, the beaver was designed by two of Canada’s graphic designers of the 1970s, Heather Cooper and Robert Burns.
+As Ruth's unofficial tour guide I had to take her to see [Indigo Books](https://www.chapters.indigo.ca/en-ca/). On the way through the [Eaton Centre](https://www.cfshops.com/toronto-eaton-centre.html) we stopped at [Roots](https://en.wikipedia.org/wiki/Roots_Canada) for a little souvenir shopping for her daughters. Their classic sweatshirt with the Roots logo featuring the Cooper font and the quintessential Canadian beaver was designed by two of Canada’s graphic designers of the 1970s, Heather Cooper and Robert Burns.
 
 ![indigo Picture]({{ site.url }}/images/blog/indigo.jpg)
 
-We arrived at [Indigo Books](https://www.chapters.indigo.ca/en-ca/) and walked around the main floor which has books coupled with blankets, mugs, purses and more! Upstairs we couldn't find the eight copies that were supposed to be in section. Christian & Justin proved to be very helpful. They found four copies and brought a sharpie along with signed by the author stickers. We were both happy campers to leave the store with signed books  on the table in the section.
+We arrived at [Indigo Books](https://www.chapters.indigo.ca/en-ca/) and walked around the main floor which has books coupled with blankets, mugs, purses and more! Upstairs we couldn't find the eight copies that were supposed to be in section. Super staff Christian & Justin proved to be very helpful. They found four copies and brought a sharpie along with stickers. We were both happy campers to leave the store with signed books on the table in the section.
 
 ![benstore Picture]({{ site.url }}/images/blog/benstore.jpg)
 
