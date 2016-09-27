@@ -8,7 +8,7 @@ tag:
 - writing
 - authors
 - editors
-- canadian culture 
+- canadian culture
 - literary journal
 ---
 
@@ -119,10 +119,10 @@ As a final piece of my research before getting on stage at [WOTS](http://theword
 ### Room's CONCEPTION by [Jael Richardson](http://www.jaelrichardson.com/)
 Succinct and moving.
 
-### CNQ's THE STONE ANGEL by Margaret Laurence as adapted by Diane Obomsawin
+### CNQ's THE STONE ANGEL by Margaret Laurence as adapted by [Diane Obomsawin](http://dianeobomsawin.com/dianeobomsawin/Obom.html)
 The first colour issue and perfect for this graphic novel.
 
-### Brick's SCENES FROM A CYCLING LIFE by Christina Palassio
+### Brick's SCENES FROM A CYCLING LIFE by [Christina Palassio](https://www.linkedin.com/in/christina-palassio-3a17ab31)
 Recommended to me by Laurie since I shared early in the evening that I was a cycling activist.
 
 ![setsail Picture]({{ site.url }}/images/blog/setsail.jpg)
