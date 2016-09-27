@@ -7,6 +7,8 @@ tag:
 - books
 - writing
 - authors
+- editors
+- canadian culture 
 - literary journal
 ---
 
