@@ -53,7 +53,7 @@ They're guided by the quotation that appears on the masthead of every issue of B
 — Rainer Maria Rilke
 
 In their pages, you’ll find opinion, passion, revelation, and the occasional bad joke.
-Each issue of [Brick](https://brickmag.com/) brings new essays and insights from the world’s best-loved writers and introduces fresh, emerging voices from all over. Since its inception in 1977, [Brick](https://brickmag.com/ has featured such heavyweights as John Berger, Karen Solie, Juan Gabriel Vásquez, Zadie Smith, John Irving, and Louise Erdrich.
+Each issue of [Brick](https://brickmag.com/) brings new essays and insights from the world’s best-loved writers and introduces fresh, emerging voices from all over. Since its inception in 1977, [Brick](https://brickmag.com/) has featured such heavyweights as John Berger, Karen Solie, Juan Gabriel Vásquez, Zadie Smith, John Irving, and Louise Erdrich.
 
 As much a feast for the eyes as it is for the mind, [Brick](https://brickmag.com/) regularly features art and photographic inserts and has been widely praised for its design. Every six months, they are building an artifact—a volume to read and keep and return to.
 
@@ -65,7 +65,7 @@ Now based in Toronto and edited by Linda Spalding, Michael Helm, Rebecca Silver 
 
 ## new publisher
 
-In number 97, Nadia Szilvassy unofficially themes this issue as "bittersweet" as they celebrate the work of two writers and mourn the loss. It is also bittersweet for Nadia as it is her last as publisher. But she says, "...changes at the [Brick](https://brickmag.com/) over its forty-year history have always been expansive and energizing. ... Who better, then, to head up this new age of [Brick](https://brickmag.com/) than a poet? Currently a [Brick](https://brickmag.com/) editor, Laurie D. Graham is one of the finest new voices to emerge in poetry anywhere (see [Settler Education](http://penguinrandomhouse.ca/books/531790/settler-education#9780771036873), published by McClelland & Steward spring 2016)."
+In number 97, Nadia Szilvassy unofficially themes this issue as "bittersweet" as they celebrate the work of two writers and mourn their loss. It is also bittersweet for Nadia as it is her last issue as publisher. But she says, "...changes at the [Brick](https://brickmag.com/) over its forty-year history have always been expansive and energizing. ... Who better, then, to head up this new age of [Brick](https://brickmag.com/) than a poet? Currently a [Brick](https://brickmag.com/) editor, Laurie D. Graham is one of the finest new voices to emerge in poetry anywhere (see [Settler Education](http://penguinrandomhouse.ca/books/531790/settler-education#9780771036873), published by McClelland & Steward spring 2016)."
 
 ![canadasquare Picture]({{ site.url }}/images/blog/canadasquare.jpg)
 
@@ -97,13 +97,13 @@ Nailah King co-edited [Room Magazine](https://roommagazine.com/) Women of Colour
 
 ## what will a [WOTS](http://thewordonthestreet.ca/toronto/) audience want to hear about?
 
-We got together for a drink the night before as suggested by the amazing Loribeth Gregg,[WOTS](http://thewordonthestreet.ca/toronto/) Programming Assistant. Over a glass of pinot noir at [The Walton](http://thewalton607.com/), a friendly neighbourhood cocktail bar (with the world's most beautiful patio) on College Street we got to know each other and discovered how unique the three magazines were.
+We got together for a drink the night before as suggested by the amazing Loribeth Gregg,[WOTS](http://thewordonthestreet.ca/toronto/) Programming Assistant. Over a glass of pinot noir at [The Walton](http://thewalton607.com/), a friendly neighbourhood cocktail bar with the world's most adorable patio on College Street we got to know each other.
 
 ![patio Picture]({{ site.url }}/images/blog/patio.jpg)
 
-The patio inspired the following points to cover:
+The patio inspired the following questions:
 
-- share the past, present & future
+- share the past, present & future of each journal
 - where do you as editors find the stories & poems that populate your journals?
 - do unsolicited stories & poems get published?
 - Brick & CNQ are both extremely small teams, is that your biggest struggle?
@@ -112,7 +112,7 @@ The patio inspired the following points to cover:
 - what are you doing to keep the journal fresh?
 - why do you think your journal is a critical part of our country's culture?
 
-As a final piece of my research, I read a piece from each journal. Here's what I loved:
+As a final piece of my research before getting on stage at [WOTS](http://thewordonthestreet.ca/toronto/), I read a piece from each journal. Here's what I loved:
 
 ### Room's CONCEPTION by [Jael Richardson](http://www.jaelrichardson.com/)
 Succinct and moving.
