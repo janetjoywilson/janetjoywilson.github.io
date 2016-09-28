@@ -2,7 +2,7 @@
 layout: book
 title: Above All Things
 author: Tanis Rideout
-image: above-all-things.jpg
+image: above-all-things-2.jpg
 isbn: 9780771076367
 publisher: McClelland & Stewart
 categories: [Fiction]
