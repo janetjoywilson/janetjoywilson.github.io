@@ -1,6 +1,6 @@
 ---
 layout: book
-title: John Aubrey: My Own Life
+title: John Aubrey My Own Life
 author: Ruth Scurr
 image: john-aubrey-my-own-life.jpg
 isbn: 9781681370422
@@ -22,8 +22,8 @@ The UK edition of John Aubrey was shortlisted for the 2015 Costa Biography Award
 
 ### Includes 33 pen-and-ink drawings, 31 of which are by John Aubrey
 
-"My Own Life is light, ingenious, inspiring, a book to reread and cherish. The vigour and spirit on every page would delight John Aubrey, that most individual of thinkers and writers, who has found a biographer of originality and wit. It is reverent, charming, poignant: it is made of the same ingredients as its subject." --Hilary Mantel
+"My Own Life is light, ingenious, inspiring, a book to reread and cherish. The vigour and spirit on every page would delight John Aubrey, that most individual of thinkers and writers, who has found a biographer of originality and wit. It is reverent, charming, poignant: it is made of the same ingredients as its subject." -Hilary Mantel
 
-"Anyone who has not read Ruth Scurr's John Aubrey can have a splendid time reading it this summer. Scurr has invented an autobiography the great biographer never wrote, using his notes, letters, observations - and the result is gripping" --A.S. Byatt, [The Guardian](https://www.theguardian.com/books/2015/mar/13/john-aubrey-my-own-life-ruth-scurr-review-biography)
+"Anyone who has not read Ruth Scurr's John Aubrey can have a splendid time reading it this summer. Scurr has invented an autobiography the great biographer never wrote, using his notes, letters, observations - and the result is gripping" -A.S. Byatt, [The Guardian](https://www.theguardian.com/books/2015/mar/13/john-aubrey-my-own-life-ruth-scurr-review-biography)
 
-"Another writer of brief lives, Lytton Strachey, feared that in our modern civilization John Aubrey would 'never come into existence again'. But that is exactly what he does in Ruth Scurr's absorbing and imaginative biography. In these pages his purchase on posterity returns with all his ingenious visions and impulses. Scurr is no less a pioneer biographer than Aubrey himself." --Michael Holroyd
+"Another writer of brief lives, Lytton Strachey, feared that in our modern civilization John Aubrey would 'never come into existence again'. But that is exactly what he does in Ruth Scurr's absorbing and imaginative biography. In these pages his purchase on posterity returns with all his ingenious visions and impulses. Scurr is no less a pioneer biographer than Aubrey himself." -Michael Holroyd
