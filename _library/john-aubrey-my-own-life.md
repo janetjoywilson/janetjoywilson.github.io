@@ -22,6 +22,7 @@ The [UK edition of John Aubrey](http://www.telegraph.co.uk/culture/books/bookrev
 
 ### Includes 33 pen-and-ink drawings, 31 of which are by John Aubrey
 
+
 "My Own Life is light, ingenious, inspiring, a book to reread and cherish. The vigour and spirit on every page would delight John Aubrey, that most individual of thinkers and writers, who has found a biographer of originality and wit. It is reverent, charming, poignant: it is made of the same ingredients as its subject." -Hilary Mantel
 
 "Anyone who has not read Ruth Scurr's John Aubrey can have a splendid time reading it this summer. Scurr has invented an autobiography the great biographer never wrote, using his notes, letters, observations - and the result is gripping" -A.S. Byatt, [The Guardian](https://www.theguardian.com/books/2015/mar/13/john-aubrey-my-own-life-ruth-scurr-review-biography)
