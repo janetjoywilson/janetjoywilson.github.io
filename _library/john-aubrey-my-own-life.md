@@ -1,6 +1,6 @@
 ---
 layout: book
-title: John Aubrey My Own Life
+title: John Aubrey, My Own Life
 author: Ruth Scurr
 image: john-aubrey-my-own-life.jpg
 isbn: 9781681370422
