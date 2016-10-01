@@ -2,7 +2,7 @@
 layout: project
 title: The Print Lounge
 link: http://www.oldmilltoronto.com/?attachment_id=4487
-weight: 4
+weight: 3
 ---
 Discover a new chapter in The Print Lounge.
 

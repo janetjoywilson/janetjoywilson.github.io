@@ -1,6 +1,6 @@
 ---
 layout: project
-title: TMS Book Club
+title: TMS Book Lover
 link: http://penguinrandomhouse.ca/programs/tms-book-club
 weight: 1
 ---
