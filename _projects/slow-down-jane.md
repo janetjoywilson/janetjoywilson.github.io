@@ -2,7 +2,7 @@
 layout: project
 title: Slow Down Jane
 link: https://toronto.100in1day.ca/initiatives/5Fmb7x2jg5PIe2F92JToW68AMHD
-weight: 4
+weight: 5
 ---
 The goal of this 100in1day urban intervention is to slow down traffic on one street for one day because there’s a story here and you’re missing it.
 
