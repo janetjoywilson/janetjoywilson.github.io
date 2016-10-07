@@ -9,13 +9,13 @@ categories: [Fiction]
 ---
 "Gently satirical, exceptionally winning and inevitably bittersweet." says The Washington Post
 
-## [My 10 Favourite Books](http://www.nytimes.com/2016/04/29/t-magazine/my-10-favorite-booksalan-cumming.html?_r=0)
+## [my 10 favourite books](http://www.nytimes.com/2016/04/29/t-magazine/my-10-favorite-booksalan-cumming.html?_r=0)
 
 I was reminded of my love for [The Elegance of the Hedgehog](https://www.chapters.indigo.ca/en-ca/books/the-elegance-of-the-hedgehog/9781933372600-item.html) when I was trying to think what would be my ten favourite books I would take on a desert island.
 
 Why is [Muriel Barbery](http://www.europaeditions.com/author/48/muriel-barbery)'s book one of the first I think of?
 
-Read this description and you'll find out:
+Read this description and you'll find out why:
 
 "We are in the center of Paris, in an elegant apartment building inhabited by bourgeois families. Renée, the concierge, is witness to the lavish but vacuous lives of her numerous employers. Outwardly she conforms to every stereotype of the concierge: fat, cantankerous, addicted to television. Yet, unbeknownst to her employers, Renée is a cultured autodidact who adores art, philosophy, music, and Japanese culture. With humor and intelligence she scrutinizes the lives of the building's tenants, who for their part are barely aware of her existence.
 
