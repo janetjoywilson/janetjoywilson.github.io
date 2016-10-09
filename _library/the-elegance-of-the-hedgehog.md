@@ -5,7 +5,7 @@ author: Muriel Barbery
 image: the-elegance-of-the-hedgehog.jpg
 isbn: 9781933372600
 publisher: Europa Editions
-categories: [Fiction]
+categories: [Fiction, re·read]
 ---
 "Gently satirical, exceptionally winning and inevitably bittersweet." says The Washington Post
 
