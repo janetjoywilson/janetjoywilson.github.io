@@ -6,13 +6,9 @@ layout: home
 
 #### {{ site.about }}
 
-Welcome to my website!
-
-My life is an open book.
-
 Dear reader,
 
-This is the place where I will share a variety of my passions with you:
+My life is an open book and this website is the place where I will share a variety of my passions with you:
 
 ### My [favourite books]({{ site.url }}/library/)
 
@@ -27,4 +23,4 @@ This is the place where I will share a variety of my passions with you:
 Come along with me for a never ending story called life!
 
 
-## Next date on GLOBAL TV The Morning Show is October 20 at 8:10 am for dome FRIGHTFUL FICTION !
+### My next appearance on GLOBAL TV The Morning Show is October 20 at 8:10 am for some FRIGHTFUL FICTION !
