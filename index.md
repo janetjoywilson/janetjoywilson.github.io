@@ -22,5 +22,6 @@ Places to [ride a bicycle]({{ site.url }}/blog/)
 
 Come along with me for a never ending story called life!
 
+![janetjoywilson Picture]({{ site.url }}/images/janetjoywilson.jpg)
 
 Want to see what I'll be talking about next on GLOBAL TV The Morning Show? Tune in October 20 at 8:10 am for some FRIGHTFUL FICTION!
