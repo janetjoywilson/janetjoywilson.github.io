@@ -15,7 +15,7 @@ In the tradition of Treasure Island, a wondrous adventure novel about a mysterio
 
 ### Winner of the New York Library Association "Book of the Season" Award in the Young Adult category.
 
-### CBC TV animated film adaptation, produced by and starring Donald Sutherland
+### [CBC TV animated film adaptation](http://www.cbc.ca/news/entertainment/donald-sutherland-s-pirate-s-passage-passion-project-1.2887581), produced by and starring Donald Sutherland
 
 "A thrillingly exhilarating adventure and glorious coming-of-age story, rich in both imagination and history, in perception and truth. I couldn't put the book down."--Donald Sutherland
 
