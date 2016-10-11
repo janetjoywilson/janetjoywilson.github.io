@@ -6,18 +6,22 @@ layout: home
 
 #### {{ site.about }}
 
-Welcome to my website! My life is an open book.
+Dear reader,
 
-This is where I will share a whole bunch of things:
+My life is an open book and this website is the place where I will share a variety of my passions with you:
 
-### My [favourite books]({{ site.url }}/library/)
+My [favourite books]({{ site.url }}/library/)
 
-### [Adventures]({{ site.url }}/blog/) in nature
+[Adventures]({{ site.url }}/blog/) in nature
 
-### Places to [ride a bicycle]({{ site.url }}/blog/)
+Places to [ride a bicycle]({{ site.url }}/blog/)
 
-### [Suggestions]({{ site.url }}/blog/) to try something different ...
+[Suggestions]({{ site.url }}/blog/) to try something different ...
 
 <br />
 
-So come along with me for a never ending story called life!
+Come along with me for a never ending story called life!
+
+<br />
+
+Want to see what I'll be talking about next on GLOBAL TV The Morning Show? Tune in October 20 at 8:10 am for some FRIGHTFUL FICTION!
