@@ -25,7 +25,7 @@ The book includes fifty line drawings of old-fashioned maritime subjects [by the
 
 I corresponded first as a Sales Director with Bill. I then met him at his east coast home. Soon the wind filled the sail and I became his Literary Agent even though I told him I wasn't one. But due to his talents, I managed to have [FROM ROCKS TO ROCKETS](https://www.amazon.ca/Rocks-Rockets-humorous-history-warfare/dp/184603423X), his first book, published in a smaller format by Osprey. Then the big beautiful [A THOUSAND YEARS OF PIRATES](https://www.amazon.ca/Thousand-Years-Pirates-William-Gilkerson/dp/0887769241/ref=sr_1_1?ie=UTF8&qid=1476121629&sr=8-1&keywords=a+thousand+years+of+pirates) published by Tundra Books. Bill had more books in him but unfortunately his health did not allow him to continue.
 
-I traveled to Mahone Bay, Nova Scotia in October 2014 and here's [My Personal Passage](http://www.travelpod.com/travel-blog/jsquaredink/3/tpod.html).
+I traveled to Mahone Bay, Nova Scotia in October 2014 to spend time with Bill and here's [My Personal Passage](http://www.travelpod.com/travel-blog/jsquaredink/3/tpod.html).
 
 In Bill's last days in 2015, in Bridgewater Hospital, "he bore himself in illness as he had in life, with bravery and gallantry, and with an open enjoyment of his world and those he met. Nurses loved him, as he did them; charming and still gently swashbuckling, he complimented them on their beauty and the quality of their care for him, and when they arrived on shift and asked him how he was feeling, he would invariably say: "All the better for seeing you." For those who'd known him, the feeling was entirely mutual."
 
