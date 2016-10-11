@@ -5,6 +5,7 @@ about: "Book Lover & Cycling Activist"
 url: http://janetjoywilson.ca
 logo: logo.png                                       # Site logo
 locale: en_US
+future: false
 
 google-analytics: UA-79717942-2
 
