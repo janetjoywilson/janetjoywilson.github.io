@@ -25,3 +25,5 @@ Come along with me for a never ending story called life!
 <br />
 
 Want to see what I'll be talking about next on GLOBAL TV The Morning Show? Tune in October 20 at 8:10 am for some FRIGHTFUL FICTION!
+
+Words & wine come together for the inaugural The Print Lounge on Wednesday November 30th, 7-8:30 pm at the Old Mill, Toronto with Christine Fischer Guy.
