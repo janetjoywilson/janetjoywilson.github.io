@@ -8,8 +8,6 @@ layout: home
 
 Dear reader,
 
-<i class="fa fa-anchor" aria-hidden="true"></i>
-
 My life is an open book and this website is the place where I will share a variety of my passions with you:
 
 My [favourite books]({{ site.url }}/library/)
