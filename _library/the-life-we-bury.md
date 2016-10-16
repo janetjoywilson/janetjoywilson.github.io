@@ -32,3 +32,10 @@ MYSTERYPEOPLE - BEST DEBUT NOVEL 2014
 
 "An intelligent and compelling story with characters that will capture you from the start.... This debut novel never lets the reader off the edge of the seat--the mark of a great story."
 --THE BIG THRILL
+
+## Series Overview:
+A crime series chronicling the residents of a Minnesota town.
+
+The Life We Bury Ebook ISBN 9781616149994
+The Guise of Another Ebook ISBN 9781633880771
+Heavens May Fall Ebook ISBN 9781633882065
