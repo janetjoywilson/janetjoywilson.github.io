@@ -44,18 +44,18 @@ His debut novel begins as a family drama and moves effortlessly into a cold case
 
 ## damn good
 
-I thought it would make an ideal first novel for us to discuss because it was damn good! It had lots of stuff to talk about, the main character is an average Joe and it was written by a man.
+I thought it would make an ideal first novel for us to discuss because it was damn good! It had lots of stuff to talk about, the main character is an average Joe and it was written by a criminal lawyer.
 
 ![lifewebury Picture]({{ site.url }}/images/blog/lifeweburytms.jpg)
 
-I asked Allen Eskens to share with me his writing technique as he practices law as a criminal defense attorney during the day so he has to be efficient when he writes. He told me he writes in the evenings and weekends, usually trying to get a chapter or two completed by Saturday and then spending the day editing. He is a “big outliner”. He creates a fairly comprehensive plot outline before he sits down to type. He also uses a sketch pad when he outlines. It’s more visual and then he can plot points on it in a less linear fashion.  I think after you read [The Life We Bury](http://alleneskens.com/life-we-bury.php) you’ll understand that it is so well done because it is incredibly well crafted and paced.
+I asked [Allen Eskens](http://alleneskens.com/) to share with me his writing technique as he practices law as a criminal defense attorney during the day so he has to be efficient when he writes. He told me he writes in the evenings and weekends, usually trying to get a chapter or two completed by Saturday and then spending the day editing. He is a “big outliner”. He creates a fairly comprehensive plot outline before he sits down to type. He also uses a sketch pad when he outlines. It’s more visual and then he can plot points on it in a less linear fashion.  I think after you read [The Life We Bury](http://alleneskens.com/life-we-bury.php) you’ll understand that it is so well done because it is incredibly well crafted and paced.
 
 Since I read [The Life We Bury](https://www.chapters.indigo.ca/en-ca/books/the-life-we-bury/9781616149987-item.html), there is a second book [The Guise Of Another](https://www.chapters.indigo.ca/en-ca/books/the-guise-of-another/9781633880764-item.html?ikwid=the+guise+of+another&ikwsec=Books&ikwidx=0) AND on October 11th [The Heavens May Fall](https://www.chapters.indigo.ca/en-ca/books/the-heavens-may-fall/9781633882058-item.html?ikwid=the+heavens+may+fall&ikwsec=Books&ikwidx=0) released!
 
 ## a second secret
 
-I read The Heavens May Fall on my ipad on the day it was released by the Seventh Street Books. I read it in one sitting on a Friday night. As I read I would gasp and during those times I tweeted to Allen Eskens my outrage, shock, bewilderment, and total enjoyment of his book. I decided if I was up all night then he should be too as I was tweeting.
+I read [The Heavens May Fall](https://www.chapters.indigo.ca/en-ca/books/the-heavens-may-fall/9781633882058-item.html?ikwid=the+heavens+may+fall&ikwsec=Books&ikwidx=0) on my ipad the day it was released to the sales team by the [Seventh Street Books](http://www.seventhstreetbooks.com/). I read it in one sitting on a Friday night. As I read I would gasp and during those times I tweeted to [Allen Eskens](http://alleneskens.com/) my outrage, shock, bewilderment, and total enjoyment of his book. I decided if I was up all night then he should be too.
 
-In this book there is a Toronto reference. I asked facetiously whether it was because of me. He said YES it was ... so I confess my crush on Allen. How could I not fall for him?
+In this book there is a Toronto reference. I asked facetiously whether it was because of me. He said YES it was ... so now I have confess my author crush on Allen. How could I not fall for him as the heavens fell?
 
- Instead of binging on Netflix, may I recommend a deadly trio of mystery/thriller books from Allen!
+ Instead of binging on Netflix this fall, may I recommend a deadly trio of mystery/thriller books from Allen!  It's criminally sensational.
