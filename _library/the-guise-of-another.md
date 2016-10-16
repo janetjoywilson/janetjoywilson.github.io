@@ -21,9 +21,12 @@ If Rupert's life was in shambles before, it's now also in danger. Threatened by 
 
 "Thriller fans should keep their eyes on Eskens; he's a comer." --Booklist
 
-## Series Overview:
-A crime series chronicling the residents of a Minnesota town.
+## Ebook Editions
+
+[Allen Esken](http://alleneskens.com/)'s crime series chronicles the residents of a Minnesota town.
 
 The Life We Bury Ebook ISBN 9781616149994
+
 The Guise of Another Ebook ISBN 9781633880771
+
 Heavens May Fall Ebook ISBN 9781633882065
