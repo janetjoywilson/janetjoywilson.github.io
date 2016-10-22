@@ -24,3 +24,5 @@ It doesn't end ... it's a lifetime of learning and practicing ..
 Bhavatu sabba mangalam : May all beings be happy!
 
 Sadhu, sadhu, sadhu :  well said, well done; we agree, we share this wish.
+
+![tree Picture]({{ site.url }}/images/blog/tree.jpg)
