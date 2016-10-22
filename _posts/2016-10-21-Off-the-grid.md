@@ -11,7 +11,7 @@ tag:
 
 ## meditation
 
-I am returning to the Vipassana meditation centre tomorrow to donate my time and my labour.
+I am returning to the [Ontario Vipassana Centre](http://www.torana.dhamma.org/) tomorrow to donate my time and my labour.
 
 Why?
 
@@ -19,10 +19,14 @@ Read my [Travel Blog from February](http://www.travelpod.com/travel-blog/jsquare
 
 How to end this post?  
 
-It doesn't end ... it's a lifetime of learning and practicing ..
+It doesn't end ... it's a lifetime of learning and practicing ...
+
+![tree Picture]({{ site.url }}/images/blog/tree.jpg)
+
+Courses are made possible by volunteers who serve the courses and by donations made by students who participate in them.
+
+I am giving so that someone else may receive.
 
 Bhavatu sabba mangalam : May all beings be happy!
 
 Sadhu, sadhu, sadhu :  well said, well done; we agree, we share this wish.
-
-![tree Picture]({{ site.url }}/images/blog/tree.jpg)
