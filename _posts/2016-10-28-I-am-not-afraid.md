@@ -23,6 +23,8 @@ I took a copy of WILD with me on my annual “Wild Women in the Woods” trip to
 
 TINY BEAUTIFUL THINGS offers advice on love and life from Dear Sugar by Cheryl Strayed is a girlfriend in book form. Life can be hard: your lover cheats on you; you lose a family member; you’re in debt. Life can also be fantastic: you get a plum job; you write a novel; you win Powerball!   Sugar is the once anonymous online columnist at The Rumpus and now revealed as Cheryl Strayed. This sweet book is filled with humour, insight, compassion and absolute raw honesty - a friend when you need one. In 2015 Dear Sugar Radio was started and it’s so amazing to hear Cheryl’s voice discuss what readers have written to them … make some time to listen [here](http://www.wbur.org/dearsugar).
 
+![strayed Picture]({{ site.url }}/images/blog/strayed.jpg)
+
 # sugar says
 
 “Nobody will protect you from suffering.”
