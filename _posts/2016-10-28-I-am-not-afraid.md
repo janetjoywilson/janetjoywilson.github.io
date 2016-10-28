@@ -9,7 +9,7 @@ tag:
 - challenge yourself
 ---
 
-## what make you afraid?
+## what makes you afraid?
 
 When I think about what makes me afraid I immediately go to the monster under my bed. There was one when I was a kid. It lived in the house on the hill with us. My bed was high up for some reason and not only did it provide a large space for said monster but it was the reason I broke my collar bone (the first time).
 
