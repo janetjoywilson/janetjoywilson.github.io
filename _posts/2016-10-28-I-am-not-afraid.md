@@ -2,7 +2,7 @@
 layout: post
 title: "I am not afraid"
 date: 2016-10-28
-excerpt: "I am inspired by others. "I am not afraid" was Cheryl Strayed's mantra during her Pacific Coast Trail hike. I think about her grounding phrase and I continue to step forward in my life."
+excerpt: "I am inspired by others and one of those people is Cheryl Strayed."
 tag:
 - personal
 - nature
