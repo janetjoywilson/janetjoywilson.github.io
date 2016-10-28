@@ -8,4 +8,4 @@ The Canadian Ecology Centre hosted its inaugural Earth Day Book Talk in 2016 wit
 
 I'll be the Master of Ceremonies again for 2017!
 
-Date to be confirmed.
+Circle April 22 on your calendar.  Details to be released.
