@@ -2,7 +2,7 @@
 layout: post
 title: "Choose kindness"
 date: 2016-11-11
-excerpt: "Choose to be kind. Choose to care. We have our children at stake."
+excerpt: "Choose to be kind. Choose to care."
 tag:
 - books
 ---
