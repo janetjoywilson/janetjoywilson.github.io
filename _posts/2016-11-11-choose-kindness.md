@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Choose kindness"
-date: 2016-11-11
+date: 2016-11-09
 excerpt: "Choose to be kind. Choose to care."
 tag:
 - books
