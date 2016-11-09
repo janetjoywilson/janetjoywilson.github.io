@@ -15,7 +15,7 @@ I am writing these words in a state of shock.
 
 As I rode my bicycle to work along Lake Ontario I was thinking about why millions of Americans voted for Trump. I think it was the same reason Torontonians voted for Rob Ford. He spoke to their anger with the system and the only action they felt they could take was to vote for change.
 
-I choose to take action that is results in kindness.
+I choose to take action that results in kindness.
 
 ## the wonder of wonder
 
@@ -37,4 +37,4 @@ The wonder of WONDER is that a 10 year old boy can move us to tears and make us 
 
 ![wonder Picture]({{ site.url }}/images/blog/wonder.jpg)
 
-To take your mind off Election Coverage watch [our conversation Global TV The Morning Show](http://globalnews.ca/video/2250203/tms-book-club-6) in September 2015.  
+To take your mind off Election Results here's [our conversation on Global TV The Morning Show](http://globalnews.ca/video/2250203/tms-book-club-6) from September 2015.  
