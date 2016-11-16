@@ -6,4 +6,4 @@ weight: 3
 ---
 Discover a new chapter at Reading Between The Wines in The Print Lounge.
 
-Every other month we'll have an evening of wine & words with yours truly and a local author at the historic Old Mill Toronto beside the Humber River.
+In 2017 we'll have an evening of wine & words with yours truly and local celebrated authors at the historic Old Mill Toronto beside the Humber River.
