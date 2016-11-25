@@ -2,7 +2,7 @@
 layout: book
 title: Every Man Dies Alone
 author: Hans Fallada
-image:
+image: every-man-dies-alone.jpg
 isbn: 9781935554042
 publisher: Melville House
 categories: [Fiction]
