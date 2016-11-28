@@ -106,7 +106,7 @@ Boyden “wants us as Canadians to understand the fuller history of our country,
 
 ![mysterious creatures Picture]({{ site.url }}/images/blog/mysterious creatures.jpg)
 
-## for [Back Road Bill](http://www.steerto.com/)’s stocking:
+## for Bills’s stocking:
 
 [MYSTERIOUS CREATURES](http://penguinrandomhouse.ca/books/538299/mysterious-creatures#9781578266388) by [Leighanna Hoyle](http://penguinrandomhouse.ca/authors/2135764/leighanna-hoyle)
 
