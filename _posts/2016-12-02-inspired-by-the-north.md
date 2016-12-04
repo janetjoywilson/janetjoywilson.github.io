@@ -10,11 +10,11 @@ tag:
 
 I was asked by [Back Roads Bill](http://www.steerto.com/) for a list of books that would be great gifts for those who live in Northern Ontario. He wanted to share these books during his regular segment on [CBC Morning North](http://www.cbc.ca/news/canada/sudbury/programs/morningnorth) with [Markus Schwabe](http://www.cbc.ca/news/canada/sudbury/morning-north-1.3123307) so I curated a library that have obvious links to our north and its environment but also books for all of us!
 
-### a back roads library
+## a back roads library
 
 ![alone against the north Picture]({{ site.url }}/images/blog/alone against the north.jpg)
 
-## A memoir for the ADVENTURER in your life
+## a memoir for the ADVENTURER in your life
 
 [ALONE AGAINST THE NORTH](https://www.chapters.indigo.ca/en-ca/books/alone-against-the-north-an/9780143193975-item.html?ikwsec=Books&ikwidx=0) by [Adam Shoalts](http://adamshoalts.com/about/bio/)
 
@@ -30,7 +30,7 @@ I hope this true life adventure story inspires you to make your own discoveries 
 
 ![beebook Picture]({{ site.url }}/images/blog/beebook.jpg)
 
-## A reference book for the wanna-BEE KEEPER
+## a reference book for the wanna-BEE KEEPER
 
 [THE BEE BOOK](https://www.dk.com/ca/explore/reference/7-outlandish-bee-facts-to-buzz-about/) from [DK Canada](https://www.dk.com/ca/)
 
@@ -44,7 +44,7 @@ Discover the wonder of bees in nature, in your garden, and in the hive with [The
 
 ![whatever the weather Picture]({{ site.url }}/images/blog/whatever the weather.jpg)
 
-## For families & educators who want to inject Vitamin N into their kids!
+## for families & educators who want to inject VITAMIN N into their kids!
 
 [WHATEVER THE WEATHER](http://www.shambhala.com/whatever-the-weather.html) by [Annie Reichmann](https://www.amazon.ca/Whatever-Weather-Science-Experiments-Activities/dp/1611802318)
 
@@ -59,7 +59,7 @@ Let the weather take the lead and never be bored again! Paint in the rain, send 
 
 ![nationalgeographickids2017 Picture]({{ site.url }}/images/blog/nationalgeographickids2017.jpg)
 
-## For kids of all ages who want to know more about stuff.
+## for KIDS of all ages who want to know more about stuff.
 
 [NATIONAL GEOGRAPHIC Kids Almanac 2017, Canadian Edition](https://www.amazon.ca/National-Geographic-Kids-Almanac-Canadian/dp/1426324197/ref=sr_1_1?ie=UTF8&qid=1480357646&sr=8-1&keywords=national+geographic+almanac+2017)
 
@@ -73,7 +73,7 @@ AND there’s a HELP WITH SCHOOLWORK feature where Educational experts give lear
 
 ![maple Picture]({{ site.url }}/images/blog/maple.jpg)
 
-## For the maple syrup lover
+## for the MAPLE SYRUP lover
 
 [MAPLE](http://www.quirkbooks.com/book/maple) by [Katie Webster](https://www.amazon.ca/Maple-Sweet-Savory-Recipes-Featuring/dp/1594748047)
 
@@ -94,7 +94,7 @@ A jar of maple syrup is a great gift BUT a jar of maple syrup with a beautiful, 
 
 ![wenjack Picture]({{ site.url }}/images/blog/wenjack.jpg)
 
-## A must read
+## a must read
 
 [WENJACK](http://penguinrandomhouse.ca/books/549816/wenjack#9780735233386) a novella by [Joseph Boyden](http://penguinrandomhouse.ca/authors/149986/joseph-boyden)
 
