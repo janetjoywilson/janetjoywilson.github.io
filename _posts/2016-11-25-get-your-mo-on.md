@@ -2,7 +2,7 @@
 layout: post
 title: "Get your MO on"
 date: 2016-11-25  
-excerpt: "I found out alot about Movember and want to share it with you!"
+excerpt: "I found out a lot about Movember and want to share it with you!"
 tag:
 - books
 - men's health
