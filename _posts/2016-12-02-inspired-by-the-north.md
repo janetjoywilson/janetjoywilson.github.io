@@ -10,6 +10,8 @@ tag:
 
 I was asked by [Back Roads Bill](http://www.steerto.com/) for a list of books that would be great gifts for those who live in Northern Ontario. He wanted to share these books during his regular segment on [CBC Morning North](http://www.cbc.ca/news/canada/sudbury/programs/morningnorth) with [Markus Schwabe](http://www.cbc.ca/news/canada/sudbury/morning-north-1.3123307) so I curated a library that have obvious links to our north and its environment but also books for all of us!
 
+<i class="fa fa-microphone" aria-hidden="true"></i> Here's our conversation on CBC Morning North [Books for the Back Roads](http://www.cbc.ca/player/play/825912899683/ ) on December 6th.
+
 ## a back roads library
 
 ![alone against the north Picture]({{ site.url }}/images/blog/alone against the north.jpg)
@@ -22,7 +24,7 @@ Anyone who was fortunate enough to spend an evening with [Adam Shoalts](http://a
 
 You’ve heard the phrase: where there’s a will, there’s a way. Well consider the iron will of Adam. He is an explorer and a trail blazer trained as a cartographer, historian and archeologist. Basically he can do it all!  
 
-[ALONE AGAINST THE NORTH](https://www.chapters.indigo.ca/en-ca/books/alone-against-the-north-an/9780143193975-item.html?ikwsec=Books&ikwidx=0) is his determined story of finding the Again River. What Shoalts discovered as he paddled downriver appeared in no satellite imagery or map: a series of waterfalls that could easily have killed him. Just as astonishing was the media reaction when he got back to civilization. He was crowned []"Canada's Indiana Jones"](http://penguinrandomhouse.ca/authors/275487/adam-shoalts) and was feted by the Royal Canadian Geographical Society and congratulated by the governor general. Shoalts had proved that the world is bigger than we think.
+[ALONE AGAINST THE NORTH](https://www.chapters.indigo.ca/en-ca/books/alone-against-the-north-an/9780143193975-item.html?ikwsec=Books&ikwidx=0) is his determined story of finding the Again River. What Shoalts discovered as he paddled downriver appeared in no satellite imagery or map: a series of waterfalls that could easily have killed him. Just as astonishing was the media reaction when he got back to civilization. He was crowned ["Canada's Indiana Jones"](http://penguinrandomhouse.ca/authors/275487/adam-shoalts) and was feted by the Royal Canadian Geographical Society and congratulated by the governor general. Shoalts had proved that the world is bigger than we think.
 
 He writes a gripping and often poetic classic adventure story of single-minded obsession, physical hardship, and the restless sense of wonder that every explorer has in common. Shoalts's story makes it clear that the world can become known only by getting out of our cars and armchairs, and setting out into the unfamiliar, where every step is different from the one before and something you may never have imagined lies around the next curve in the river.
 
