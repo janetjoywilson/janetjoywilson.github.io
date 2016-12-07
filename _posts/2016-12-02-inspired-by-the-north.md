@@ -10,7 +10,7 @@ tag:
 
 I was asked by [Back Roads Bill](http://www.steerto.com/) for a list of books that would be great gifts for those who live in Northern Ontario. He wanted to share these books during his regular segment on [CBC Morning North](http://www.cbc.ca/news/canada/sudbury/programs/morningnorth) with [Markus Schwabe](http://www.cbc.ca/news/canada/sudbury/morning-north-1.3123307) so I curated a library that have obvious links to our north and its environment but also books for all of us!
 
-<i class="fa fa-microphone" aria-hidden="true"></i> Here's our conversation on CBC Morning North [Books for the Back Roads](http://www.cbc.ca/player/play/825912899683/ ) on December 6th.
+<i class="fa fa-microphone" aria-hidden="true"></i> Here's our conversation December 6, 2016 on CBC Morning North [Books for the Back Roads](http://www.cbc.ca/player/play/825912899683/ ) on December 6th.
 
 ## a back roads library
 
