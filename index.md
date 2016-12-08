@@ -16,7 +16,7 @@ My life is an open book and this website is the place where I will share a varie
 
 <i class="fa fa-microphone" aria-hidden="true"></i> CBC Morning North [Books for the Back Roads](http://www.cbc.ca/player/play/825912899683/ ) on December 6th.
 
-<i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Christmas Edition](http://globalnews.ca/national/program/the-morning-show).
+<i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Christmas Edition](http://globalnews.ca/video/3114651/holiday-book-guide-with-janet-joy-wilson).
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show NOVEMBER was [Movember](http://globalnews.ca/video/3088642/movember-themed-books-that-bring-awareness-to-mens-health)!
 
