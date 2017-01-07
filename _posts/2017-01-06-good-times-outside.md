@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Good times outside"
-date: 2017-01-16
+date: 2017-01-06
 excerpt: "Let's celebrate CANADA 150 outside!"
 tag:
 - books
