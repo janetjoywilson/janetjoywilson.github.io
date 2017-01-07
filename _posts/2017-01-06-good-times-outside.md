@@ -19,7 +19,7 @@ As well, did you know that January 24, 2017 is the 100th anniversary of CANADAâ€
 
 What to do first?
 
-![canada150booksdiscoverypass Picture]({{ site.url }}/images/blog/canada150booksdiscoverypass.jpg)
+![canada150discoverypass Picture]({{ site.url }}/images/blog/canada150discoverypass.jpg)
 
 1.) Get your FREE Parks Canada Discovery Pass and join me on a cross Canada tour to as many parks as possible!
 
