@@ -25,25 +25,25 @@ What to do first?
 
 From coast to coast to coast, Parks Canada manages the national parks, national historic sites and national marine conservation areas of Canada, providing a revered connection between the ‘hearts and minds’ of Canadians and the very essence of this country.
 
-I have to say THANK YOU to PARKS CANADA for a great T shirt that I wore on Global TV The Morning Show today – if you want one of your own please go to see all the MERCHANDISE online at their shop.
+I have to say THANK YOU to [PARKS CANADA for a great T shirt](http://parkscanadashop.ca/) that I wore on [Global TV The Morning Show](http://globalnews.ca/video/3164714/books-to-celebrate-canadas-150th-birthday ) today – if you want one of your own please go to see all the MERCHANDISE online at their shop.
 
-To complete my ensemble for the show and be ready to hike I went to Mountain Equipment Coop and bought myself a  pair of hiking boots so I’m ready to explore this year!
+To complete my ensemble for the show and be ready to hike I went to [Mountain Equipment Coop](https://www.mec.ca/en/) and bought myself a  pair of hiking boots so I’m ready to explore this year!
 
 ![canada150books Picture]({{ site.url }}/images/blog/canada150books.jpg)
 
 2.)  You’ll need a guidebook so you’ll know where to go!!
 
-GUIDE TO THE NATIONAL PARKS OF CANADA/GUIDE DES PARCS NATIONAUX DU CANADA (second edition)
+[GUIDE TO THE NATIONAL PARKS OF CANADA](https://shop.nationalgeographic.com/product/national-parks-books/national-geographic-guide-to-the-national-parks-of-canada)/GUIDE DES PARCS NATIONAUX DU CANADA (second edition)
 
 Just in time for Canada’s 150th birthday, this revised and expanded National Parks guidebook shows you how to get the most out of your visits to Canada’s 47 gorgeous national parks—from Cape Breton Highlands to Banff to Pacific Rim National Park Preserve, plus the five newest additions: Nááts’ihch’oh National Park Reserve, Mealy Mountains Park Reserve, Rouge Urban Park, Qausuittuq Park, and Sable Island National Park Reserve of Canada.
 
 400 pages written by national park experts who know the parks inside and out, this book is chock-full of handy practical information and is beautifully illustrated with stunning photography and one-of-a-kind maps prepared by National Geographic.
 
-GUIDE TO THE NATIONAL HISTORIC SITES OF CANADA / GUIDE DES LIEUX HISTORIQUES NATIONAUX DU CANADA
+[GUIDE TO THE NATIONAL HISTORIC SITES OF CANADA](https://shop.nationalgeographic.com/product/books/books/travel/national-geographic-guide-to-the-historic-sites-of-canada) / GUIDE DES LIEUX HISTORIQUES NATIONAUX DU CANADA
 
 Published to mark the Centennial of Canada’s first national historic site, designated in 1917, this is your guide to historic sites that help to tell the story of Canada. This all-new, 352-page book showcases 236 national historic sites and gives visitors fact-packed text that features history, natural history, and must-see elements and events at each place. Great visuals and poetic insight into the lands and events reveal how Canada grew into the creative, thriving, and proudly independent nation it is today. Each entry gives the site’s unique story and how it contributes to the greater story of Canada.
 
-Take time this year to visit Canada’s oldest National Historic Site and one of the most hotly contested pieces of land on the entire continent at Fort Anne. For centuries, a succession of Scottish, French, First Nations and English settlers clashed over this prize on the beautiful banks of Nova Scotia’s Annapolis River. Today, visitors can walk the earthen walls, explore the 1797 Officers’ Quarters Museum and soak up centuries of Canadian history. Situated on 15 hectares (37 acres) of land in beautiful Annapolis Royal, Fort Anne was designed and built as a military fort with the first fort erected on the site by the Scots in 1629. Four forts were subsequently built by the French beginning in 1643.
+Take time this year to visit Canada’s oldest National Historic Site and one of the most hotly contested pieces of land on the entire continent at [Fort Anne](http://www.pc.gc.ca/eng/lhn-nhs/ns/fortanne/index.aspx). For centuries, a succession of Scottish, French, First Nations and English settlers clashed over this prize on the beautiful banks of Nova Scotia’s Annapolis River. Today, visitors can walk the earthen walls, explore the 1797 Officers’ Quarters Museum and soak up centuries of Canadian history. Situated on 15 hectares (37 acres) of land in beautiful Annapolis Royal, Fort Anne was designed and built as a military fort with the first fort erected on the site by the Scots in 1629. Four forts were subsequently built by the French beginning in 1643.
 
 This year a new exhibit will be unveiled to help celebrate this significant milestone. Visitors can explore the remains of the various 18th and 19th century buildings, including an early 18th century gunpowder magazine. Take a photo of the kids in costume so they can share their adventure with their friends. Be sure to part in their Xplorers program. It’s a fun way for kids ages 6-11 to explore Fort Anne.
 
@@ -51,13 +51,13 @@ From coast to coast these two National Geographic guide books will inspire you t
 
 NOW may I suggest a colourful literary companion that is sure to be welcomed after a full day of hiking and/or soaking up history.
 
-THE CANADIAN BACKWOODS COLOURING BOOK
+[THE CANADIAN BACKWOODS COLOURING BOOK](https://www.amazon.ca/Canadian-Backwoods-Colouring-Book/dp/0385689799)
 
 This gorgeous colouring book by Ketha Newman and colouring by YOU is overflowing with rustic, breathtaking Canadian landscapes! Ketha take artistic inspiration from her own lifestyle to celebrate Canada’s natural beauty.
 
 It’s organized by month and commemorates all four glorious seasons with thirty-nine drawings partnered with a quote from one of sixteen Canadian poets and authors, whose writings have exalted Canadian life for one hundred and fifty years.
 
-From Lucy Maud Montgomery to Nellie McClung to Emily Carr to name a few, you will be enriched by time spent reading and colouring this book.  As a bonus, Ketha is sharing colouring tips and commentary on the photos on her website.
+From Lucy Maud Montgomery to Nellie McClung to Emily Carr to name a few, you will be enriched by time spent reading and colouring this book.  As a bonus, Ketha is sharing colouring tips and commentary on the photos on her [website](http://www.kethanewman.com/).
 
 Guidebooks to explore all of Canada from east to west, north to south plus a colouring book to read & relax with - where and what will you do first?
 
