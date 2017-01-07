@@ -11,17 +11,17 @@ tag:
 
 Hello / Bonjour!
 
-January 2017 is the beginning of the CANADA 150 celebrations!
+January 2017 is the beginning of the [CANADA 150](http://canada.pch.gc.ca/eng/1468262573081) celebrations!
 
 What an amazing time we live in, eh?!  
 
-As well, did you know that January 24, 2017 is the 100th anniversary of CANADA’S first NATIONAL HISTORIC SITE?!
+As well, did you know that January 24, 2017 is the [100th anniversary of CANADA’S first NATIONAL HISTORIC SITE](http://www.novascotia.com/see-do/attractions/fort-anne-national-historic-site/1334)?!
 
 What to do first?
 
 ![canada150discoverypass Picture]({{ site.url }}/images/blog/canada150discoverypass.jpg)
 
-1.) Get your FREE Parks Canada Discovery Pass and join me on a cross Canada tour to as many parks as possible!
+1.) Get your [FREE Parks Canada Discovery Pass](http://www.pc.gc.ca/eng/index.aspx) and join me on a cross Canada tour to as many parks as possible!
 
 From coast to coast to coast, Parks Canada manages the national parks, national historic sites and national marine conservation areas of Canada, providing a revered connection between the ‘hearts and minds’ of Canadians and the very essence of this country.
 
@@ -63,7 +63,7 @@ Guidebooks to explore all of Canada from east to west, north to south plus a col
 
 3.) Check out #DiscoveryPass #Canada150 #GoodTimesOutside on social media channels for continual inspiration!
 
-![canada150angie Picture]({{ site.url }}/images/blog/canada150angie.jpg)
+![canada150angie Picture]({{ site.url }}/images/blog/canada150angie.PNG)
 
 PLUS   Did you know?
 
