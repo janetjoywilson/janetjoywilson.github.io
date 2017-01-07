@@ -77,7 +77,7 @@ The Canadian Parcs Group has had a relationship with National Geographic (NG) Pu
 
 Please note: the two National Geographic guide books were published simultaneously in English & French and printed in Canada.
 
-Now please stand with me to sing our anthem:
+## Now please stand with me to sing our anthem:
 
 O Canada! Our home and native land!
 True patriot love in all thy sons command.
