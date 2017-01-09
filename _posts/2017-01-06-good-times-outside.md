@@ -29,8 +29,6 @@ I have to say THANK YOU to [PARKS CANADA for a great T shirt](http://parkscanada
 
 To complete my ensemble for the show and be ready to hike I went to [Mountain Equipment Coop](https://www.mec.ca/en/) and bought myself a  pair of hiking boots so I’m ready to explore this year!
 
-![canada150books Picture]({{ site.url }}/images/blog/canada150books.jpg)
-
 2.)  You’ll need a guidebook so you’ll know where to go!!
 
 [GUIDE TO THE NATIONAL PARKS OF CANADA](https://shop.nationalgeographic.com/product/national-parks-books/national-geographic-guide-to-the-national-parks-of-canada)/GUIDE DES PARCS NATIONAUX DU CANADA (second edition)
@@ -58,6 +56,8 @@ NOW may I suggest a colourful literary companion that is sure to be welcomed aft
 [THE CANADIAN BACKWOODS COLOURING BOOK](https://www.amazon.ca/Canadian-Backwoods-Colouring-Book/dp/0385689799)
 
 This gorgeous colouring book by Ketha Newman and colouring by YOU is overflowing with rustic, breathtaking Canadian landscapes! Ketha take artistic inspiration from her own lifestyle to celebrate Canada’s natural beauty.
+
+![canada150books Picture]({{ site.url }}/images/blog/canada150books.jpg)
 
 It’s organized by month and commemorates all four glorious seasons with thirty-nine drawings partnered with a quote from one of sixteen Canadian poets and authors, whose writings have exalted Canadian life for one hundred and fifty years.
 
