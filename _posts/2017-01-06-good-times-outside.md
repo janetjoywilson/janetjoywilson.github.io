@@ -37,7 +37,7 @@ To complete my ensemble for the show and be ready to hike I went to [Mountain Eq
 
 Just in time for Canada’s 150th birthday, this revised and expanded National Parks guidebook shows you how to get the most out of your visits to Canada’s 47 gorgeous national parks—from Cape Breton Highlands to Banff to Pacific Rim National Park Preserve, plus the five newest additions: Nááts’ihch’oh National Park Reserve, Mealy Mountains Park Reserve, Rouge Urban Park, Qausuittuq Park, and Sable Island National Park Reserve of Canada.
 
-![Parks of Canada Picture]({{ site.url }}/images/blog/Parks of Canada.jpg)
+![parks of canada Picture]({{ site.url }}/images/blog/parks of canada.jpg)
 
 400 pages written by national park experts who know the parks inside and out, this book is chock-full of handy practical information and is beautifully illustrated with stunning photography and one-of-a-kind maps prepared by National Geographic.
 
@@ -45,7 +45,7 @@ Just in time for Canada’s 150th birthday, this revised and expanded National P
 
 Published to mark the Centennial of Canada’s first national historic site, designated in 1917, this is your guide to historic sites that help to tell the story of Canada. This all-new, 352-page book showcases 236 national historic sites and gives visitors fact-packed text that features history, natural history, and must-see elements and events at each place. Great visuals and poetic insight into the lands and events reveal how Canada grew into the creative, thriving, and proudly independent nation it is today. Each entry gives the site’s unique story and how it contributes to the greater story of Canada.
 
-![National-Geographic Picture]({{ site.url }}/images/blog/National-Geographic.jpg)
+![national historic sites Picture]({{ site.url }}/images/blog/national historic sites.jpg)
 
 Take time this year to visit Canada’s oldest National Historic Site and one of the most hotly contested pieces of land on the entire continent at [Fort Anne](http://www.pc.gc.ca/eng/lhn-nhs/ns/fortanne/index.aspx). For centuries, a succession of Scottish, French, First Nations and English settlers clashed over this prize on the beautiful banks of Nova Scotia’s Annapolis River. Today, visitors can walk the earthen walls, explore the 1797 Officers’ Quarters Museum and soak up centuries of Canadian history. Situated on 15 hectares (37 acres) of land in beautiful Annapolis Royal, Fort Anne was designed and built as a military fort with the first fort erected on the site by the Scots in 1629. Four forts were subsequently built by the French beginning in 1643.
 
