@@ -67,8 +67,6 @@ Guidebooks to explore all of Canada from east to west, north to south plus a col
 
 3.) Check out #DiscoveryPass #Canada150 #GoodTimesOutside on social media channels for continual inspiration!
 
-![canada150angie Picture]({{ site.url }}/images/blog/canada150angie.PNG)
-
 PLUS   Did you know?
 
 Canada was the first country in the world to establish a dedicated national park service and has since protected a network of wilderness areas of truly global significance.
@@ -80,6 +78,8 @@ Canada was the first country in the world to establish a dedicated national park
 The Canadian Parcs Group has had a relationship with National Geographic (NG) Publishing since 2010 when they asked them to publish the first edition of the Guide to Canada Parcs. With the success of the first edition they asked NG to be the exclusive publishing partner for the 100 anniversary of the Historic Sites / Parcs and Canada 150.
 
 Please note: the two National Geographic guide books were published simultaneously in English & French and printed in Canada.
+
+![ocanada Picture]({{ site.url }}/images/blog/ocanada.jpg)
 
 ## Now please stand with me to sing our anthem:
 
