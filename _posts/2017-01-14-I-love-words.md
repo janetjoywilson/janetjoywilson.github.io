@@ -91,7 +91,7 @@ This book was unlike anything I’d read for a very long time! I wanted to ensur
 
 Eructation means an act or instance of belching.
 
-The sentence was “There he stood, the most recent eructation of the ruling corporate elite – a class that reproduces itself solely by means of virtuous and proper hiccups – beaming at his discovery, sharing it with me without thinking or ever dreaming for a moment that I might actually understand what he was referring to.”  Wow.
+The sentence was “There he stood, the most recent eructation of the ruling corporate elite – a class that reproduces itself solely by means of virtuous and proper hiccups – beaming at his discovery, sharing it with me without thinking or ever dreaming for a moment that I might actually understand what he was referring to.”    
 
 ![elegance Picture]({{ site.url }}/images/blog/elegance.jpg)
 
@@ -121,7 +121,15 @@ Words.
 
 ![wonderthebook Picture]({{ site.url }}/images/blog/wonderthebook.jpg)
 
- [Choose kind](http://www.randomhousekids.com/videos/4psz-zixb4-choose-kind-campaign) and if you haven't read [WONDER](http://www.goodreads.com/book/show/11387515-wonder).  Read my words ... read it!
+ [Choose kind](http://www.randomhousekids.com/videos/4psz-zixb4-choose-kind-campaign) and if you haven't read [WONDER](http://www.goodreads.com/book/show/11387515-wonder) - please get a copy. Let the story of August inhabit you.
+
+ Words.
+
+ You know I'm not succinct.  B u t  suffice it to say ... please take my suggestion and read the words that move you; take you on a journey; stimulate your intellect; produce an ugly cathartic cry and begin again.
+
+## love, light and laughter   
+
+ Those three words were shared daily with me in Kerala, India.... that's another story for another day.
 
  Sincerely,
 
