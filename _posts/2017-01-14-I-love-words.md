@@ -25,6 +25,7 @@ I love thee freely, as men strive for right.
 I love thee purely, as they turn from praise.
 I love thee with the passion put to use
 In my old griefs, and with my childhood’s faith.
+
 I could go on with [Sonnet 43](https://www.poets.org/poetsorg/poem/how-do-i-love-thee-sonnet-43) written by [Elizabeth Barrett Browning](https://www.poets.org/poetsorg/poet/elizabeth-barrett-browning) but instead I’ve included the [link](https://www.poets.org/poetsorg/poem/how-do-i-love-thee-sonnet-43) for the complete edition.
 
 Read it out loud.
@@ -39,11 +40,11 @@ I love words.
 
 Try this on for size. Instead of saying “I have to go to work.”
 
-Say this [trippingly on the tongue](http://shakespeare.mit.edu/hamlet/hamlet.3.2.html) (a nod to [Hamlet](http://shakespeare.mit.edu/hamlet/full.html) ... I get to go to work.
+Say this [trippingly on the tongue](http://shakespeare.mit.edu/hamlet/hamlet.3.2.html) (a nod to [Hamlet](http://shakespeare.mit.edu/hamlet/full.html)) ... I get to go to work.
 
 ![lifeisgood Picture]({{ site.url }}/images/blog/lifeisgood.jpg)
 
-I heard John Jacobs, co-founder of [Life is Good](http://www.lifeisgood.com/ ), when he was in Toronto last year launching their inspirational book of wisdom celebrating the power of optimism which is the driving force behind their beloved, socially conscious clothing and lifestyle brand and their new book called [Life is Good](https://www.amazon.ca/Life-Good-Book-Bert-Jacobs/dp/1426215630).    
+I spent time with John Jacobs, co-founder of [Life is Good](http://www.lifeisgood.com/ ), when he was in Toronto last year launching their inspirational book of wisdom celebrating the power of optimism which is the driving force behind their beloved, socially conscious clothing and lifestyle brand and their new book called [Life is Good](https://www.amazon.ca/Life-Good-Book-Bert-Jacobs/dp/1426215630).    
 
 Words are powerful.
 
@@ -85,7 +86,7 @@ I love words.
 
 ## [The Elegance of the Hedgehog](http://www.europaeditions.com/book/9781933372600/the-elegance-of-the-hedgehog)
 
-This was a gift from a very well read friend years ago. When I opened the first page. I read the first three sentences. Then I stopped. I went to get a pencil and a dictionary. I started again.
+This was a gift from a dear friend years ago. When I opened the novel and read the first three sentences.   I s t o p p e d.   I went to get a pencil and a dictionary. I started again.
 This book was unlike anything I’d read for a very long time! I wanted to ensure that I knew every word as I knew they had been carefully chosen. The first one I looked up was ERUCTATION. Do you know what means? I certainly didn’t.
 
 Eructation means an act or instance of belching.
@@ -118,7 +119,7 @@ In this brilliantly observed novel, author [Susin Nielsen](http://susinnielsen.c
 
 Words.
 
-![wonder Picture]({{ site.url }}/images/blog/wonder.jpg)
+![wonderthebook Picture]({{ site.url }}/images/blog/wonderthebook.jpg)
 
  [Choose kind](http://www.randomhousekids.com/videos/4psz-zixb4-choose-kind-campaign) and if you haven't read [WONDER](http://www.goodreads.com/book/show/11387515-wonder).  Read my words ... read it!
 
