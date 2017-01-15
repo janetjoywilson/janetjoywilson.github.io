@@ -14,6 +14,8 @@ My life is an open book and this website is the place where I will share a varie
 
 [Read my blog!]({{ site.url }}/blog/)
 
+<i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Guidebooks to Canada 150 & Parks Canada](http://globalnews.ca/video/3164714/books-to-celebrate-canadas-150th-birthday).
+
 <i class="fa fa-microphone" aria-hidden="true"></i> CBC Morning North [Books for the Back Roads](http://www.cbc.ca/player/play/825912899683/ ) on December 6th.
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Most Important Books of 2016](http://globalnews.ca/video/3140646/the-books-that-mattered-most-in-2016).
