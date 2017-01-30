@@ -13,11 +13,9 @@ tag:
 
 “If you make yourself a sheep, the wolves will eat you.” – Benjamin Franklin
 
-Trump won the election unless you believe him that the votes were [rigged](http://www.vanityfair.com/news/2016/10/could-the-us-election-be-rigged)  - did he win?
+Trump is  president and in his [first week in office](https://www.thestar.com/news/world/2017/01/29/12-lessons-from-president-donald-trumps-hectic-consequential-first-week.html) has signed his name proudly to every sheet of paper put in front of his face.
 
-Trump is now president and in his [first week in office](https://www.thestar.com/news/world/2017/01/29/12-lessons-from-president-donald-trumps-hectic-consequential-first-week.html) has signed his name proudly to every sheet of paper put in front of his face.
-
-So what do we do now? Because everyone ... EVERY ONE in the world is being AFFECTED by this disease.
+So what do we do now? Because everyone ... EVERY ONE in the world is being AFFECTED.
 
 ![whatwedonow Picture]({{ site.url }}/images/blog/whatwedonow.jpg)
 
