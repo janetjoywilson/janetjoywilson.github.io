@@ -61,7 +61,7 @@ The list of contributors is extraordinary! This is a book you can and MUST dip i
 
 "The Party told you to reject the evidence of your eyes and ears.”
 
-Sound familiar? Lies? Nah, let’s call it “[alternative facts](https://en.wikipedia.org/wiki/Alternative_facts).” https://en.wikipedia.org/wiki/Alternative_facts
+Sound familiar? Lies? Nah, let’s call it “[alternative facts](https://en.wikipedia.org/wiki/Alternative_facts).” 
 
 The year 1984 has come and gone, but George Orwell's prophetic, nightmarish vision in 1949 of the world we were becoming is timelier than ever. [1984](http://penguinrandomhouse.ca/books/388857/penguin-classics-nineteen-eighty-four#9780141393049) is still the great modern classic of "negative utopia" -a startlingly original and haunting novel that creates an imaginary world that is completely convincing, from the first sentence to the last four words. No one can deny the novel's hold on the imaginations of whole generations, or the power of its admonitions -a power that seems to grow, not lessen, with the passage of time.
 
