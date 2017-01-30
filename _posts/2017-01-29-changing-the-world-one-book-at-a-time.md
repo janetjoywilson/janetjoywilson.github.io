@@ -93,7 +93,7 @@ Knitting a Pussy Hat inspired by [The Pussy Hat Project](https://www.pussyhatpro
 
 I read [Every Man Dies Alone](https://www.chapters.indigo.ca/en-ca/books/every-man-dies-alone-a/9781935554042-item.html?ikwid=Every+Man+Dies+Alone&ikwsec=Home&ikwidx=0) and was moved by the story of this middle aged, middle class couple who did not agree with Hitler. What did they do? They wrote postcards and secretly placed them around Berlin evading the Gestapo for three years!
 
-Knitting was simple. It was pink! It was an action albeit small but as a par tof 60,000 strong in Toronto and one of 5 million world world... my small action added to the message.
+Knitting was simple. It was pink! It was an action albeit small but as one of 60,000 strong in Toronto and one of 5 million world world... my small action added to the message.
 
 I will remember.
 
