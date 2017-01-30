@@ -7,7 +7,7 @@ tag:
 - books
 - history
 ---
-![changing the world one books at a time Picture]({{ site.url }}/images/blog/changing the world one books at a time.jpg)
+![changingtheworld Picture]({{ site.url }}/images/blog/changingtheworld.jpg)
 
 ## the power of words
 
