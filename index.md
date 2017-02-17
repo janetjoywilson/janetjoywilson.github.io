@@ -8,11 +8,13 @@ layout: home
 
 Dear reader,
 
-My life is an open book and this website is the place where I will share a variety of my passions with you.
+My life is an open book and this website is the place where I will share my passions with you.
 
 [Check out my favourite books!]({{ site.url }}/library/)
 
 [Read my blog!]({{ site.url }}/blog/)
+
+<i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [On bended knee](http://globalnews.ca/video/3256555/must-read-books-for-february).
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Guidebooks to Canada 150 & Parks Canada](http://globalnews.ca/video/3164714/books-to-celebrate-canadas-150th-birthday).
 
