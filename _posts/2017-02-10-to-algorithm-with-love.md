@@ -89,7 +89,7 @@ Helene Giroux arrives alone in St. Homais on a winter day. She wears good city c
 
 The story moves back and forth in time as Helene, settling into a simple life, playing the piano for church choir, recalls the extraordinary events that brought her to this place. They include the early loss of her soldier husband and the reappearance of an old suitor who rescues her and her daughter, when she is most desperate; the journeys that very few women of her time could even imagine, into the forests of Indochina in search of ancient treasures and finally, and fatefully, to the Canadian north. When the town policeman confronts her, past and present suddenly converge and she must face an episode that she had thought had been left behind forever.
 
-Have you fallen over the cliff and in love with my book suggestions?
+Have you fallen over the cliff and in love with my book suggestions? Need a laugh? Take a look at how my proposal to Jeff turned out on [The Morning Show](http://globalnews.ca/video/3256555/must-read-books-for-february).
 
 Let me know what you think @jsquaredink
 
