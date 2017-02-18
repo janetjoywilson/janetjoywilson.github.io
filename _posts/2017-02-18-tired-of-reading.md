@@ -61,9 +61,9 @@ I feel it’s a big responsibility. We all have a limited amount of time and I d
 
 First – I need to choose a book to start and/or finish as I have a lot with bookmarks in them.
 
-Second – Iwill turn off the phone, computer & lastly my thoughts with all the to do lists.
+Second – I will turn off the phone, computer & lastly my thoughts with all the to do lists.
 
-Third – I will find the new reading glasses. Yes. I can see clearer with these little 1.25 magnified glasses but I’m not used to wearing them. I also will have to buy a bulk of them to have in every room that I read in.
+Third – I will find my new reading glasses. Yes. I can see clearer with these little 1.25 magnified glasses but I’m not used to wearing them. I also will have to buy a bulk of them to have in every room that I read in.
 
 ## do you ever go on a fast from reading?
 
@@ -77,6 +77,6 @@ Why this one?
 
 Because the editor wrote me a letter that said, "I think it's very much in keeping with your passion for nature and environmentalism. I honestly think it's a book you will love and will quickly get lost in. I know I did. I found myself instantly absorbed by Jessica's crackling descriptions of swimming with the ice, the staggering power of nature, and the unyielding determination of the human heart."  
 
-That's the kind of personal and thoughtful recommendation that gets me away from this computer and into the pages. It's the kind I want to ensure that I also make to others.
+That's the kind of personal and thoughtful recommendation that gets me away from this computer and deep into a story.
 
 ## till later dear reader because I'm busy reading!
