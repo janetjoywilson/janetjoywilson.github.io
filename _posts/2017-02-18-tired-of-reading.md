@@ -79,4 +79,4 @@ Because the editor wrote me a letter that said, "I think it's very much in keepi
 
 That's the kind of personal and thoughtful recommendation that gets me away from this computer and into the pages. It's the kind I want to ensure that I also make to others.
 
-## till later dear reader because I'm reading!
+## till later dear reader because I'm busy reading!
