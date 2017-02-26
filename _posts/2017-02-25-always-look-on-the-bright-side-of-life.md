@@ -47,7 +47,7 @@ I want a [Brompton](http://www.brompton.com/).
 Why?
 Because “it will change the way you experience the city.”
 
-![nybike]({{ site.url }}/images/blog/nybike.jpg)
+![nycbike]({{ site.url }}/images/blog/nycbike.jpg)
 
 I already rent local bicycles in cities I visit from New York, Boston and even in the Galapagos!
 
