@@ -5,6 +5,7 @@ date: 2017-02-25
 excerpt: "Do you see the glass half full or half empty?"
 tag:
 - bicycles
+- books
 ---
 
 ## I see a glass half full
