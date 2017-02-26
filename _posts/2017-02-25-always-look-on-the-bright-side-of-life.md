@@ -27,7 +27,7 @@ It seems the planets were aligned as I won a bicycle during a 2013 [Cycle Toront
 
 ![xmasbike]({{ site.url }}/images/blog/xmasbike.jpg)
 
-Today I picked up my bicycle from [Hoopdriver Bicycles](http://www.hoopdriver.ca/) because it needed some TLC. My commute to work has a lot of hills therefore I am hard on my brakes so it was time for repairs, tune-up and a raised handlebar. Since 2013 ‘Black Beauty’ has transformed into Mad Max with a number of modifications executed by Sweet Pete’s and Hoopdriver. I keep making changes as my needs change.
+Today I picked up my beloved bicycle from [Hoopdriver Bicycles](http://www.hoopdriver.ca/) because it needed some TLC. My commute to work has a lot of hills therefore I am hard on my brakes so it was time for repairs, tune-up and a raised handlebar. Since 2013 ‘Black Beauty’ has transformed into Mad Max with a number of modifications executed by Sweet Pete’s and Hoopdriver. I keep making changes as my needs change.
 
 ![betsy]({{ site.url }}/images/blog/betsy.jpg)
 
@@ -36,6 +36,26 @@ In 2015 I purchased Betsy Breezer from [Espresso Cycle](http://espressocycles.ca
 Bicycles are very personal - many of us talk about our bicycles as if they're a friend - and thus one forms personal relationships with the owners of these bicycle shops – at least I do!  Victor is not only a great guy but also makes The Best Cappuccino!
 
 The thing I love about Betsy is that she’s lovely. I really enjoy riding her around the city shopping on the weekend and buying some tulips to put on the back rack. It’s a step through bicycle with 8 speeds so it’s a relaxed upright ride and I like to dress up when I use this bicycle.
+
+I would be remiss if I didn't include a book recommendation in this musing about my bicycles.
+
+![flavia]({{ site.url }}/images/blog/flavia.jpg)
+
+## [Sweetness at the bottom of the pie](https://www.amazon.ca/Sweetness-at-Bottom-Pie/dp/0385665830)
+
+The delightful [Alan Bradley](http://alanbradleyauthor.com/) has written one of my favourite characters - Flavia de Luce.
+
+"If ever there was a sleuth who's bold, brilliant, and, yes, adorable, it's Flavia de Luce." - USA Today
+
+Why do I include Flavia?  Because she loves her second hand bicycle & also named her:
+
+"Until I rescued her from rusty oblivion, my trusty old three-speed BSA Keep Fit had languished for years in a toolshed among broken flowerpots and wooden wheelbarrows. Like so many other things at Buckshaw, she had once belonged to Harriet, who had named her l’Hirondelle: “the swallow.” I had rechristened her Gladys.
+
+Glady’s tires had been flat, her gears bone dry and crying out for oil, but with her own onboard tire pump and black leather tool bag behind her seat, she was entirely self-sufficient. With Dogger’s help, I soon had her in tiptop running order."
+
+— pg. 72-73 ([The Sweetness at the Bottom of the Pie](https://www.amazon.ca/Sweetness-at-Bottom-Pie/dp/0385665830))
+
+I would also suggest the audio book as [Jayne Entwistle](https://www.youtube.com/watch?v=cGP-FkZjiys) who plays Flavia is fantastic!!
 
 ![winterbike]({{ site.url }}/images/blog/winterbike.jpg)
 
