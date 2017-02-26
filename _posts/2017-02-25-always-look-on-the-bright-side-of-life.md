@@ -29,6 +29,8 @@ It seems the planets were aligned as I won a bicycle during a 2013 Cycle Toronto
 
 Today I picked up my bicycle from [Hoopdriver Bicycles](http://www.hoopdriver.ca/). With all my hills, I am hard on my brakes so it was time for repairs, tune-up and a raised handlebar because since 2013 ‘Black Beauty’ has transformed into Mad Max with a number of modifications execute by Sweet Pete’s and Hoopdriver.
 
+![betsy]({{ site.url }}/images/blog/betsy.jpg)
+
 Two years ago I purchased Betsy Breezer from [Espresso Cycle](http://espressocycles.ca/) another local bicycle shop. Bicycles are very personal and thus one forms personal relationships with the owners of these bicycle shops – at least I do!  Victor is not only a great guy but also makes The Best Cappuccino!
 
 The thing I love about Betsy is that she’s lovely. I really enjoy riding her around the city shopping on the weekend and buying some tulips to put on the back rack. It’s a step through bicycle with 8 speeds so it’s a relaxed upright ride and I like to dress up when I use this bicycle.
