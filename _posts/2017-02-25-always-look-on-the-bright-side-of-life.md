@@ -59,16 +59,24 @@ I would also suggest the audio book as [Jayne Entwistle](https://www.youtube.com
 
 ![winterbike]({{ site.url }}/images/blog/winterbike.jpg)
 
-My third bicycle is a unique ‘beater bike’ as it was owned by my [Ward 13 Bikes](https://www.cycleto.ca/ward/13) co-captain and he made many adaptations to it. I use it when it’s snow packed and/or icy roads as it has steel studded tires.
+I have a third bicycle which is a unique ‘beater bike’ as it was owned by my [Ward 13 Bikes](https://www.cycleto.ca/ward/13) co-captain and he made many adaptations to it. I use it when it’s snow packed and/or icy roads as it has steel studded tires.
 
 Do I need any more bicycles?
+
 No.
+
 Do I want another bicycle?
+
 Yes.
+
 What could I possible want and where/when would I ride it??
+
 Well.
+
 I want a [Brompton](http://www.brompton.com/).
+
 Why?
+
 Because “it will change the way I experience the city.”
 
 ![nycbike]({{ site.url }}/images/blog/nycbike.jpg)
