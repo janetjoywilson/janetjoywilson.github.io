@@ -16,13 +16,13 @@ I am a realist optimist.
 
 I am always looking on the bright side of life … thank you [Monty Python!](https://youtu.be/jHPOzQzk9Qo)
 
-I think my new lifestyle of choosing cycling adds to the joy in my life.
+My recent lifestyle shift to choosing cycling adds to the joy in my life.
 
 ![bikesign]({{ site.url }}/images/blog/bikesign.jpg)
 
 In the spring of 2013 I returned from a [volunteer trip to India](http://www.travelpod.com/travel-blog/jsquaredink/1/tpod.html) and I was determined to ride my old bicycle to the office. Why? Because I had lost inches, not weight, during my month away.
 
-Why? Because I was moving all day long. It was also hot & I was eating a vegetarian diet. But when I returned I wanted to keep that size and movement in my life. Active transportation gave me that.
+Why? Because I was moving all day long. It was also hot & I was eating a vegetarian diet. But when I returned I wanted to keep my size and movement in my life. Active transportation gave me that.
 
 It seems the planets were aligned as I won a bicycle during a 2013 [Cycle Toronto](https://www.cycleto.ca/) Bike Month Contest.  I was cycling & taking photos with the hashtag #lovemycommute because I was so happy riding my bicycle! So I went to [Sweet Pete’s Bike Shop](http://www.sweetpetes.com/) who had donated the bicycle to pick up Black Beauty. A beautiful [GIANT](https://www.giant-bicycles.com/en-CA/) ‘Seek’ commuter bicycle. Pete told me it was the same kind that Woody Harrelson rents any time he comes to Toronto. And  I won it!! I never win things. What a signal to keep cycling in my life!!
 
@@ -48,7 +48,7 @@ The delightful [Alan Bradley](http://alanbradleyauthor.com/) has written one of 
 
 "If ever there was a sleuth who's bold, brilliant, and, yes, adorable, it's Flavia de Luce." - USA Today
 
-Why do I include Flavia?  Because she loves her second hand bicycle & also named her:
+Why do I include Flavia?  Because she loves her second hand bicycle & also gave her a splendid moniker:
 
 "Until I rescued her from rusty oblivion, my trusty old three-speed BSA Keep Fit had languished for years in a toolshed among broken flowerpots and wooden wheelbarrows. Like so many other things at Buckshaw, she had once belonged to Harriet, who had named her l’Hirondelle: “the swallow.” I had rechristened her Gladys.
 
@@ -60,7 +60,7 @@ I would also suggest the audio book as [Jayne Entwistle](https://www.youtube.com
 
 ![winterbike]({{ site.url }}/images/blog/winterbike.jpg)
 
-I have a third bicycle which is a unique ‘beater bike’ as it was owned by my [Ward 13 Bikes](https://www.cycleto.ca/ward/13) co-captain and he made many adaptations to it. I use it when it’s snow packed and/or icy roads as it has steel studded tires.
+I have a third bicycle (one is never enough) which is a unique winter ‘beater bike’ that was owned by my [Ward 13 Bikes](https://www.cycleto.ca/ward/13) co-captain. He made many adaptations to it. I rely on it when the snow is packed and/or icy roads as it has steel studded tires.
 
 Do I need any more bicycles?
 
@@ -70,11 +70,11 @@ Do I want another bicycle?
 
 Yes.
 
-What could I possible want and where/when would I ride it??
+Where and when would I ride a fourth bicycle!?!?
 
 Well.
 
-I want a [Brompton](http://www.brompton.com/).
+I desire a [Brompton](http://www.brompton.com/).
 
 Why?
 
@@ -82,9 +82,9 @@ Because “it will change the way I experience the city.”
 
 ![nycbike]({{ site.url }}/images/blog/nycbike.jpg)
 
-I rent local bicycles in cities I visit from New York, Boston and even in the Galapagos!
+I use bicycle share programs or rent from a local shop in cities I visit from New York, Boston and even in the Galapagos!
 
-But I'd love to have a foldable bicycle becaues the website says: “Let a [Brompton](http://www.brompton.com/) take you anywhere - its flexibility allows you to get more out of the city, day and night. Free yourself from the confines of other forms of transport and take in the city around you. Need a change of scene? Just pop a Brompton on a plane, train or in the car to explore further afield.”
+But I'd love to have a foldable bicycle because the website says: “Let a [Brompton](http://www.brompton.com/) take you anywhere - its flexibility allows you to get more out of the city, day and night. Free yourself from the confines of other forms of transport and take in the city around you. Need a change of scene? Just pop a Brompton on a plane, train or in the car to explore further afield.”
 
 Riding a bicycle is freedom to me.
 
