@@ -35,7 +35,7 @@ Being one does not equal being lonely although it can result in a single supplem
 
 I know how brave I was to leave a twenty-five year relationship.
 
-I came to accept that the mathematics of love do not always add up to a happily ever after.
+I have come to accept that the mathematics of love do not always add up to a happily ever after.
 
 ## 03.03.03
 
