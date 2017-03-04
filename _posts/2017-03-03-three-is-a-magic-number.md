@@ -67,7 +67,7 @@ Seeing the sky change colours every morning was fitting when thinking of the sky
 
 ## Sunset
 
-At day's end it is time to reflect on 03.
+At day's end I am taking time to reflect on 03.
 
 The past is yesterday. Today we're here. Tomorrow is a choice.
 
