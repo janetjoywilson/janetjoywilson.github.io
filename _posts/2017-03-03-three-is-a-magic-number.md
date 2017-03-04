@@ -70,6 +70,8 @@ The sand and sunrise are my survival techniques for long days of sitting.
 
 Seeing the sky change colours every morning was fitting when thinking of the sky and beyond. During a lunch this week we had a special guest.  Astronaut [Scott Kelly](http://www.scottkelly.com/).  We are publishing his book this fall 2017 called [Endurance: A Year In Space, A Lifetime of Discovery](http://penguinrandomhouse.ca/books/549529/endurance#9780735233720). He’s a charismatic speaker and his presentation was out of this world!
 
+<i class="fa fa-microphone" aria-hidden="true"></i> [Interplanet Janet](https://youtu.be/MGgajx1pGPU) is also from Schoolhouse Rock and obviously my favourite song! It could be called science rock!
+
 ## Sunset
 
 At day's end I am taking time to reflect on 03.
