@@ -23,15 +23,19 @@ Yes it is. They had three in the family. That’s a magic number.”
 
 ## 03.03
 
-Now as I mark the second anniversary of the end of my marriage.
+Today I observe the second anniversary of my legal separation.
 
-I pause.
+. . . pause . . .
 
-I count two now.
+I  count to  one .
 
-That’s a magic number too.
+That can be a magic number!  
 
-Because I am a very proud mother who is sharing her life with an exceptional young man.
+Being one does not equal being lonely although it can result in a single supplement when traveling!
+
+I know how brave I was to leave a twenty-five year relationship.
+
+I came to accept that the mathematics of love do not always add up to a happily ever after.
 
 ## 03.03.03
 
