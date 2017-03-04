@@ -5,6 +5,7 @@ date: 2017-03-03
 excerpt: "a series of sunrises for reflection"
 tag:
 - books
+- life lessons
 ---
 
 ## 03
