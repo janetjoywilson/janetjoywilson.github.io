@@ -13,7 +13,7 @@ Oh three ...
 
 ![sunrisepink]({{ site.url }}/images/blog/sunrisepink.jpg)
 
-I grew up with Schoolhouse Rock and the sun [Three is a Magic Number](https://youtu.be/aU4pyiB-kq0). It debuted in 1973 and was written and sung by [Bob Dorough](https://en.wikipedia.org/wiki/Bob_Dorough).  
+I grew up with Schoolhouse Rock and the song [Three is a Magic Number](https://youtu.be/aU4pyiB-kq0). It debuted in 1973 and was written and sung by [Bob Dorough](https://en.wikipedia.org/wiki/Bob_Dorough).  
 
 <i class="fa fa-microphone" aria-hidden="true"></i> Sing along with me:
 
@@ -45,11 +45,11 @@ In 14.14.14 I had the promotion to Sr Executive Sales Director and on 15.15.15 I
 
 My role. The company. The marketplace have all shifted. BUT I love change – so what next?!
 
-![sunrisebike]({{ site.url }}/images/blog/sunrisebike.jpg)
+![sunsetbike]({{ site.url }}/images/blog/sunsetbike.jpg)
 
-I attended the [Penguin Random House](http://www.penguinrandomhouse.com/) US Sales Conference on [Amelia Island](https://www.omnihotels.com/hotels/amelia-island-plantation) in Florida this week. People always think that you’re on vacation when you attend a conference in Florida. That would be an alternative fact. The truth is that my schedule is 8:30 to 5:30 meetings. At 6:30 there’s a dinner for everyone which is a continued smooze fest.
+I attended the [Penguin Random House](http://www.penguinrandomhouse.com/) US Sales Conference on [Amelia Island](https://www.omnihotels.com/hotels/amelia-island-plantation) this week. People always think that you’re on vacation when you attend a conference in Florida. That would be an alternative fact. The truth is that my schedule is 8:30 to 5:30 meetings. At 6:30 there’s a dinner for everyone which is a continued smooze fest. It's mentally exhausting as you pay attention to hundreds of new titles and keep sharp so you can participate in conversations. Additionally, sitting all day in a dark cold boardroom is not a healthy activity.
 
-When an I recharge my battery?
+When do I recharge my battery?
 
 ![sunriseyoga]({{ site.url }}/images/blog/sunriseyoga.jpg)
 
@@ -64,3 +64,13 @@ The sand and sunrise are my survival techniques for long days of sitting.
 ![astronaut]({{ site.url }}/images/blog/astronaut.jpg)
 
 Seeing the sky change colours every morning was fitting when thinking of the sky and beyond. During a lunch this week we had a special guest.  Astronaut [Scott Kelly](http://www.scottkelly.com/).  We are publishing his book this fall 2017 called [Endurance: A Year In Space, A Lifetime of Discovery](http://penguinrandomhouse.ca/books/549529/endurance#9780735233720). He’s a charismatic speaker and his presentation was out of this world!
+
+## Sunset
+
+At day's end it is time to reflect on 03.
+
+The past is yesterday. Today we're here. Tomorrow is a choice.
+
+Will you embrace a sunrise or a sunset?
+
+![sunset]({{ site.url }}/images/blog/sunset.jpg)
