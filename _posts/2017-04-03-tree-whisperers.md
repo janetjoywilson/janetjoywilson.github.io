@@ -45,7 +45,7 @@ In [The Stone Collection](http://www.portageandmainpress.com/product/the-stone-c
 [Akiwenzie-Damm’s] luminescent prose in this book dances “like jingle dress dancers,” and is somehow still compressed to shining perfection.
 –Publishers Weekly, A Starred Review
 
-![earthdaycolouring]({{ site.url }}/images/blog/colouring.jpg)
+![earthdaycolouring]({{ site.url }}/images/blog/earthdaycolouring.jpg)
 
 ## art and words
 
@@ -53,8 +53,8 @@ In [The Stone Collection](http://www.portageandmainpress.com/product/the-stone-c
 
 eginning in January, this book will take you through each month and season, exploring the wildlife and landscapes that define Canada.
 
-![earthdaycollage]({{ site.url }}/images/blog/collage.jpg)
+![earthdaycollage]({{ site.url }}/images/blog/earthdaycollage.jpg)
 
 ## earth day every day
 
-Be good to yourself and the earth. 
+Be good to yourself and the earth.
