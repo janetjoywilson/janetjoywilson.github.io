@@ -51,7 +51,7 @@ In [The Stone Collection](http://www.portageandmainpress.com/product/the-stone-c
 
 [The Canadian Backwoods Colouring Book](https://www.amazon.ca/Canadian-Backwoods-Colouring-Book/dp/0385689799) brings the lush beauty of Canada's wildlife and landscape to life in a colouring book along with excerpts from the country's greatest writers and poets like Lucy Maud Montgomery, Stephen Leacock, Nellie McClung to name a few.
 
-eginning in January, this book will take you through each month and season, exploring the wildlife and landscapes that define Canada.
+Beginning in January, this book will take you through each month and season, exploring the wildlife and landscapes that define Canada.
 
 ![earthdaycollage]({{ site.url }}/images/blog/earthdaycollage.jpg)
 
