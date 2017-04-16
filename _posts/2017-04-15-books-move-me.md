@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Books move me"
-date: 2017-04-015    
+date: 2017-04-15    
 excerpt: "Books provide an emotional and a geographical journey if you get on board."
 tag:
 - books
