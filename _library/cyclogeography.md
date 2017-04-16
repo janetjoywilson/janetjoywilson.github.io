@@ -1,11 +1,11 @@
 ---
 layout: book
-title: Cyclogeography: Journeys of a London Bicycle Courier
+title: Cyclogeography Journeys of a London Bicycle Courier
 author: Jon Day
 image: cyclogeography.jpg
 isbn: 9781907903991
 publisher: Notting Hill Editions
-categories: [NonFiction]
+categories: [Nonfiction]
 ---
 [Cyclogeography](https://www.chapters.indigo.ca/en-ca/books/cyclogeography-journeys-of-a-london-bicycle-courier-jon-day/9781907903991-item.html) is about the bicycle in the cultural imagination and also a portrait of London as seen from the saddle. In the great tradition of the psychogeographers, Jon Day attempts to depart from the map and reclaim the streets of the city. Informed by several grinding years spent as a bicycle courier, he lifts the lid on the solitary life of the courier. Traveling the unmapped byways, shortcuts, and urban edgelands, couriers are the declining, invisible workforce of the city. The parcels they deliver keep things running. For those who survive the crushing toughness of the job, the bicycle can become what holds them together. 
 
