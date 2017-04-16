@@ -43,7 +43,9 @@ The last line of this compelling and heartbreaking novel is this:
 
 I was working in New York City last fall when the launch of [CYCLOGEOGRAPHY: JOURNEYS OF A LONDON BICYCLE COURIER](http://www.nottinghilleditions.com/books/cyclogeography-journeys-of-a-london-bicycle-courier/215) was happening in Brooklyn.  How cool would it be for this Canadian cyclist to get on a [CitiBike](https://www.citibikenyc.com/) and travel from midtown Manhattan to Brooklyn for a book launch with British and New York cyclists.
 
-Jon Day is articulate, accented, tall and bearded. The book launch occurred at [Red Lantern Bicycles](http://www.redlanternbicycles.com/) in Brooklyn.
+Jon Day is articulate, accented, tall and bearded. The book launch occurred at the incredibly cool [Red Lantern Bicycles](http://www.redlanternbicycles.com/) in Brooklyn. The shop promises this:
+
+"RLB is the the most unique shop you've ever stepped foot into. We are New York's bicycling microcosm. We have the largest selection of used bikes in NYC, we are the premier XtraCycle cargo bike dealer in the five boroughs, and we also have a fully functioning cafe complete with coffee, espresso drinks, breakfast and lunch, as well as all sorts of delicious munchies to go with our locally brewed beer. Welcome to the best cycling experience in town!"
 
 It was that same month in September 2016 that [New York Review Books](https://www.nyrb.com/) became the North American distributor of selected titles from [Notting Hill Editions](http://www.nottinghilleditions.com/), a UK publisher devoted to the best in essay writing.
 
