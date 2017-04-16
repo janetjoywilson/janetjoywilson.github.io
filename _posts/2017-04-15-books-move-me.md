@@ -39,7 +39,7 @@ The last line of this compelling and heartbreaking novel is this:
 
 ![cyclogeography]({{ site.url }}/images/blog/cyclogeography.jpg)
 
-## Books  move me to travel distances
+## Books move me to travel distances
 
 I was working in New York City last fall when the launch of [CYCLOGEOGRAPHY: JOURNEYS OF A LONDON BICYCLE COURIER](http://www.nottinghilleditions.com/books/cyclogeography-journeys-of-a-london-bicycle-courier/215) was happening in Brooklyn.  How cool would it be for this Canadian cyclist to get on a [CitiBike](https://www.citibikenyc.com/) and travel from midtown Manhattan to Brooklyn for a book launch with British and New York cyclists.
 
@@ -59,7 +59,7 @@ There’s a great cartoon at the start of Chapter Two titled “Kicking the Elep
 
 The title comes from two weeks after losing her husband, Sandberg was preparing for a father-child activity. “I want Dave” she cried. Her friend replaced, “Option A is not available,” and then promised to help her make the most of Option B. We all live some form of Option B and this book helps to make the most of it.
 
-## Books move me.
+## Books move me
 
 Emotionally
 
