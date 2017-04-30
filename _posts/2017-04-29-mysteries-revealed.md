@@ -14,7 +14,7 @@ One - something that is difficult or impossible to understand or explain.
 
 Two - a novel, play, or movie dealing with a puzzling crime, especially a murder.
 
-![boyinthesuitcase]({{ site.url }}/images/blog/boyinthesuitcase.jpg)
+![boyinsuitcase]({{ site.url }}/images/blog/boyinsuitcase.jpg)
 
 ## a Question & Answer  x 2
 
