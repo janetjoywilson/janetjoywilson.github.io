@@ -1,11 +1,11 @@
 ---
 layout: project
-title: Earth Day Book Talk Emcee
+title: Earth Day Book Talk MC & Program Consultant
 link: http://www.canadianecology.ca/spring-eventspackages/earth-day-book-talk/
 weight: 4
 ---
 The Canadian Ecology Centre hosted its inaugural Earth Day Book Talk in 2016 with three leading authors who provided a link to how nature is captured in their prose.
 
-I'll be the Master of Ceremonies again for 2017!
+2017 expanded to include a Family Program and our key note speaker was Diana Beresford-Kroeger.
 
-Circle April 22 on your calendar.  Details to be released.
+For the third annual Earth Day at CEC, the program will expand to include two days of writers' workshops, family day and the Book Talk evening! Please join us to celebrate Earth Day alongside the historic Mattawa River!
