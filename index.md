@@ -14,6 +14,10 @@ My life is an open book and this website is the place where I will share my pass
 
 [Read my blog!]({{ site.url }}/blog/)
 
+<i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Time Travel](http://globalnews.ca/video/3538843/janet-joys-june-books-you-have-to-read).
+
+<i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Are we there yet?](http://globalnews.ca/video/3457965/reading-your-road-trip-away).
+
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Up a tree for Earth Day](http://globalnews.ca/video/3370907/janet-joy-wilsons-earth-day-books).
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Brought to you by the letter M](http://globalnews.ca/video/3321506/dial-m-for-march).
