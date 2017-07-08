@@ -8,7 +8,7 @@ tag:
 - travel
 ---
 
-![vietnambicycle]({{ site.url }}/images/blog/Vietnambicycle.jpg)
+![vietnambicycle]({{ site.url }}/images/blog/vietnambicycle.jpg)
 
 ## VELO
 
@@ -21,19 +21,19 @@ Benz Velo, the automobile
 Velo, Greece, a town
 Velo, a prefix form of velum (soft palatte)
 
-![vietnamvolunteer]({{ site.url }}/images/blog/Vietnamvolunteer.jpg)
+![vietnamvolunteer]({{ site.url }}/images/blog/vietnamvolunteer.jpg)
 
 ## LOVE
 
 Move the letters around and it spells love.
 
-![vietnamlove]({{ site.url }}/images/blog/Vietnamlove.jpg)
+![vietnamlove]({{ site.url }}/images/blog/vietnamlove.jpg)
 
 ## journey
 
 In May I went to Vietnam.  
 
-![vietnamrice]({{ site.url }}/images/blog/Vietnamrice.jpg)
+![vietnamrice]({{ site.url }}/images/blog/vietnamrice.jpg)
 
 I cycled in the Mekong Delta with [Spice Roads](https://www.spiceroads.com/) with a guide/translator and a driver. It was Low Season so to be on a tour with me, myself & I was EXTRAordinary!!
 
