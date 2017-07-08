@@ -13,13 +13,13 @@ tag:
 ## VELO
 
 It may refer to:
-A bicycle
-Christian Nestor Velo, Malagasy politician
-Marco Velo, Italian cyclist
-VeloBind, the binding
-Benz Velo, the automobile
-Velo, Greece, a town
-Velo, a prefix form of velum (soft palatte)
+- A bicycle
+- Christian Nestor Velo, Malagasy politician
+- Marco Velo, Italian cyclist
+- VeloBind, the binding
+- Benz Velo, the automobile
+- Velo, Greece, a town
+- Velo, a prefix form of velum (soft palatte)
 
 ![vietnamvolunteer]({{ site.url }}/images/blog/vietnamvolunteer.jpg)
 
