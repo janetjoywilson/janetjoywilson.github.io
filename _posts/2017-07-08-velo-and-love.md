@@ -38,7 +38,7 @@ I love riding my bicycle and I love getting into the heart of a country. I have 
 
 ## journey
 
-I flew to Vietnam in May and since the journey is 24 hours I carved out time for riding a bicycle before my work with [Habitat for Humanity](http://habitatglobalvillage.ca/). That was an excellent idea for so many different reasons like physically I could unwind from airports & planes and to explore a country on two wheels gets you up close and personal.
+I flew to Vietnam in May and since the journey is 24 hours I carved out time for riding a bicycle before and after my work with [Habitat for Humanity](http://habitatglobalvillage.ca/). That was an excellent idea for so many different reasons because physically I could unwind from airports & planes and secondly to explore a country on two wheels gets you up close and personal.
 
 After landing in Ho Chi Minh City I traveled to the Mekong Delta with the [Spice Roads](https://www.spiceroads.com/) guide/translator and their driver. It was Low Season therefore I had a private tour which was EXTRAordinary!!
 
@@ -64,17 +64,19 @@ The Mekong River and its tributaries are crucial to rice production in Vietnam. 
 
 ![vietnamcake]({{ site.url }}/images/blog/vietnamcake.jpg)
 
-As we cycled we came across a group of women of all ages making a banana & sticky rice cake that would be steamed in banana leaf for a day in preparation for a party to remember the dead. We stopped and helped!
+As we cycled we came across a group of women of all ages making fifty banana & sticky rice cakes that would be steamed in banana leaves for 12 hours. This food was for a party to remember the dead. We stopped and helped!
 
 The country has experienced significant economic growth in the past two decades as the country shifted to a market-style economy. A driving force for the future is Vietnam’s strongly motivated and educated population—the country boasts a 90 percent literacy rate.
 
 ![vietnamreading]({{ site.url }}/images/blog/vietnamreading.jpg)
 
-What was I reading during my travels?  I took with me [The God Of Small Things](https://www.chapters.indigo.ca/en-ca/books/the-god-of-small-things/9780679309413-item.html) by Arundhati Roy. Why? Because I had never read it! Published twenty years ago to international bestseller status and with a new book, her first novel in twenty years coming this fall, I felt I needed to spend time with this "breathtaking masterpiece".
+What was I reading during my travels? I took with me [The God Of Small Things](https://www.chapters.indigo.ca/en-ca/books/the-god-of-small-things/9780679309413-item.html) by Arundhati Roy. The photo is from the elegant and literary [The Alcove Library Hotel](http://alcovehotel.com.vn/) in Saigon.
+
+ Why did I choose THIS book? Because I had never read it! Published twenty years ago to international bestseller status and with a new novel, her first fiction in twenty years coming this fall, I felt I needed to spend time with this "breathtaking masterpiece".
 
 "He could do only one thing at a time. If he held her, he couldn't kiss her. If he kissed her, he couldn't see her. If he saw her, he could feel her."
 
-I went to Kerala, India in 2013 and so her lush evocative descriptions were intensified for me as I'd been there and with the heat and humidity of Vietnam it was the perfect companion for my adventure.
+I worked in Kerala, India in 2013 and Roy's lush evocative descriptions were intensified for me as along with the heat and humidity of Vietnam. It was the perfect narrative companion for my adventure.
 
 Even though Vietnam is one of the world’s fastest growing economies, there are presently 4.6 million poor households, according to the government’s own statistics. Recent data show that 7,000 billion dong (about US$433 million) in financial support is needed for 700,000 households living in poor conditions.
 
@@ -86,18 +88,16 @@ At the end of two weeks in Vietnam I participated in a private culinary tour on 
 
 OMG the food has been so incredibly delicious everywhere with fresh simple spicy food whether in restaurants or the awesome street food! This tour started in the city getting a Bánh mì sandwich. Bánh mì means bread or more specifically baguette which was introduced by the French during the colonial period in Vietnam.  The baguette is made with rice flour along with wheat flour.
 
-![vietnamgrasshopper]({{ site.url }}/images/blog/vietnamgrasshopper.jpg)
-
 Then we cycled outside the city through the farmers' fields and yes then into a farmer's kitchen for their special dish!
 
 ![vietnamfarm]({{ site.url }}/images/blog/vietnamfarm.jpg)
 
 By the end of the evening after five stops for a variety of dishes including bbq, beer, cheese, ice cream, rolls and more! I was thankful I was on a bicycle as I could roll continue to generate an appetite and then my guide took me back to my hotel on his motorbike.
 
-What a night!!
-
-
+What an unbelievable trip!!
 
 ## write your own life
 
-My life has been overflowing with exotic travel, events and emotions.
+My life has been overflowing with exotic travel, events and emotions which I am so grateful to be physically able to execute and have the ambition to challenge myself.
+
+What's next? More!!
