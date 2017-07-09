@@ -72,9 +72,9 @@ The country has experienced significant economic growth in the past two decades 
 
 What was I reading during my travels? I took with me [The God Of Small Things](https://www.chapters.indigo.ca/en-ca/books/the-god-of-small-things/9780679309413-item.html) by Arundhati Roy. The photo is from the elegant and literary [The Alcove Library Hotel](http://alcovehotel.com.vn/) in Saigon.
 
- Why did I choose THIS book? Because I had never read it! Published twenty years ago to international bestseller status and with a new novel, her first fiction in twenty years coming this fall, I felt I needed to spend time with this "breathtaking masterpiece".
+ Why did I choose THIS book? Because I had never read it! Published twenty years ago to international bestseller status and with a [new novel](https://www.chapters.indigo.ca/en-ca/books/the-ministry-of-utmost-happiness/9780735234345-item.html?&mkwid=s_dc&pcrid=196911553129&pkw=ministry%20of%20utmost%20happiness&pmt=e&s_campaign=goo-Books+-+Bestsellers&gclid=CjwKEAjwqIfLBRCk6vH_rJq7yD0SJACG18frTXnMQvmQLYEVprp_ANj5i-LKQ-FLupaL0p-bUv3-ZBoCtqTw_wcB), her first fiction in twenty years coming this fall, I felt I needed to spend time with this "breathtaking masterpiece".
 
-"He could do only one thing at a time. If he held her, he couldn't kiss her. If he kissed her, he couldn't see her. If he saw her, he could feel her."
+"He could do only one thing at a time. If he held her, he couldn't kiss her. If he kissed her, he couldn't see her. If he saw her, he couldn't feel her."
 
 I worked in Kerala, India in 2013 and Roy's lush evocative descriptions were intensified for me as along with the heat and humidity of Vietnam. It was the perfect narrative companion for my adventure.
 
@@ -88,11 +88,11 @@ At the end of two weeks in Vietnam I participated in a private culinary tour on 
 
 OMG the food has been so incredibly delicious everywhere with fresh simple spicy food whether in restaurants or the awesome street food! This tour started in the city getting a Bánh mì sandwich. Bánh mì means bread or more specifically baguette which was introduced by the French during the colonial period in Vietnam.  The baguette is made with rice flour along with wheat flour.
 
-Then we cycled outside the city through the farmers' fields and yes then into a farmer's kitchen for their special dish!
+Then we cycled outside the city through the farmers' fields and yes then into a farmer's kitchen for her special dish with a secret sauce!
 
 ![vietnamfarm]({{ site.url }}/images/blog/vietnamfarm.jpg)
 
-By the end of the evening after five stops for a variety of dishes including bbq, beer, cheese, ice cream, rolls and more! I was thankful I was on a bicycle as I could roll continue to generate an appetite and then my guide took me back to my hotel on his motorbike.
+By the end of the evening after five stops for a variety of dishes including bbq, beer, cheese, ice cream, rolls and more! I was thankful I was on a bicycle as I could continue to generate an appetite and then my guide took me back to my hotel on his motorbike.
 
 What an unbelievable trip!!
 
