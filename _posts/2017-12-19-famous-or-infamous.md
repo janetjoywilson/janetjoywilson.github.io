@@ -34,6 +34,8 @@ Furthermore, each card includes the name of the animal in four extra languages i
 
 Since I visited [CELA](http://iguana.celalibrary.ca/iguana/www.main.cls?surl=defaultCELA) (Centre for Equitable Library Access) in the summer of 2016 on a [Cycling for Librairies tour](http://janetjoywilson.ca/have-you-heard-books-sound-great/), I’ve been tuned in to audiobooks and the books in DK Canada Braille series. [COUNTING](https://penguinrandomhouse.ca/books/532841/dk-braille-counting#9781465436139) is for children 2-5 years old.
 
+![counting]({{ site.url }}/images/blog/counting.jpg)
+
 This is a series of high-quality, custom books with braille and tactile images for blind and partially sighted children, or sighted children with blind parents. DK Braille books combine uncontracted Unified English Braille and large type with high-contrast colors, embossed images, and tactile cutout shapes for children to feel with their fingers. The combination of text alongside the braille enables sighted parents to share the reading experience with visually impaired children, and for sighted children to share with their visually impaired parents.
 
 ![teacup]({{ site.url }}/images/blog/teacup.jpg)
@@ -48,7 +50,7 @@ This is a unique refugee story of a young boy. There is an innocence, loss, cour
 
 ![ferdinand]({{ site.url }}/images/blog/ferdinand.jpg)
 
-There’s a new movie coming and may I suggest, give this adorable book & toy set for any occasion! [THE STORY OF FERDINAND](https://en.wikipedia.org/wiki/The_Story_of_Ferdinand) by Munro Leaf with drawings by Rober Lawson is a perfect combination of story and art. It’s a “little lesson’  that was written during the Spanish Civil War but is as true today.   Ferdinand is more than a symbol of peace, but an icon for the outsider and bullied.
+There’s a new animated feature in the theatres but may I suggest, giving this adorable book & toy set for any occasion! [THE STORY OF FERDINAND](https://en.wikipedia.org/wiki/The_Story_of_Ferdinand) by Munro Leaf with drawings by Rober Lawson is a perfect combination of story and art. It’s a “little lesson’  that was written during the Spanish Civil War but is as true today.   Ferdinand is more than a symbol of peace, but an icon for the outsider and bullied.
 
 Did you know, the book’s first run by Viking Press in 1936 sold 14,000 copies at $1 each. The following year saw sales increase to 68,000 and by 1938, the book was selling at 3,000 per week. That year, it outsold [Gone with the Wind](https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)) to become the number one best seller in the United States!
 
@@ -96,7 +98,7 @@ Math has never been merrier.
 
 Brimming with charm and humour, often at Dave’s expense, these twelve stories entertain on every page, with [CHRISTMAS AT THE VINYL CAFE](https://www.chapters.indigo.ca/en-ca/books/christmas-at-the-vinyl-cafe/9780735235120-item.html?ikwid=christmas+at+the+vinyl+cafe&ikwsec=Home&ikwidx=0) by Stuart McLean.
 
-## In his final months, Stuart had begun talking about “the next book. It made us so happy because we were reminded that Stuart didn’t want the little world he created, the Vinyl Cafe, to end when he did. Neither do we. For that reason, we couldn’t be happier to celebrate Stuart’s life and work with this book. And we hope you enjoy this collection as much as we do. – long suffering story editor Meg Master and Vinyl Cafe producer Jess Milton 2017 RIP Stuart McLean 1948-2017
+## In his final months, Stuart had begun talking about “the next book. It made us so happy because we were reminded that Stuart didn’t want the little world he created, the Vinyl Cafe, to end when he did. Neither do we. For that reason, we couldn’t be happier to celebrate Stuart’s life and work with this book. And we hope you enjoy this collection as much as we do. – long suffering story editor Meg Master and Vinyl Cafe producer Jess Milton    RIP Stuart McLean 1948-2017
 
 ![brolliology]({{ site.url }}/images/blog/brolliology.jpg)
 
@@ -131,3 +133,9 @@ I'd love to know what books for gifts you purchased this year!
 Happy holidays to you and yours,
 
 Janet Joy
+
+By the way, WHY did I call this blog Famous or Infamous?
+
+BECAUSE a brilliant brooklyn book publisher, [Melville House](https://www.mhpbooks.com/), [wrote about me and a wee free book idea](https://www.mhpbooks.com/hows-about-a-free-book/) I had on their incomparable website leaving me gobsmacked and speechless for a couple of minutes!!
+
+Will I become famous or infamous ... the jury is out.
