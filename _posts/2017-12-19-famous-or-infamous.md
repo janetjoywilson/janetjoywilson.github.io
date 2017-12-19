@@ -62,6 +62,8 @@ Did you know, the book’s first run by Viking Press in 1936 sold 14,000 copies 
 
 I think this is a great family book and will engage any reluctant readers. It’ll launch young minds into space and explore new topics with ease!
 
+Teachers also love it!  Heidi from Vancouver says "There are so many facts in this book that will amaze me and my students - for instance astronauts don’t use normal pens in space. I can see this book sparking inquiries in my classroom. My students love DK books. The visuals are stunning. They become immersed when opening a cover & I hear lots of oohs & ahs."
+
 ![bookofdust]({{ site.url }}/images/blog/bookofdust.jpg)
 
 [THE BOOK OF DUST](https://www.chapters.indigo.ca/en-ca/books/the-book-of-dust-la/9780375815300-item.html?ikwid=the+book+of+dust+philip+pullman&ikwsec=Home&ikwidx=0) by bestselling author Philip Pullman. I have to recommend the beautiful hardcover edition for your bookshelf but also the [audio version read by Michael Sheen](https://www.chapters.indigo.ca/en-ca/books/the-book-of-dust-la/9780525522980-item.html?ref=item_page%3avariation).  
