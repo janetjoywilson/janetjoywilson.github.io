@@ -45,6 +45,8 @@ Chipper who is a very special dog. He’s part of a multi-million-dollar experim
 Twelve-year-old Jeff Conroy lives with his aunt and helps run her lakeside cabin-rental business. Jeff desperately misses his parents, who were killed in a plane crash a year earlier. But at least he’s made one friend: Emily, a computer whiz, who has the coolest fort ever: a trackless, abandoned train station in the middle of the forest.
 After eluding his would-be captors, Chipper boards a bus to the country that ends up taking him to Jeff and Emily, who discover a computer port in Chipper’s collar. Chipper’s arrival is not random, it turns out. He has been looking for Jeff–and now so is Dagger!
 
+There is research that shows children who don't read during the summer can lose up to three months of reading progress and that loss has a cumulative, long-term effect. So why not something fun? AND this book would be great for a fall book report as there's science, espionage, friendship, family and more to dig into for a school report. 
+
 ## Pink Steering Wheels will take you far
 
 The majority of women, when they lose their husbands unexpectedly, are paralyzed by grief. Laura Fahrenthold, whose award-winning journalist husband succumbed to a heart attack in 2009, got moving. She packed her two daughters into an RV with a pink steering wheel and proceeded to drive across America and Canada, scattering her husband’s ashes. The result? A journey of self-discovery and renewal, love and hope, punctuated with stops at Walmart and Costco.
