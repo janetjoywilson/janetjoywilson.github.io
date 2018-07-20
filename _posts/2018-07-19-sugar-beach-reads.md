@@ -47,7 +47,7 @@ After eluding his would-be captors, Chipper boards a bus to the country that end
 
 There is research that shows children who don't read during the summer can lose up to three months of reading progress and that loss has a cumulative, long-term effect. So why not something fun? AND this book would be great for a fall book report as there's science, espionage, friendship, family and more to dig into for a school report.
 
-## pink steering wheels will take you far
+## a pink steering wheel will take you far
 
 The majority of women, when they lose their husbands unexpectedly, are paralyzed by grief. Laura Fahrenthold, whose award-winning journalist husband succumbed to a heart attack in 2009, got moving. She packed her two daughters into an RV with a pink steering wheel and proceeded to drive across America and Canada, scattering her husband’s ashes. The result? A journey of self-discovery and renewal, love and hope, punctuated with stops at Walmart and Costco.
 
