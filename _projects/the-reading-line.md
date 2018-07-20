@@ -1,6 +1,6 @@
 ---
 layout: project
-title: The Reading Line
+title: The Reading Line Artistic Director
 link: http://thereadingline.ca
 weight: 2
 ---
