@@ -45,6 +45,14 @@ Negley is carving out a niche exploring 21st-century masculinity issues for litt
 
 ## do you give books to the men in your life?
 
-I brought a book on a first date once. It was [What We Do Now](https://www.mhpbooks.com/books/what-we-do-now-2/. It had just been published and I was carrying it around with me. I told the prospect something like "even if we never see each other again, I'll have left you with the best gift." 
+I brought a book on a first date once. It was [What We Do Now](https://www.mhpbooks.com/books/what-we-do-now-2/. It had just been published and I was carrying it around with me.
+
+![what-we-do-now.jpg]({{ site.url }}/images/blog/what-we-do-now.jpg)
+
+I told the prospect something like "even if we never see each other again, I'll have given you with the best gift." [What We Do Now](https://www.mhpbooks.com/books/what-we-do-now-2/ is a collection of passionate manifestos by some of the country's leading progressives.
+
+Among the contributors are Bernie Sanders, Elizabeth Warren, Gloria Steinem, Paul Krugman, Robert B. Reich, George Saunders and Dave Eggers as well the heads of the ACLU, the NAACP, the Sierra Club, the Arab American Association, the National GLBTQ Task Force, and other prominent activists.
+
+These economists, environmentalists, activists, artists, politicians, and novelists offer encouragement and guidance to practicing acts of resistance.
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Book Loving Dads](https://globalnews.ca/video/4273952/best-books-for-the-book-loving-dad)
