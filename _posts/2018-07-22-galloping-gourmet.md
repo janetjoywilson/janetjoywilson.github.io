@@ -55,4 +55,8 @@ Among the contributors are Bernie Sanders, Elizabeth Warren, Gloria Steinem, Pau
 
 These economists, environmentalists, activists, artists, politicians, and novelists offer encouragement and guidance to practicing acts of resistance.
 
+## for those wondering
+
+That first date was the start of many more until there was a last date. Oh well, I have more books!
+
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Book Loving Dads](https://globalnews.ca/video/4273952/best-books-for-the-book-loving-dad)
