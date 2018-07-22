@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Galloping Gourmet"
-date: 2018-07-19    
+date: 2018-07-22    
 excerpt: "open this culinary time capsule"
 tag:
 - books
