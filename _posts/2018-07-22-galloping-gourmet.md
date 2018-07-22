@@ -37,19 +37,19 @@ Keith Negley’s art is playful and tells the story of a new father who is no lo
 
 ## what others think:
 
-The brief, succinct text conveys — with just the right amount of humour — a child’s amazement at his dad’s life pre-fatherhood, and the wonderful art does a masterful job of expressing both that humour and the unspoken father-son bond. Montreal Gazette
+The brief, succinct text conveys — with just the right amount of humour — a child’s amazement at his dad’s life pre-fatherhood, and the wonderful art does a masterful job of expressing both that humour and the unspoken father-son bond. - Montreal Gazette
 
-A sweet little story about father and son, while also serving as a wink and a nod to parents whose party days are behind them. The Globe and Mail
+A sweet little story about father and son, while also serving as a wink and a nod to parents whose party days are behind them. - The Globe and Mail
 
-Negley is carving out a niche exploring 21st-century masculinity issues for little dudes, in sincere and graphically sophisticated picture books that design-conscious parents will be happy to keep around the house. The New York Times
+Negley is carving out a niche exploring 21st-century masculinity issues for little dudes, in sincere and graphically sophisticated picture books that design-conscious parents will be happy to keep around the house. - The New York Times
 
 ## do you give books to the men in your life?
 
-I brought a book on a first date once. It was [What We Do Now](https://www.mhpbooks.com/books/what-we-do-now-2/. It had just been published and I was carrying it around with me.
+I brought a book on a first date once. It was [What We Do Now](https://www.mhpbooks.com/books/what-we-do-now-2/). It had just been published and I was carrying it around with me.
 
 ![what-we-do-now.jpg]({{ site.url }}/images/blog/what-we-do-now.jpg)
 
-I told the prospect something like "even if we never see each other again, I'll have given you with the best gift." [What We Do Now](https://www.mhpbooks.com/books/what-we-do-now-2/ is a collection of passionate manifestos by some of the country's leading progressives.
+I told the prospect something like "even if we never see each other again, I'll have given you with the best gift." [What We Do Now](https://www.mhpbooks.com/books/what-we-do-now-2/) is a collection of passionate manifestos by some of the country's leading progressives.
 
 Among the contributors are Bernie Sanders, Elizabeth Warren, Gloria Steinem, Paul Krugman, Robert B. Reich, George Saunders and Dave Eggers as well the heads of the ACLU, the NAACP, the Sierra Club, the Arab American Association, the National GLBTQ Task Force, and other prominent activists.
 
