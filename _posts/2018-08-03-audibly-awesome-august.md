@@ -50,7 +50,7 @@ Combining fascinating reportage, eye-opening research, and Rubinstein’s own di
 
 ![dead-kid-detective]({{ site.url }}/images/blog/dead-kid-detective.jpg)
 
-[Evan Munday](http://idontlikemundays.com/ has written an engaging book with a resilient heroine, a dead but lively supporting case and enough wit to grease the wheels says Kirkus Reviews.  He has a unique brand of funny and your teenagers will love this geeky pop culture tale.
+[Evan Munday](http://idontlikemundays.com/) has written an engaging book with a resilient heroine, a dead but lively supporting case and enough wit to grease the wheels says Kirkus Reviews.  He has a unique brand of funny and your teenagers will love this geeky pop culture tale.
 
 Thirteen-year-old October Schwartz is new in town, and short on friends. Naturally, she spends most of her time in the Sticksville Cemetery, which just happens to border her
 backyard. And that backyard just happens to be the home of five dead teenagers, each from a different era of the past: there’s the dead United Empire Loyalist! The dead escaped slave who made her way north via the Underground Railroad! The dead quintuplet!
