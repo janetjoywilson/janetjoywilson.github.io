@@ -40,7 +40,7 @@ Connected devices and spaces are becoming more mainstream, and with them, new li
 The humble act of putting one foot in front of the other transcends age, geography, culture, and class, and is one of the most economical and environmentally responsible
 modes of transit. Yet with our modern fixation on speed, this healthy pedestrian activity has been largely left behind.
 
-At a personal and professional crossroads, writer, editor, and obsessive walker Dan Rubinstein travelled throughout the U.S., U.K., and Canada to walk with people who saw the act not only as a form of transportation and recreation, but also as a path to a better world. There are no magic-bullet solutions to modern epidemics like obesity, anxiety, alienation, and climate change. But what if there is a simple way to take a step in the right direction?
+At a personal and professional crossroads, writer, editor, and obsessive walker [Dan Rubinstein](https://borntowalk.org/about/) travelled throughout the U.S., U.K., and Canada to walk with people who saw the act not only as a form of transportation and recreation, but also as a path to a better world. There are no magic-bullet solutions to modern epidemics like obesity, anxiety, alienation, and climate change. But what if there is a simple way to take a step in the right direction?
 
 ## Born to Walk
 
@@ -51,6 +51,8 @@ Combining fascinating reportage, eye-opening research, and Rubinstein’s own di
 ![dead-kid-detective]({{ site.url }}/images/blog/dead-kid-detective.jpg)
 
 [Evan Munday](http://idontlikemundays.com/) has written an engaging book with a resilient heroine, a dead but lively supporting case and enough wit to grease the wheels says Kirkus Reviews.  He has a unique brand of funny and your teenagers will love this geeky pop culture tale.
+
+## Dead Kid Detective
 
 Thirteen-year-old October Schwartz is new in town, and short on friends. Naturally, she spends most of her time in the Sticksville Cemetery, which just happens to border her
 backyard. And that backyard just happens to be the home of five dead teenagers, each from a different era of the past: there’s the dead United Empire Loyalist! The dead escaped slave who made her way north via the Underground Railroad! The dead quintuplet!
@@ -67,6 +69,6 @@ five dead friends find themselves in the midst of a nefarious murder plot, thick
 
 Whatever format you choose to “read” it’s all great! From a printed book, braille, tablet or audiobook!  
 
-Go back in time to August 17, 2016 when I first told Jeff on Global TV The Morning Show about audiobooks!
+Let's go back in time to August 17, 2016 when I first told Jeff about audiobooks!
 
 <i class="fa fa-television" aria-hidden="true"></i> [GLOBAL TV The Morning Show](https://globalnews.ca/video/2887566/janet-joy-wilsons-august-book-picks)
