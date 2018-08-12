@@ -11,7 +11,7 @@ tag:
 
 ## audiobooks are awesome
 
-I remember when it was called books on tape. Yes, I know I'm dating myself but I played cassette tapes and OMG here's a memory ... my brother had a car with a 8 Track Tape in it that always played Meatloaf's Bat out of Hell. haha
+I remember when it was called books on tape. Yes, I know I'm dating myself but I played cassette tapes and OMG here's a memory ... my brother had a car with a 8 Track Tape in it that always played Meatloaf's [Bat out of Hell](https://youtu.be/3QGMCSCFoKA).
 
 If you tell a friend you're listening to an audiobook do they say "That's not really reading." Listening to a book is different than reading yourself but the content of the book's message is still conveyed.
 
