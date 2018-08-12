@@ -11,7 +11,7 @@ tag:
 
 ## audiobooks are awesome
 
-I remember when it was called Books On Tape. Yes, I know I'm dating myself but I played cassette tapes and OMG here's a memory ... my brother had a car with a 8 Track Tape in it that always played Meatloaf's Bat out of Hell. haha
+I remember when it was called books on tape. Yes, I know I'm dating myself but I played cassette tapes and OMG here's a memory ... my brother had a car with a 8 Track Tape in it that always played Meatloaf's Bat out of Hell. haha
 
 If you tell a friend you're listening to an audiobook do they say "That's not really reading." Listening to a book is different than reading yourself but the content of the book's message is still conveyed.
 
@@ -23,7 +23,7 @@ Why do I love audiobooks?
 
 Audiobooks promote literacy!
 
-For those of us who work with words, here are some numbers: audio increases reading accuracy by 52% and  improves comprehension by 76%.
+For those of us who work with words, here are some numbers: audio increases reading accuracy by 52%, improves comprehension by 76%, test scores are increased by 21% when engaged in multi-modal learning versus single-mode and combining print and audio increases recall 40% over print alone.
 
 Children who are better listeners are also better learners.
 
@@ -33,7 +33,11 @@ Quality narration is what elevates the audiobook listening experience from the p
 
 ## the future is connected
 
-Connected devices and spaces are becoming more mainstream, and with them, new listening opportunities in new environment. The recent adoption of smartwatches, smart home speakers and other connected devices, audiobooks are able to integrate with people’s lifestyles more than ever before. I like to play an audiobook while I'm cooking in the kitchen don't you? Or are you more in the car or while walking?
+Connected devices and spaces are becoming more mainstream, and with them, new listening opportunities in new environment. The recent adoption of smartwatches, smart home speakers and other connected devices, audiobooks are able to integrate with people’s lifestyles more than ever before.
+
+Audio is available for download or streaming wherever audiobooks are available. Each retailer has their own formats, and some provide files in both MP3 and WAV. I use  [OverDrive](https://help.overdrive.com/customer/portal/articles/1529341-what-is-overdrive-) which is a free service offered by the [Toronto Public Library](https://www.torontopubliclibrary.ca/). Every OverDrive collection is slightly different because each library or school picks the digital content they want for their users.
+
+I like to play an audiobook while I'm cooking in the kitchen don't you? Or are you more in the car or while walking?
 
 ![born-to-walk]({{ site.url }}/images/blog/born-to-walk.jpg)
 
@@ -46,7 +50,7 @@ At a personal and professional crossroads, writer, editor, and obsessive walker 
 
 Combining fascinating reportage, eye-opening research, and Rubinstein’s own discoveries, [Born to Walk](https://ecwpress.com/products/born-to-walk) explores how far this ancient habit can take us, how much repair is within range, and guarantees that you’ll never again take walking for granted.
 
-<i class="fa fa-microphone" aria-hidden="true"></i> 10 hours & 55 minutes with narrator [Braden Wright](http://www.bradenwright.com/) will help you put one foot in front of the other!
+<i class="fa fa-microphone" aria-hidden="true"></i> 10 hours & 55 minutes with narrator  [Braden Wright](http://www.bradenwright.com/) who will help you put one foot in front of the other!
 
 ![dead-kid-detective]({{ site.url }}/images/blog/dead-kid-detective.jpg)
 
@@ -64,6 +68,18 @@ When Sticksville Central High School’s beloved French teacher dies in a suspic
 five dead friends find themselves in the midst of a nefarious murder plot, thick with car chases, cafeteria fights, sociopathic math teachers, real estate appointments, and a wacky adventure that might uncover the truth about a bomb that exploded almost 40 years ago.
 
 <i class="fa fa-microphone" aria-hidden="true"></i> 9 hours and 22 minutes with narrator  [Michelle Monteith](https://www.imdb.com/name/nm1474308/).
+
+## Starlight
+
+The final novel from Richard Wagamese, the bestselling and beloved author of [Indian Horse](https://www.chapters.indigo.ca/en-ca/books/indian-horse/9781553654025-item.html?ikwid=indian+horse&ikwsec=Home&ikwidx=0) and [Medicine Walk](https://www.chapters.indigo.ca/en-ca/books/medicine-walk/9780771089213-item.html?ikwid=medicine+walk&ikwsec=Home&ikwidx=0), centers on an abused woman on the run who finds refuge on a farm owned by an Indigenous man with wounds of his own. A profoundly moving novel about the redemptive power of love, mercy, and compassion and the land's ability to heal us.
+
+![starlight]({{ site.url }}/images/blog/starlight.jpg)
+
+[Starlight](https://www.chapters.indigo.ca/en-ca/books/starlight/9780771070846-item.html?ikwid=starlight&ikwsec=Home&ikwidx=0) was unfinished at the time of Richard Wagamese's death, yet every page radiates with his masterful storytelling, intense humanism, and insights that are as hard-earned as they are beautiful. With astonishing scenes set in the rugged backcountry of the B.C. Interior, and characters whose scars cut deep even as their journey toward healing and forgiveness lifts us, Starlight is a last gift to readers from a writer who believed in the power of stories to save us.
+
+McClelland & Stewart Senior Editor Anita Chong said: "When Richard Wagamese died in March 2017, we lost one of our great writers. While it is tragic that Richard did not have the chance to complete what was clearly his masterpiece, what he accomplished in the pages of Starlight is deserving of celebration. And we can't imagine a more fitting tribute to Richard Wagamese, a man who believed in the healing power of story, than to share his majestic last novel with readers."
+
+<i class="fa fa-microphone" aria-hidden="true"></i> 6 hours and 28 minutes with narrator [Wesley French](https://soulpepper.ca/performances/vimy/1998/wesley-french/3987). Available soon wherever great audiobooks are found.
 
 ![library]({{ site.url }}/images/blog/library.jpg)
 
