@@ -39,6 +39,8 @@ Audio is available for download or streaming wherever audiobooks are available. 
 
 I like to play an audiobook while I'm cooking in the kitchen don't you? Or are you more in the car or while walking?
 
+## Born to Walk
+
 ![born-to-walk]({{ site.url }}/images/blog/born-to-walk.jpg)
 
 The humble act of putting one foot in front of the other transcends age, geography, culture, and class, and is one of the most economical and environmentally responsible
@@ -46,26 +48,21 @@ modes of transit. Yet with our modern fixation on speed, this healthy pedestrian
 
 At a personal and professional crossroads, writer, editor, and obsessive walker [Dan Rubinstein](https://borntowalk.org/about/) travelled throughout the U.S., U.K., and Canada to walk with people who saw the act not only as a form of transportation and recreation, but also as a path to a better world. There are no magic-bullet solutions to modern epidemics like obesity, anxiety, alienation, and climate change. But what if there is a simple way to take a step in the right direction?
 
-## Born to Walk
-
 Combining fascinating reportage, eye-opening research, and Rubinstein’s own discoveries, [Born to Walk](https://ecwpress.com/products/born-to-walk) explores how far this ancient habit can take us, how much repair is within range, and guarantees that you’ll never again take walking for granted.
 
 <i class="fa fa-microphone" aria-hidden="true"></i> 10 hours & 55 minutes with narrator  [Braden Wright](http://www.bradenwright.com/) who will help you put one foot in front of the other!
+
+## Dead Kid Detective
 
 ![dead-kid-detective]({{ site.url }}/images/blog/dead-kid-detective.jpg)
 
 [Evan Munday](http://idontlikemundays.com/) has written an engaging book with a resilient heroine, a dead but lively supporting case and enough wit to grease the wheels says Kirkus Reviews.  He has a unique brand of funny and your teenagers will love this geeky pop culture tale.
 
-## Dead Kid Detective
+[The Dead Kid Detective Agency](https://ecwpress.com/products/dead-kid-detective-agency)
 
-Thirteen-year-old October Schwartz is new in town, and short on friends. Naturally, she spends most of her time in the Sticksville Cemetery, which just happens to border her
-backyard. And that backyard just happens to be the home of five dead teenagers, each from a different era of the past: there’s the dead United Empire Loyalist! The dead escaped slave who made her way north via the Underground Railroad! The dead quintuplet!
+This is a fun middle-grade supernatural mystery, kind of like if Nancy Drew were goth and all her friends were dead. Kids will learn a little bit about Canadian history in a fun way, with ghosts and jokes! I love a shared experience and this is an entertaining listen for both kids and parents. Adults will catch some of the horror-movie and music pop-culture references and for kids, there's an appendix at the end that explains them all. if you like this book, there are currently three more in the series though not yet in audiobook format.
 
-Soon, October befriends the five dead kids. Together — using October’s smarts and the dead kids’ abilities to walk through walls and get around undetected and stuff — they
-form [The Dead Kid Detective Agency](https://ecwpress.com/products/dead-kid-detective-agency), committed to solving Sticksville’s most mysterious mysteries. October’s like Nancy Drew, if she’d hung out with corpses.
-
-When Sticksville Central High School’s beloved French teacher dies in a suspicious car accident, it provides the agency with its first bona fide case. Soon October and her
-five dead friends find themselves in the midst of a nefarious murder plot, thick with car chases, cafeteria fights, sociopathic math teachers, real estate appointments, and a wacky adventure that might uncover the truth about a bomb that exploded almost 40 years ago.
+I asked Evan for a behnd the scene story on why he wrote this series and he said "a lot of my interest in Canadian history came from moving to Canada from the U.S. in high school. All this Canadian history was new to me." His favourite books as a kid were Bunnicula and the John Bellairs books, A House with a Clock in its Walls, and they were big influences for his writing. He also shared that the first book has been optioned for TV/film, so there's a slim chance we may one day see this as a television series!
 
 <i class="fa fa-microphone" aria-hidden="true"></i> 9 hours and 22 minutes with narrator  [Michelle Monteith](https://www.imdb.com/name/nm1474308/).
 
@@ -77,7 +74,11 @@ The final novel from Richard Wagamese, the bestselling and beloved author of [In
 
 [Starlight](https://www.chapters.indigo.ca/en-ca/books/starlight/9780771070846-item.html?ikwid=starlight&ikwsec=Home&ikwidx=0) was unfinished at the time of Richard Wagamese's death, yet every page radiates with his masterful storytelling, intense humanism, and insights that are as hard-earned as they are beautiful. With astonishing scenes set in the rugged backcountry of the B.C. Interior, and characters whose scars cut deep even as their journey toward healing and forgiveness lifts us, Starlight is a last gift to readers from a writer who believed in the power of stories to save us.
 
-McClelland & Stewart Senior Editor Anita Chong said: "When Richard Wagamese died in March 2017, we lost one of our great writers. While it is tragic that Richard did not have the chance to complete what was clearly his masterpiece, what he accomplished in the pages of Starlight is deserving of celebration. And we can't imagine a more fitting tribute to Richard Wagamese, a man who believed in the healing power of story, than to share his majestic last novel with readers."
+McClelland & Stewart Senior Editor Anita Chong said: "[When Richard Wagamese died in March 2017](https://www.cbc.ca/news/indigenous/richard-wagamese-obit-1.4020899), we lost one of our great writers. While it is tragic that Richard did not have the chance to complete what was clearly his masterpiece, what he accomplished in the pages of Starlight is deserving of celebration. And we can't imagine a more fitting tribute to Richard Wagamese, a man who believed in the healing power of story, than to share his majestic last novel with readers."
+
+This novel also includes an essay by Wagamese called Finding Father which was shortlisted for the [2015 CBC Nonfiction Prize](http://www.cbc.ca/mediacentre/press-release/2015-cbc-creative-nonfiction-prize-winner-announced).
+
+"I still have the dream, only now we run together into the light."
 
 <i class="fa fa-microphone" aria-hidden="true"></i> 6 hours and 28 minutes with narrator [Wesley French](https://soulpepper.ca/performances/vimy/1998/wesley-french/3987). Available soon wherever great audiobooks are found.
 
