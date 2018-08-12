@@ -19,7 +19,7 @@ Audiobooks have traditionally been used in schools by teachers of second-languag
 
 ![heart]({{ site.url }}/images/blog/heart.jpg)
 
-Why do I love audiobooks?
+## why do I love audiobooks?
 
 Audiobooks promote literacy!
 
@@ -52,7 +52,7 @@ Combining fascinating reportage, eye-opening research, and Rubinstein’s own di
 
 <i class="fa fa-microphone" aria-hidden="true"></i> 10 hours & 55 minutes with narrator  [Braden Wright](http://www.bradenwright.com/) who will help you put one foot in front of the other!
 
-## Dead Kid Detective
+## The Dead Kid Detective Agency
 
 ![dead-kid-detective]({{ site.url }}/images/blog/dead-kid-detective.jpg)
 
