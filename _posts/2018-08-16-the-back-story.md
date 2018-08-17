@@ -29,18 +29,18 @@ Today we are about to embark on the largest Book Ride ever AND I am stressed mor
 
 ## to russia with love
 
-Stress? I put myself under stress when I applied and was accepted to speak at the World Cycling Congress in Moscow, Russia in February 2018. They said да and I immediately got shingles! But I recovered and I traveled to snowy Moscow and killed it at a venue next to Gorky Park!
+Stress? I put myself under stress when I applied and was accepted to speak at the [World Cycling Congress](http://dandyhorsemagazine.com/blog/2018/02/20/winter-cycling-conference-report-from-russia-by-janet-joy-wilson/) in Moscow, Russia in February 2018. They said да and I immediately got shingles! But I recovered and I traveled to snowy Moscow and killed it at a venue next to Gorky Park!
 
-Sharing [The Reading Line](http://thereadingline.ca/)'s mission of making our city a better place, one street and one book at a time on an international stage was incredibly satisfying. Truly this concept is possible in cities around the world.
+Sharing [The Reading Line](http://thereadingline.ca/)'s mission of making our city a better place, one street and one book at a time on an international stage was incredibly satisfying. The 100th anniversary of the [Bloor Viaduct]((http://thereadingline.ca/viaduct/)) ride with authors writing their newcomer stories in fiction, non-fiction, memoir and graphic novel format has been incredible. Taking inspiration from Michael Ondaatje's novel [In The Skin of A Lion](https://www.penguinrandomhouse.ca/books/124591/in-the-skin-of-a-lion-by-michael-ondaatje/9780394281827) we have found OUR voice!
 
-I am saying here ... this is MY last Toronto Book Ride. The Viaduct 100th anniversary ride with authors writing their newcomer stories in fiction, non-fiction, memoir and graphic novel format has been incredible. Taking inspiration from Michael Ondaatje's novel In The Skin of A Lion we have found OUR voice!
+ Why the last TO Book Ride? Toronto has so much happening here right? Truly ... how do YOU decide to spend not only your weekend but a Monday night?!  
 
- Why the last TO Book Ride? Toronto has so much happening here right? How do you decide to spend not only your weekend but a Monday night?!  We don't need to continue a Book Ride on the streets of Toronto. I think taking the concept to other cities in an open source format allows for sharing and building community! It is also sustainable and scaleable unlike our current structure which includes me getting shingles.
+ We don't need to continue a Book Ride on the streets of Toronto. I think taking the concept to other cities in an open source format allows for sharing and building community! It is also sustainable and scaleable unlike our current structure which includes me getting shingles.
 
 ![carrianne]({{ site.url }}/images/blog/carrianne.jpg)
 
 I contacted Carrianne Leung months and months ago. She agreed immediately to participate in the Book Ride. Now she is shortlisted for the Toronto Book Awards for her second novel!
 
-It's the belief of authors and their publicists who support a different kind of reading series like The Reading Series that makes my heart sing.
+It's the belief of authors like Carrianne and their publicists who support a different kind of reading series like The Reading Series that makes my heart sing.
 
 There is more to share about this year's special event and it will come...
