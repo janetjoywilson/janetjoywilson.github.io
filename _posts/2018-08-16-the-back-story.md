@@ -33,7 +33,9 @@ Stress? I put myself under stress when I applied and was accepted to speak at th
 
 Sharing [The Reading Line](http://thereadingline.ca/)'s mission of making our city a better place, one street and one book at a time on an international stage was incredibly satisfying. The 100th anniversary of the [Bloor Viaduct]((http://thereadingline.ca/viaduct/)) ride with authors writing their newcomer stories in fiction, non-fiction, memoir and graphic novel format has been incredible. Taking inspiration from Michael Ondaatje's novel [In The Skin of A Lion](https://www.penguinrandomhouse.ca/books/124591/in-the-skin-of-a-lion-by-michael-ondaatje/9780394281827) we have found OUR voice!
 
- Why the last TO Book Ride? Toronto has so much happening here right? Truly ... how do YOU decide to spend not only your weekend but a Monday night?!  
+ Why the last TO Book Ride?
+
+ Toronto has so much happening here right? Truly ... how do YOU decide to spend not only your weekend but a Monday night?!  
 
  We don't need to continue a Book Ride on the streets of Toronto. I think taking the concept to other cities in an open source format allows for sharing and building community! It is also sustainable and scaleable unlike our current structure which includes me getting shingles.
 
