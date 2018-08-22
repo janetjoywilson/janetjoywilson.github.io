@@ -88,6 +88,6 @@ Let's go back in time to August 17, 2016 when I first told Jeff about audiobooks
 
 <i class="fa fa-television" aria-hidden="true"></i> [GLOBAL TV The Morning Show](https://globalnews.ca/video/2887566/janet-joy-wilsons-august-book-picks)
 
-Here's August 21, 2018 segment where I got Jeff to say "audibly awesome audiobooks for August".
+Here's August 21, 2018 segment where I got Jeff to say "audibly awesome audiobooks for August."
 
 <i class="fa fa-television" aria-hidden="true"></i> [GLOBAL TV The Morning Show](https://globalnews.ca/video/4399314/the-best-august-audiobooks)
