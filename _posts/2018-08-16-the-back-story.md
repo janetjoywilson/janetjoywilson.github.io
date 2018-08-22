@@ -33,16 +33,16 @@ Stress? I put myself under stress when I applied and was accepted to speak at th
 
 Sharing [The Reading Line](http://thereadingline.ca/)'s mission of making our city a better place, one street and one book at a time on an international stage was incredibly satisfying. The 100th anniversary of the [Bloor Viaduct]((http://thereadingline.ca/viaduct/)) ride with authors writing their newcomer stories in fiction, non-fiction, memoir and graphic novel format has been incredible. Taking inspiration from Michael Ondaatje's novel [In The Skin of A Lion](https://www.penguinrandomhouse.ca/books/124591/in-the-skin-of-a-lion-by-michael-ondaatje/9780394281827) we have found OUR voice!
 
- Why the last TO Book Ride?
+## the last Toronto Book Ride
 
  Toronto has so much happening here right? Truly ... how do YOU decide to spend not only your weekend but a Monday night?!  
 
- We don't need to continue a Book Ride on the streets of Toronto. I think taking the concept to other cities in an open source format allows for sharing and building community! It is also sustainable and scaleable unlike our current structure which includes me getting shingles.
+ We don't need to continue a Book Ride on the streets of Toronto. We have an embarrassment of cultural activities and I would rather amplify other cities and towns. I think sharing the concept in an open source format allows for sharing and building community beyond a city limits. It is also sustainable and scalable format unlike our current structure which includes me getting shingles.
 
 ![carrianne]({{ site.url }}/images/blog/carrianne.jpg)
 
-I contacted Carrianne Leung months and months ago. She agreed immediately to participate in the Book Ride. Now she is shortlisted for the Toronto Book Awards for her second novel!
+## we love our authors
 
 It's the belief of authors like Carrianne and their publicists who support a different kind of reading series like The Reading Series that makes my heart sing.
 
-There is more to share about this year's special event and it will come...
+There is more to share about this year's special expanded event which is bridging the city west to east with books and bicycles but for now ... fini. 
