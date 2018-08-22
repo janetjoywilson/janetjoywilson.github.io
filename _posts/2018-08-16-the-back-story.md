@@ -21,7 +21,7 @@ We continued talking after our mini picnic meeting. We got more excited. We then
 
 Today. Amanda lives in Vancouver. I live in Toronto. Our sixth Book Ride is about to kick into gear. I can't believe this is our fifth year!
 
-The first three years we had ZERO money. NADA. Zilch. NONE. We had da best authors who agreed to ride and read for love, hugs and chocolate. In 2017, we spent hours researching and writing a grant application for Toronto Arts Council and Ontario Arts Council. [The Reading Line](http://thereadingline.ca/) is a non-profit but not registered. We do not have a Board of Directors. Toronto Arts Council gave us money! Ontario Arts Council did not. We hired two young men in 2017 with the TAC funding. We paid our authors. We developed a relationship with a graphic design company who were book lovers and cyclists and gave us a non-profit discount. We amplified our efforts and reached 300 book loving people on bicycles!
+The first three years we had ZERO money. NADA. Zilch. NONE. We had da best authors who agreed to ride and read for love, hugs and chocolate. In 2017, we spent hours researching and writing a grant application for Toronto Arts Council and Ontario Arts Council. [The Reading Line](http://thereadingline.ca/) is a non-profit but not registered. We do not have a Board of Directors. Toronto Arts Council gave us money! Ontario Arts Council did not. We hired two young men in 2017 with the TAC funding. We paid our authors. We developed a relationship with the award winning design group, [Gravity Inc.](http://gravityinc.ca/), who are book lovers and cyclists and gave us a non-profit discount. We amplified our efforts and reached 300 book loving people on bicycles!
 
 Today we are about to embark on the largest Book Ride ever AND I am stressed more than I have ever been in my life.
 
@@ -37,12 +37,12 @@ Sharing [The Reading Line](http://thereadingline.ca/)'s mission of making our ci
 
  Toronto has so much happening here right? Truly ... how do YOU decide to spend not only your weekend but a Monday night?!  
 
- We don't need to continue a Book Ride on the streets of Toronto. We have an embarrassment of cultural activities and I would rather amplify other cities and towns. I think sharing the concept in an open source format allows for sharing and building community beyond a city limits. It is also sustainable and scalable format unlike our current structure which includes me getting shingles.
+ We don't need to continue a Book Ride on the streets of Toronto. We have an embarrassment of cultural activities here and I would rather amplify other cities and towns. I think sharing the concept in an open source format allows for sharing and building community. It is also a sustainable and scalable format unlike our current structure which includes me getting shingles.
 
 ![carrianne]({{ site.url }}/images/blog/carrianne.jpg)
 
 ## we love our authors
 
-It's the belief of authors like Carrianne and their publicists who support a different kind of reading series like The Reading Series that makes my heart sing.
+It's the belief of authors like Carrianne and their publicists who support a different kind of reading series like [The Reading Line](http://thereadingline.ca/) that makes my heart sing.
 
-There is more to share about this year's special expanded event which is bridging the city west to east with books and bicycles but for now ... fini. 
+There is more to share about this year's special expanded [Book Ride](http://thereadingline.ca/viaduct/) which is bridging the city west to east with books and bicycles but for now ... fini. 
