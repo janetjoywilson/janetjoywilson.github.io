@@ -29,4 +29,14 @@ Psychologists have identified some factors that make you resilient. They include
 
 ![sunrise2]({{ site.url }}/images/blog/sunrise2.jpg)
 
+this photo is sideways until I figure out why
+
 The sunrise is like a reboot to the previous day. If I leave early enough on my bicycle ride to work, I'll see a sunrise next to Lake Ontario but there are usually buildings in the way. Up north, there is nothing in the way except some trees and even then it provides an inspiring view.
+
+## in·spi·ra·tion
+
+I am inspired by a landscape, a person, a thought, a breeze all within the moment when I am in the outdoors breathing crisp, fresh air.
+
+![sunrise]({{ site.url }}/images/blog/sunrise.jpg)
+
+until I figure out why 
