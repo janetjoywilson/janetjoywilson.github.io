@@ -15,7 +15,7 @@ Which do you prefer? A sunrise or a sunset? Why?
 
 I am partial to a sunrise because I feel I can start fresh. It's a tableau blanc.
 
-![sunrise3]({{ site.url }}/images/blog/sunrise3.jpg)
+![sunrisethree]({{ site.url }}/images/blog/sunrisethree.jpg)
 
 my photo is upside down until I figure out why
 
@@ -27,7 +27,7 @@ I used this word a few times on the trip. As a noun, it means the capacity to re
 
 Psychologists have identified some factors that make you resilient. They include a positive attitude, optimism, the ability to regulate emotions, and the ability to see failure as a form of helpful feedback. I can say I have three of the four as I am not always able to regulate my emotions.
 
-![sunrise2]({{ site.url }}/images/blog/sunrise2.jpg)
+![sunrisetwo]({{ site.url }}/images/blog/sunrisetwo.jpg)
 
 this photo is sideways until I figure out why
 
@@ -39,4 +39,4 @@ I am inspired by a landscape, a person, a thought, a breeze all within the momen
 
 ![sunrise]({{ site.url }}/images/blog/sunrise.jpg)
 
-until I figure out why 
+until I figure out why
