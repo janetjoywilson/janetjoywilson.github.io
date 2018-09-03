@@ -40,3 +40,9 @@ I am inspired by a landscape, a person, a thought, a breeze all within the momen
 ![sunrise]({{ site.url }}/images/blog/sunrise.jpg)
 
 until I figure out why
+
+While I was trying to be "one" with the sunrise, I still had a monkey mind. Thinking about all the things that have happened, will happen or could happen instead of just breathing.
+
+Take a moment to watch this [delightful video by Mingyur Rinpoche](https://youtu.be/n6pMbRiSBPs) a Tibetan Buddhist Master.
+
+Are you breathing? Did you get one breath or two?  
