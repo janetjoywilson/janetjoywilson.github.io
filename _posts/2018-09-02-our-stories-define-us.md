@@ -4,7 +4,7 @@ title: "Our Stories Define Us"
 date: 2018-09-02   
 excerpt: "I love a sunrise"
 tag:
-- books
+- challenge yourself
 - outdoors
 - canoe trip
 ---
@@ -46,3 +46,17 @@ While I was trying to be "one" with the sunrise, I still had a monkey mind. Thin
 Take a moment to watch this [delightful video by Mingyur Rinpoche](https://youtu.be/n6pMbRiSBPs) a Tibetan Buddhist Master.
 
 Are you breathing? Did you get one breath or two?  
+
+I was meditating while carrying a canoe.
+
+![sunlightonwater]({{ site.url }}/images/blog/sunlightonwater.jpg)
+
+I was meditating while sitting on a rock next to Nellie Lake.
+
+![campfire]({{ site.url }}/images/blog/campfire.jpg)
+
+I was meditating as I gazed at the campfire.
+
+## off the grid
+
+Why is it so easy to meditate while away from the city? Gosh. I think I know the answer. I was unplugged. Off the grid. No signal. Just five other women and a tarp to put up in case it rains! Basic needs. 
