@@ -43,7 +43,7 @@ It's a fictionalized story of a real-life rape in a religious colony that is bra
 
 ## Ghosted
 
-I started [Ghosted](https://www.penguinrandomhouse.com/books/563390/ghosted-by-rosie-walsh/9780525522775/) the other night when I thought I was being ghosted yet again. Since I left my husband ([a grey divorce](https://montrealgazette.com/news/canada/grey-divorce-why-are-more-baby-boomers-splitting-up-their-marriages-as-they-get-older/wcm/738d6d58-95d8-4cb6-bf4f-d956bff2899d)) I have tried the online dating scene which sounds cool but is so soul depleting at 54 because I am honest and I am looking to find out if there are others with commonalities that would provide an opportunity for a shared positive experience aka fun! Connections have been far and few between AND perhaps I am se·lec·tive.
+I started [Ghosted](https://www.penguinrandomhouse.com/books/563390/ghosted-by-rosie-walsh/9780525522775/) the other night when I thought I was being ghosted yet again. Since I left my husband ([a grey divorce](https://montrealgazette.com/news/canada/grey-divorce-why-are-more-baby-boomers-splitting-up-their-marriages-as-they-get-older/wcm/738d6d58-95d8-4cb6-bf4f-d956bff2899d)) I have tried the online dating scene which sounds cool but is so soul depleting at 54 because I am honest.  I am looking to find others who are likeminded and offer an opportunity for companionship. Real connections have been far and few between BUT perhaps I am se·lec·tive. Enough about me ...
 
 This novel by Rosie Walsh has been on my side table for a few weeks and then the timing was right.
 
