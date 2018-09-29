@@ -51,7 +51,9 @@ This novel by Rosie Walsh has been on my side table for a few weeks and then the
 
 "Seven perfect days. Then he disappeared. A love story with a secret at its heart." I don't know how this one ends as I'm still reading ... let's discover the ending together!! But don't ghost me.
 
-I ran seven kilometres this morning. I may have to run another 70 km before I open my heart again. It just hurts too much to be vulnerable and open to a new chapter.
+## nature therapy
+
+I ran seven kilometres this morning. I may have to run another 70 km before I open my heart again. It just hurts too much to be vulnerable and open to another new chapter.
 
 ![seven]({{ site.url }}/images/blog/seven.jpg)
 
