@@ -19,13 +19,13 @@ You don't want to read a personal sob story journal entry by me so I won't write
 
 ## New York Times Bestseller and Shortlisted for the 2018 Man Book Prize
 
-Rewind to last night when I read the first lyrical chapter of {THE OVERSTORY by Richard Powers}(http://www.richardpowers.net/the-overstory/). These are the last two sentences of that chapter called Nicholas Hoel which features the mighty chestnut tree:
+Rewind to last night when I read the first lyrical chapter of [THE OVERSTORY by Richard Powers](http://www.richardpowers.net/the-overstory/). These are the last two sentences of that chapter called Nicholas Hoel which features the mighty chestnut tree:
 
 "When he looks up, it's into the branches of the sentinel tree, lone, huge, fractal, and bare against the drifts, lifting its lower limbs and shrugging its ample globe. All its profligate twigs click in the breeze as if this moment, too, so insignificant, so transitory, will be written into its rings and prayed over by branches that wave their semaphores against the bluest of midwestern winter skies."
 
 ![overstory]({{ site.url }}/images/blog/overstory.jpg)
 
-{The Guardian}(https://www.theguardian.com/books/2018/mar/23/the-overstory-by-richard-powers-review) writes "Novelists who use environmentalism tend to turn it into the premise for dystopian fantasies, as in Cormac McCarthy’s The Road or Margaret Atwood’s The Year of the Flood, but lately it’s started creeping into more realist fictions, too. One of the subplots of Jonathan Franzen’s Freedom involves the threat to songbirds posed by domestic cats, but I can’t think of anyone who has taken the principles of environmentalism as far as Richard Powers in his new novel, The Overstory. Powers has made a career out of crossing the line between what CP Snow called “the two cultures” – he worked as a computer programmer before turning to fiction, and in novels such as The Gold Bug Variations and The Echo Maker explores the overlap between literary and scientific sensibilities. Here he addresses some of the difficulties directly:
+[The Guardian](https://www.theguardian.com/books/2018/mar/23/the-overstory-by-richard-powers-review) writes "Novelists who use environmentalism tend to turn it into the premise for dystopian fantasies, as in Cormac McCarthy’s The Road or Margaret Atwood’s The Year of the Flood, but lately it’s started creeping into more realist fictions, too. One of the subplots of Jonathan Franzen’s Freedom involves the threat to songbirds posed by domestic cats, but I can’t think of anyone who has taken the principles of environmentalism as far as Richard Powers in his new novel, The Overstory. Powers has made a career out of crossing the line between what CP Snow called “the two cultures” – he worked as a computer programmer before turning to fiction, and in novels such as The Gold Bug Variations and The Echo Maker explores the overlap between literary and scientific sensibilities. Here he addresses some of the difficulties directly:
 
 She remembers now why she never had the patience for nature. No drama, no development, no colliding hopes and fears. Branching, tangled, messy plots. And she could never keep the characters straight.
 
@@ -35,15 +35,15 @@ What you need is a story. Of course, this is an in-joke, too, because The Overst
 
 Miriam Toews has written a book this year that e v e r y o n e is talking about!
 
-The cover copy describes it as "Ascerbic, funny, tender, sorrowful and wise, {Women Talking}(https://www.penguinrandomhouse.ca/books/562880/women-talking-by-miriam-toews/9780735273962) is composed of equal parts humane love and deep anger." I think this is my third or fourth Toews' book I've read and every time she has me glued to the page wondering where the hell I'm going.
+The cover copy describes it as "Ascerbic, funny, tender, sorrowful and wise, [Women Talking](https://www.penguinrandomhouse.ca/books/562880/women-talking-by-miriam-toews/9780735273962) is composed of equal parts humane love and deep anger." I think this is my third or fourth Toews' book I've read and every time she has me glued to the page wondering where the hell I'm going.
 
 ![womentalking]({{ site.url }}/images/blog/womentalking.jpg)
 
-It's a fictionalized story of a real-life rape in a religious colony that is brave, thoughtful and chilling! Tying into my theme of ripple of dominos, {The Guardian}(https://www.theguardian.com/books/2018/sep/10/women-talking-miriam-toews-review) says "But Toews’s focus isn’t trauma so much as survival. The book unfolds as a series of dialogues transcribed by August, a schoolteacher recently readmitted to the colony following his parents’ excommunication for circulating contraband literature. As he records how the women unpick the ethical conundrums attached to their three possible courses of action, the novel crackles with debate over thorny questions such as whether mothers will have to abandon sons should the women decide to leave the men. (If the women are gone, someone asks, who will do the milking and make them supper?)"
+It's a fictionalized story of a real-life rape in a religious colony that is brave, thoughtful and chilling! Tying into my theme of ripple of dominos, [The Guardian](https://www.theguardian.com/books/2018/sep/10/women-talking-miriam-toews-review) says "But Toews’s focus isn’t trauma so much as survival. The book unfolds as a series of dialogues transcribed by August, a schoolteacher recently readmitted to the colony following his parents’ excommunication for circulating contraband literature. As he records how the women unpick the ethical conundrums attached to their three possible courses of action, the novel crackles with debate over thorny questions such as whether mothers will have to abandon sons should the women decide to leave the men. (If the women are gone, someone asks, who will do the milking and make them supper?)"
 
 ## Ghosted
 
-I started Ghosted the other night when I thought I was being ghosted yet again. Since I left my husband (grey divorce) I have tried the online dating scene sounds cool but is so soul depleting. I am honest. I am looking to find out if there are commonalities that would provide an opportunity for a shared positive experience aka fun! But goddammit there are many who keep swiping left without an investment of a minute.
+I started [Ghosted](https://www.penguinrandomhouse.com/books/563390/ghosted-by-rosie-walsh/9780525522775/) the other night when I thought I was being ghosted yet again. Since I left my husband (grey divorce) I have tried the online dating scene sounds cool but is so soul depleting. I am honest. I am looking to find out if there are commonalities that would provide an opportunity for a shared positive experience aka fun! But goddammit there are many who keep swiping left without an investment of a minute.
 
 This novel by Rosie Walsh has been on my side table for a few weeks and then the timing was right.
 
