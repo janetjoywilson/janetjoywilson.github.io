@@ -4,8 +4,9 @@ title: "Ripple Effect"
 date: 2018-09-29     
 excerpt: "ripples or dominos"
 tag:
-- challenge yourself
-- outdoors
+- books
+- environment 
+- reading
 - resilience
 ---
 
