@@ -43,3 +43,17 @@ This is a riveting and atmospheric picture book about the young woman who wrote 
 Charis Cotter grew up beside a cemetery. Her spooky and suspenseful first novel, The Swallow, was nominated for many awards and received countless honours. Her second novel, The Painting, is "full of emotional truth and connection" and won awards. She lives at the end of the road beside the ocean in one of the most haunted parts of Newfoundland. How could you NOT write about ghosts?!
 
 ![ghostroad]({{ site.url }}/images/blog/ghostroad.jpg)
+
+[The Ghost Road](https://www.penguinrandomhouse.com/books/546558/the-ghost-road-by-charis-cotter/9781101918890/) has of course ghosts along with a family curse, buried secrets — and two girls who have to figure it all out. The first chapter game me the shivers ... will I continue reading? Of course! I have to keep apace with Ruth and Ruby in their investigation in their family's past. The answer lies somewhere along the Ghost Road ... if they can only find it!
+
+## The Exes' Revenge
+
+There is only so much a woman can take ... ain't it the truth! Jo Jakeman has written a page turner and I spent one night & an early morning reading [The Exes' Revenge](https://www.penguinrandomhouse.com/books/577014/the-exes-revenge-by-jo-jakeman/9780440000341/).
+
+![exes]({{ site.url }}/images/blog/exes.jpg)
+
+This is a wickedly fast paced dark debut thriller about three women who’ve all been involved with the same man and realize the one thing they have in common is that they all want revenge against him.
+
+These three very different women–and unlikely allies–reluctantly team up to take revenge against a man who has wronged them all. He's a character you will love to hate.
+
+This "deliciously dark and gripping" novel may be the perfect gift for your newly divorced girlfriend! A scary thought but it is Halloween!
