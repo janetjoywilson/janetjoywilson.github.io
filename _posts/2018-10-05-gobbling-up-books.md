@@ -57,3 +57,11 @@ This is a wickedly fast paced dark debut thriller about three women who’ve all
 These three very different women–and unlikely allies–reluctantly team up to take revenge against a man who has wronged them all. He's a character you will love to hate.
 
 This "deliciously dark and gripping" novel may be the perfect gift for your newly divorced girlfriend! A scary thought but it is Halloween!
+
+## The Morning Show
+
+<i class="fa fa-television" aria-hidden="true"></i> Here's the segment from Global TV's [The Morning Show](https://globalnews.ca/video/4598818/the-spookiest-halloween-books-for-october).
+
+Orange you glad I roll like I do!
+
+![pumpkin]({{ site.url }}/images/blog/pumpkin.jpg)
