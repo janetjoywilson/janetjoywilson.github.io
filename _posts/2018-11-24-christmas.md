@@ -72,4 +72,4 @@ In this story we find a youngster called Sunshine, who is experiencing a series 
 
 The message is “… one that will speak to youngsters from their earliest and most intimidating moments, and will carry them throughout their lives in a wonderfully empowering way…” (Children’s Literary Classics).
 
-Darla sent me a copy along with a couple of extra copies to donate to a school or local charity. My extra books will be for the sibling library at the Mount Sinai Hospital NICU department coordinated by Fabiana Bacchini founder of [HandFullHearts] (http://www.handfullhearts.com/).
+Darla sent me a copy along with a couple of extra copies to donate to a school or local charity. My extra books will be for the sibling library at the Mount Sinai Hospital NICU department coordinated by Fabiana Bacchini founder of [HandFullHearts](http://www.handfullhearts.com/).
