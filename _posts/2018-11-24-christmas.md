@@ -15,7 +15,7 @@ I am listening to [Michelle Obama](https://becomingmichelleobama.com/) and I hav
 
 ![becoming-michelle-obama]({{ site.url }}/images/blog/becoming-michelle-obama.jpg)
 
-In her memoir there is reflection and compelling storytelling from the South Side of Chicago to Washington. I identified with her balancing the demands of motherhood and work. I loved the warmth in her voice when she shared the beginning of her relationship with Barack. When she finally told me they kissed – I swooned. It was so romantic. Then later her honesty with her miscarriage and IVF sessions. She invited me into her public and private world and although I admired her before NOW I am an even larger fan for her continued work for a positive future.
+In her memoir there is reflection and compelling storytelling from the South Side of Chicago to Washington. I identified with her balancing the demands of motherhood and work. I loved the warmth in her voice when she shared the beginning of her relationship with Barack. When she finally told me they kissed – I swooned. It was so romantic. Then later her honesty about her miscarriage and IVF sessions. She invited me into her public and private world and although I admired her before NOW I am an even larger fan for her continued work for a positive future.
 
 Michelle inspires me further with her [Let’s Move!](https://letsmove.obamawhitehouse.archives.gov/) initiative dedicated to solving the problem of obesity within a generation, so that children born today will grow up healthier and able to pursue their dreams.
 
@@ -35,4 +35,29 @@ I pulled my Dutch Oven out of the basement cupboard over a year ago and use it a
 
 This cookbook contains great weeknight recipes but also deep frying and artisanal bread baking. PLUS a range of desserts.
 
-Give this book and a Dutch Oven as a house warming or a graduation gift – you’ll be invited over and over again to enjoy the fruits of their labour.
+Give this book and a Dutch Oven at Christmas and any time of the year for a house warming or a graduation gift – you’ll be invited over and over again to enjoy the fruits of their labour.
+
+## Jólabókaflóðið
+
+[Jólabókaflóðið](https://jolabokaflod.org/about/founding-story/ ) (Icelandic for Yule Book Flood) is the annual release of new books in Iceland occurring in the months leading up to Christmas.
+Newly published books are listed in a yearly compilation called bókatíðindi ("book news") that is distributed to all households for free.
+
+“This tradition began during World War II once Iceland had gained its independence for Denmark in 1944. Paper was one of the few commodities not rationed during the war, so Icelanders shared their love of books even more as other types of gifts were short supply. This increase in giving books as presents reinforced Iceland’s culture as a nation of bookaholics – a study found that half the country’s population read at least eight books a year.”
+
+![jolabokaflod]({{ site.url }}/images/blog/jolabokaflod.jpg)
+
+Gifts are opened on December 24 and everyone reads the books they have been given right away often while drinking hot chocolate. Isn’t that da best tradition! Let’s all pretend we’re Icelandic!
+
+I hope you are enjoying my own bókatíðindi for your jólabókaflóðið.
+
+Ready for more?
+
+## Ann with an E
+
+The reason I love [Anne's Numbers](https://www.penguinrandomhouse.com/books/558169/annes-numbers-by-kelly-hill/9780735262898/) is because of its charming, hand-embroidered illustrations. Go on a nature walk with Anne and count trees, flowers, clouds and friends. The path Anne takes is based on the description of Anne’s walk to school in Anne of Green Gables. Each scene has multiple counting opportunities, with simple text.
+
+![annes-numbers]({{ site.url }}/images/blog/annes-numbers.jpg)
+
+This is part of a new series from Kelly Hill, whose middle name is Ann-with-an-E. She is an award-winning book designer and a colleague of mine at Penguin Random House Canada. She is also a crafter and the illustrations in the book are a combination of sewing and embroidery.
+
+She will be appearing at the Mattawa River Writers and Arts Festival in April 2019 at the [Canadian Ecology Centre](http://www.canadianecology.ca/). Celebrating Earth Day with a walk in the woods seems naturally perfect.
