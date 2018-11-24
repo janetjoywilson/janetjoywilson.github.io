@@ -61,3 +61,15 @@ The reason I love [Anne's Numbers](https://www.penguinrandomhouse.com/books/5581
 This is part of a new series from Kelly Hill, whose middle name is Ann-with-an-E. She is an award-winning book designer and a colleague of mine at Penguin Random House Canada. She is also a crafter and the illustrations in the book are a combination of sewing and embroidery.
 
 She will be appearing at the Mattawa River Writers and Arts Festival in April 2019 at the [Canadian Ecology Centre](http://www.canadianecology.ca/). Celebrating Earth Day with a walk in the woods seems naturally perfect.
+
+## Red Socks
+
+[Red Socks Go With Absolutely Everything](http://www.redsockswithanything.com/) by Darla Woodley and illustrated by [Evan Munday](https://idontlikemundays.com/) is an inspiring book with a positive message.
+
+The story of [Red Socks Go With Absolutely Everything](http://www.redsockswithanything.com/) centers around the idea and notion of simply being there for someone and how sometimes words and conversation are not needed.
+
+In this story we find a youngster called Sunshine, who is experiencing a series of events over the course of their young lifetime. Some moments seem bigger than others to an adult, but they are daunting in the eyes of a child at the time. At each turn, when our Sunshine begins to fill with doubt, we notice the mother’s subtle but powerful gesture of wearing a pair of red socks to show her support. With each event Sunshine comes to realize that love and encouragement creates a feeling of being strong, ready and able to do anything.  
+
+The message is “… one that will speak to youngsters from their earliest and most intimidating moments, and will carry them throughout their lives in a wonderfully empowering way…” (Children’s Literary Classics).
+
+Darla sent me a copy along with a couple of extra copies to donate to a school or local charity. My extra books will be for the sibling library at the Mount Sinai Hospital NICU department coordinated by Fabiana Bacchini founder of [HandFullHearts] (http://www.handfullhearts.com/).
