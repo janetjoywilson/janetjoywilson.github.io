@@ -9,6 +9,36 @@ tag:
 - Christmas
 ---
 
+I truly love giving a book as a gift. My flippant answers as to why include no batteries required, one size fits all, allergy free, easy to wrap and it's the gift that keeps giving.
+
+The best thing about reading a great story is sharing a great story.
+
+## It's like opening up a portal to a new world.
+
+![humber-river]({{ site.url }}/images/blog/humber-river.jpg)
+
+I just picked up [Falcon Wild](https://www.amazon.ca/Falcon-Wild-Terry-Lynn-Johnson/dp/1580897886/ref=sr_1_1?ie=UTF8&qid=1543145192&sr=8-1&keywords=falcon+wild) by Terry Lynn Johnson. It's an action packed, contemporary novel about surviving in the wilderness along with falconry and coming of age. As I am turning the pages of this novel this morning, I am also thinking about who would enjoy this story. Certainly if you loved [H is for Hawk](https://www.amazon.ca/H-Hawk-Helen-Macdonald/dp/0670069558/ref=sr_1_1?s=books&ie=UTF8&qid=1543145351&sr=1-1&keywords=h+is+for+hawk) by Helen Macdonald and had a middle grade reader in your life, this is perfect!
+
+## eco epic
+
+While reading [The Overstory](https://www.chapters.indigo.ca/en-ca/books/the-overstory-a-novel/9780393635522-item.html?ikwid=the+overstory&ikwsec=Home&ikwidx=0) by Richard Powers I wanted to put this into everyone's hands. The hefty book caught my attention this fall because it was shortlisted for the [Man Booker Prize](https://themanbookerprize.com/fiction). As soon as I read the first sentence "Now is the time for chestnuts." I was intrigued.
+
+This is a monumental novel about trees and people in a sweeping, impassioned, lyrical novel of activism and resistance for our natural world.
+
+![the-overstory]({{ site.url }}/images/blog/the-overstory.jpg)
+
+## from the roots to the crown and back to the seeds
+
+The Overstory unfolds in concentric rings of interlocking fables that range from New York to the late twentieth century timber wars of the Pacific Northwest and byond, exploring the essential conflict on this planet: the one taking place between humans and nonhumans.
+
+If trees of this earth could speak, what would they tell us?
+
+![trees]({{ site.url }}/images/blog/trees.jpg)
+
+## Listen. There's something you need to hear.
+
+If you read Peter Wohlleben's [The Hidden Life of Trees](https://www.chapters.indigo.ca/en-ca/books/the-hidden-life-of-trees/9781771642484-item.html?ikwid=the+hidden+life+of+trees&ikwsec=Home&ikwidx=0) or love anything [Diana Beresford-Kroeger](http://calloftheforest.ca/) has written, please embrace this eco epic of the year because unlike the Lorax, who spoke for the trees, Richard Powers prefers to let them to do their own talking. 
+
 ## Becoming
 
 I am listening to [Michelle Obama](https://becomingmichelleobama.com/) and I have never enjoyed an audiobook as much as this one! She is a warm and articulate narrator. Her story is engaging, funny, charming, enlightening, inspiring and honest. This audiobook is perfect for everyone!!
