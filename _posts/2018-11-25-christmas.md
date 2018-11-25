@@ -57,17 +57,17 @@ Acquire the book or the audiobook (my preferred format) and go high when they go
 
 ## go Dutch
 
-A Dutch oven is the most versatile pot in your kitchen: a soup pot, a deep fryer, a braiser, a roaster, an enclosed bread oven, and the perfect vessel for one-dish meals.
+A dutch oven is the most versatile pot in your kitchen: a soup pot, a deep fryer, a braiser, a roaster, an enclosed bread oven, and the perfect vessel for one-dish meals.
 
-I keep a cookbook on my shelf if there are a minimum of 10 recipes that I will make, not once but over and over again.
+I keep a cookbook on my kitchen shelf if there are a minimum of 10 recipes that I will make, not once but over and over again.
 
-I pulled my Dutch Oven out of the basement cupboard over a year ago and use it all the time now! I was thrilled to start turning pages of [Cook It In Your Dutch Oven](https://www.chapters.indigo.ca/en-ca/books/product/9781945256561-item.html?s_campaign=goo-Shopping_All_Products_RLSA&ds_rl=1254699&ds_rl=1254699&ds_rl=1254699&gclid=Cj0KCQiAxNnfBRDwARIsAJlH29DIGCRzR5l24hjos01GAfzMLrazaVVajCLCajCGKhrc-V_PUODOQkAaAh5iEALw_wcB&gclsrc=aw.ds) and amazed that there are dozens of recipes I will absolutely make.
+I pulled my dutch oven out of the basement cupboard over a year ago and use it all the time now! I was thrilled to start turning pages of [Cook It In Your Dutch Oven](https://www.chapters.indigo.ca/en-ca/books/product/9781945256561-item.html?s_campaign=goo-Shopping_All_Products_RLSA&ds_rl=1254699&ds_rl=1254699&ds_rl=1254699&gclid=Cj0KCQiAxNnfBRDwARIsAJlH29DIGCRzR5l24hjos01GAfzMLrazaVVajCLCajCGKhrc-V_PUODOQkAaAh5iEALw_wcB&gclsrc=aw.ds) and amazed that there are dozens of recipes I will absolutely make repeatedly.
 
 ![dutch-oven]({{ site.url }}/images/blog/dutch-oven.jpg)
 
-This cookbook contains great weeknight recipes but also deep frying and artisanal bread baking. PLUS a range of desserts.
+This cookbook contains great weeknight recipes (that's what I'm looking for) but also deep frying and artisanal bread baking. PLUS a range of desserts. In a dutch oven, who knew?
 
-Give this book and a Dutch Oven at Christmas or any time of the year for a house warming or a graduation gift. Hopefully you’ll be invited over and over again to enjoy the fruits of their labour.
+Give this book and a dutch oven at Christmas or any time of the year for a house warming or a graduation gift. Hopefully you’ll be invited over and over again to enjoy the fruits of their labour.
 
 ## Jólabókaflóðið
 
@@ -114,7 +114,7 @@ Her goal of spreading the message extends to setting up a system so that when bo
 
 ![giving-books]({{ site.url }}/images/blog/giving-books.jpg)
 
-Give a book. This photo is me giving away copies of [Soft In The Head](https://www.chapters.indigo.ca/en-ca/books/soft-in-the-head/9781782271581-item.html?ikwid=soft+in+the+head&ikwsec=Home&ikwidx=1) in 2016. I loved this touchingly comic tale of an unusual friendship that began in a park. So where did I give away books to strangers? In parks because I'm a nut!
+Give a book. This photo is me giving away copies of [Soft In The Head](https://www.chapters.indigo.ca/en-ca/books/soft-in-the-head/9781782271581-item.html?ikwid=soft+in+the+head&ikwsec=Home&ikwidx=1) in the summer of 2016. I loved this touchingly comic tale of an unusual friendship that began in a park. So where did I give away books to strangers? In parks of course because I'm a nut!
 
 ![erna]({{ site.url }}/images/blog/erna.jpg)
 
@@ -130,10 +130,10 @@ I think this is a great Christmas morning book because you can browse the large 
 
 The hardcover requires no wrapping as it has foil on the cover, gilded edges and a ribbon for keeping your place. Give to the child age 7 to 10 who can't get enough of wildlife and nature!
 
-I encourage you to spread the joy of stories this holiday season!
+I encourage you to give a book and to spread the joy of stories this holiday season!
 
 ![globaltv]({{ site.url }}/images/blog/globaltv.jpg)
 
-Here's my book suggestions from last year!
+Want more ideas? Here's my book suggestions from last year!
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Christmas 2017 Book Flood](https://globalnews.ca/video/rd/1121613891533/)
