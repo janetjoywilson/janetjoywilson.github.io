@@ -23,13 +23,13 @@ I just picked up [Falcon Wild](https://www.amazon.ca/Falcon-Wild-Terry-Lynn-John
 
 While reading [The Overstory](https://www.chapters.indigo.ca/en-ca/books/the-overstory-a-novel/9780393635522-item.html?ikwid=the+overstory&ikwsec=Home&ikwidx=0) by Richard Powers I wanted to put this into everyone's hands. The hefty book caught my attention this fall because it was shortlisted for the [Man Booker Prize](https://themanbookerprize.com/fiction). As soon as I read the first sentence "Now is the time for chestnuts." I was intrigued.
 
-This is a monumental novel about trees and people in a sweeping, impassioned, lyrical novel of activism and resistance for our natural world.
+This is a monumental epic about trees and people in a sweeping, impassioned, lyrical novel of activism and resistance for our natural world.
 
 ![the-overstory]({{ site.url }}/images/blog/the-overstory.jpg)
 
 ## from the roots to the crown and back to the seeds
 
-The Overstory unfolds in concentric rings of interlocking fables that range from New York to the late twentieth century timber wars of the Pacific Northwest and byond, exploring the essential conflict on this planet: the one taking place between humans and nonhumans.
+The Overstory unfolds in concentric rings of interlocking fables that range from New York to the late twentieth century timber wars of the Pacific Northwest and beyond, exploring the essential conflict on this planet: the one taking place between humans and nonhumans.
 
 If trees of this earth could speak, what would they tell us?
 
@@ -37,11 +37,11 @@ If trees of this earth could speak, what would they tell us?
 
 ## Listen. There's something you need to hear.
 
-If you read Peter Wohlleben's [The Hidden Life of Trees](https://www.chapters.indigo.ca/en-ca/books/the-hidden-life-of-trees/9781771642484-item.html?ikwid=the+hidden+life+of+trees&ikwsec=Home&ikwidx=0) or love anything [Diana Beresford-Kroeger](http://calloftheforest.ca/) has written, please embrace this eco epic of the year because unlike the Lorax, who spoke for the trees, Richard Powers prefers to let them to do their own talking. 
+If you read Peter Wohlleben's [The Hidden Life of Trees](https://www.chapters.indigo.ca/en-ca/books/the-hidden-life-of-trees/9781771642484-item.html?ikwid=the+hidden+life+of+trees&ikwsec=Home&ikwidx=0) or love anything [Diana Beresford-Kroeger](http://calloftheforest.ca/) has written, please embrace this eco epic of the year because unlike the Lorax, who spoke for the trees, Richard Powers prefers to let them do their own talking.
 
 ## Becoming
 
-I am listening to [Michelle Obama](https://becomingmichelleobama.com/) and I have never enjoyed an audiobook as much as this one! She is a warm and articulate narrator. Her story is engaging, funny, charming, enlightening, inspiring and honest. This audiobook is perfect for everyone!!
+<i class="fa fa-microphone" aria-hidden="true"></i> I am listening to [Michelle Obama](https://becomingmichelleobama.com/) and I have never enjoyed an audiobook as much as this one! She is a warm and articulate narrator. Her story is engaging, funny, charming, enlightening, inspiring and honest. This audiobook is perfect for everyone!!
 
 ![becoming-michelle-obama]({{ site.url }}/images/blog/becoming-michelle-obama.jpg)
 
@@ -65,7 +65,7 @@ I pulled my Dutch Oven out of the basement cupboard over a year ago and use it a
 
 This cookbook contains great weeknight recipes but also deep frying and artisanal bread baking. PLUS a range of desserts.
 
-Give this book and a Dutch Oven at Christmas and any time of the year for a house warming or a graduation gift – you’ll be invited over and over again to enjoy the fruits of their labour.
+Give this book and a Dutch Oven at Christmas or any time of the year for a house warming or a graduation gift. Hopefully you’ll be invited over and over again to enjoy the fruits of their labour.
 
 ## Jólabókaflóðið
 
@@ -96,10 +96,28 @@ She will be appearing at the Mattawa River Writers and Arts Festival in April 20
 
 [Red Socks Go With Absolutely Everything](http://www.redsockswithanything.com/) by Darla Woodley and illustrated by [Evan Munday](https://idontlikemundays.com/) is an inspiring book with a positive message.
 
+![red-socks]({{ site.url }}/images/blog/red-socks.jpg)
+
 The story of [Red Socks Go With Absolutely Everything](http://www.redsockswithanything.com/) centers around the idea and notion of simply being there for someone and how sometimes words and conversation are not needed.
 
 In this story we find a youngster called Sunshine, who is experiencing a series of events over the course of their young lifetime. Some moments seem bigger than others to an adult, but they are daunting in the eyes of a child at the time. At each turn, when our Sunshine begins to fill with doubt, we notice the mother’s subtle but powerful gesture of wearing a pair of red socks to show her support. With each event Sunshine comes to realize that love and encouragement creates a feeling of being strong, ready and able to do anything.  
 
 The message is “… one that will speak to youngsters from their earliest and most intimidating moments, and will carry them throughout their lives in a wonderfully empowering way…” (Children’s Literary Classics).
 
-Darla sent me a copy along with a couple of extra copies to donate to a school or local charity. My extra books will be for the sibling library at the Mount Sinai Hospital NICU department coordinated by Fabiana Bacchini founder of [HandFullHearts](http://www.handfullhearts.com/).
+![redsock-box]({{ site.url }}/images/blog/redsock-box.jpg)
+
+Darla sent me her hardcover book, bookmarks, magnets, activity sheets, stickers and of course, RED SOCKS to "keep my toes warm on my bicycle rides."
+
+Her goal of spreading the message extends to setting up a system so that when books are purchased, additional copies of the book are printed and donated to a school or local charity. She included in my red box a couple of extra copies and they will be my donation this Christmas to the sibling library at the Mount Sinai Hospital NICU department coordinated by Fabiana Bacchini founder of [HandFullHearts](http://www.handfullhearts.com/).
+
+I could go on with more books but I will finish with a wonderful collection of more than a hundred incredible creatures.
+
+![intriguing-animals]({{ site.url }}/images/blog/intriguing-animals.jpg)
+
+I think it's a great Christmas morning book where you can browse the book with your child and read amazing stories and fascinating facts about your favourite animals and discover animals! This falls into my edutainment category of being a launch pad for learning but totally fun in the process. 
+
+The hardcover requires no wrapping as it has foil on the cover, gilded edges and a ribbon for keeping your place. Give to the child age 7 to 10 who can't get enough of wildlife and nature!
+
+![globaltv]({{ site.url }}/images/blog/globaltv.jpg)
+
+<i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Christmas 2017 Book Flood](https://globalnews.ca/video/rd/1121613891533/)
