@@ -11,7 +11,7 @@ tag:
 
 I love giving books.
 
-Why a book rather than a tie or perfume? My flippant answers include no batteries required, one size fits all, allergy free, easy to wrap and it's the gift that keeps giving.
+Why a book rather than a tie or perfume? My flippant answers include no batteries required, one size fits all, allergy free and it is easy to wrap.
 
 The best thing about giving a book is that it keeps giving. Reading a great story and sharing a great book is never ending. It's really a very personal gift to give.
 
@@ -120,7 +120,7 @@ Give a book. This photo is me giving away copies of [Soft In The Head](https://w
 
 I first met Erna because she had a flat tire on her bicycle. I got to know Erna better because I gave her a copy of this book.
 
-Marie-Sabine Roger personifies the power of reading in [Soft in the Head](https://www.goodreads.com/book/show/30748114-soft-in-the-head?from_search=true&rating=3). A conversation opened a door into a world Germain never imagined — the world of books and ideas — and gave both him and Margueritte the chance of a happiness they thought had passed them by. Don't you just want to dive into this booklovers book right now?! 
+Marie-Sabine Roger personifies the power of reading in [Soft in the Head](https://www.goodreads.com/book/show/30748114-soft-in-the-head?from_search=true&rating=3). A conversation opened a door into a world Germain never imagined — the world of books and ideas — and gave both him and Margueritte the chance of a happiness they thought had passed them by. Don't you just want to dive into this booklovers book right now?!
 
 I could go on and on with more book suggestions but I will finish my "give a book" blog with [An Anthology of Intriguing Animals](https://www.chapters.indigo.ca/en-ca/books/an-anthology-of-intriguing-animals/9781465477026-item.html?ikwid=an+anthology+of+intriguing+animals&ikwsec=Home&ikwidx=0) from DK Canada. It's a wonderful collection of more than a hundred incredible creatures.
 
