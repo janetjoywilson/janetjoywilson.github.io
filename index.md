@@ -23,5 +23,3 @@ My life is an open book and this website is the place where I will share my pass
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Time Travel](http://globalnews.ca/video/3538843/janet-joys-june-books-you-have-to-read).
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Are we there yet?](http://globalnews.ca/video/3457965/reading-your-road-trip-away).
-
-<i class="fa fa-microphone" aria-hidden="true"></i> CBC Morning North [Books for the Back Roads](http://www.cbc.ca/player/play/825912899683/ ).
