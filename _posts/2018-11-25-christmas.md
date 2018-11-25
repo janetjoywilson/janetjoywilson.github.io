@@ -13,13 +13,13 @@ I love giving books.
 
 Why a book rather than a tie or perfume? My flippant answers include no batteries required, one size fits all, allergy free and it is easy to wrap.
 
-The best thing about giving a book is that it keeps giving. 
+The best thing about giving a book is that it keeps giving.
 
 ## It's like opening up a portal to a new world.
 
 ![humber-river]({{ site.url }}/images/blog/humber-river.jpg)
 
-I just picked up [Falcon Wild](https://www.amazon.ca/Falcon-Wild-Terry-Lynn-Johnson/dp/1580897886/ref=sr_1_1?ie=UTF8&qid=1543145192&sr=8-1&keywords=falcon+wild) by Terry Lynn Johnson. It's an action packed, contemporary novel about surviving in the wilderness along with falconry and coming of age. As I am turning the pages of this novel this morning, I am also thinking about who would enjoy this story. Certainly if you loved [H is for Hawk](https://www.amazon.ca/H-Hawk-Helen-Macdonald/dp/0670069558/ref=sr_1_1?s=books&ie=UTF8&qid=1543145351&sr=1-1&keywords=h+is+for+hawk) by Helen Macdonald and had a middle grade reader in your life, this is perfect!
+I just picked up [Falcon Wild](https://www.amazon.ca/Falcon-Wild-Terry-Lynn-Johnson/dp/1580897886/ref=sr_1_1?ie=UTF8&qid=1543145192&sr=8-1&keywords=falcon+wild) by Terry Lynn Johnson. It's an action packed, contemporary novel about surviving in the wilderness. As I turn the pages learning more about Karma, she's 13, and her obsession with falcons, I am also thinking about who would enjoy this story. Certainly if you loved [H is for Hawk](https://www.amazon.ca/H-Hawk-Helen-Macdonald/dp/0670069558/ref=sr_1_1?s=books&ie=UTF8&qid=1543145351&sr=1-1&keywords=h+is+for+hawk) by Helen Macdonald and had a middle grade reader in your life, this would be the perfect gift for that young teen.
 
 ## eco epic
 
