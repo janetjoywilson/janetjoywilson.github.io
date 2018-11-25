@@ -31,7 +31,7 @@ This is a monumental epic about trees and people in a sweeping, impassioned, lyr
 
 ## from the roots to the crown and back to the seeds
 
-The Overstory unfolds in concentric rings of interlocking fables that range from New York to the late twentieth century timber wars of the Pacific Northwest and beyond, exploring the essential conflict on this planet: the one taking place between humans and nonhumans.
+[The Overstory](http://books.wwnorton.com/books/The-Overstory/) unfolds in concentric rings of interlocking fables that range from New York to the late twentieth century timber wars of the Pacific Northwest and beyond, exploring the essential conflict on this planet: the one taking place between humans and nonhumans.
 
 If trees of this earth could speak, what would they tell us?
 
@@ -112,7 +112,17 @@ Darla sent me her hardcover book, bookmarks, magnets, activity sheets, stickers 
 
 Her goal of spreading the message extends to setting up a system so that when books are purchased, additional copies of the book are printed and donated to a school or local charity. She included in my red box a couple of extra copies and they will be my donation this Christmas to the sibling library at the Mount Sinai Hospital NICU department coordinated by Fabiana Bacchini founder of [HandFullHearts](http://www.handfullhearts.com/).
 
-I could go on and on but I will finish with [An Anthology of Intriguing Animals](https://www.chapters.indigo.ca/en-ca/books/an-anthology-of-intriguing-animals/9781465477026-item.html?ikwid=an+anthology+of+intriguing+animals&ikwsec=Home&ikwidx=0) from DK Canada. It's a wonderful collection of more than a hundred incredible creatures.
+![giving-books]({{ site.url }}/images/blog/giving-books.jpg)
+
+Give a book. This photo is me giving away copies of [Soft In The Head](https://www.chapters.indigo.ca/en-ca/books/soft-in-the-head/9781782271581-item.html?ikwid=soft+in+the+head&ikwsec=Home&ikwidx=1) in 2016. I loved this touchingly comic tale of an unusual friendship that began in a park. So where did I give away books to strangers? In parks because I'm a nut!
+
+![erna]({{ site.url }}/images/blog/erna.jpg)
+
+I first met Erna because she had a flat tire on her bicycle. I got to know Erna better because I gave her a copy of this book.
+
+Marie-Sabine Roger personifies the power of reading in [Soft in the Head](https://www.goodreads.com/book/show/30748114-soft-in-the-head?from_search=true&rating=3). A conversation opened a door into a world Germain never imagined — the world of books and ideas — and gave both him and Margueritte the chance of a happiness they thought had passed them by. Don't you just want to dive into this booklovers book right now?! 
+
+I could go on and on with more book suggestions but I will finish my "give a book" blog with [An Anthology of Intriguing Animals](https://www.chapters.indigo.ca/en-ca/books/an-anthology-of-intriguing-animals/9781465477026-item.html?ikwid=an+anthology+of+intriguing+animals&ikwsec=Home&ikwidx=0) from DK Canada. It's a wonderful collection of more than a hundred incredible creatures.
 
 ![intriguing-animals]({{ site.url }}/images/blog/intriguing-animals.jpg)
 
