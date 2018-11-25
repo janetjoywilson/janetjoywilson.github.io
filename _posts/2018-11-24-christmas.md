@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Becoming"
+title: "give a book"
 date: 2018-11-24     
-excerpt: "best books for Christmas giving"
+excerpt: "books are for giving"
 tag:
 - books
 - gifts
