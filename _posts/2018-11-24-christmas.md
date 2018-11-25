@@ -13,7 +13,7 @@ I love giving books.
 
 Why a book rather than a tie or perfume? My flippant answers include no batteries required, one size fits all, allergy free, easy to wrap and it's the gift that keeps giving.
 
-The best thing about giving a book is that it keeps giving. Reading a great story and sharing a great book is never ending. It's really a very personal gift to give. 
+The best thing about giving a book is that it keeps giving. Reading a great story and sharing a great book is never ending. It's really a very personal gift to give.
 
 ## It's like opening up a portal to a new world.
 
@@ -120,8 +120,10 @@ I think this is a great Christmas morning book because you can browse the large 
 
 The hardcover requires no wrapping as it has foil on the cover, gilded edges and a ribbon for keeping your place. Give to the child age 7 to 10 who can't get enough of wildlife and nature!
 
+I encourage you to spread the joy of stories this holiday season!
+
 ![globaltv]({{ site.url }}/images/blog/globaltv.jpg)
 
-Here's my suggestions from last year!
+Here's my book suggestions from last year!
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Christmas 2017 Book Flood](https://globalnews.ca/video/rd/1121613891533/)
