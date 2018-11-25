@@ -9,9 +9,11 @@ tag:
 - Christmas
 ---
 
-I truly love giving a book as a gift. My flippant answers as to why include no batteries required, one size fits all, allergy free, easy to wrap and it's the gift that keeps giving.
+I love giving books.
 
-The best thing about reading a great story is sharing a great story.
+Why a book rather than a tie or perfume? My flippant answers include no batteries required, one size fits all, allergy free, easy to wrap and it's the gift that keeps giving.
+
+The best thing about giving a book is that it keeps giving. Reading a great story and sharing a great book is never ending. It's really a very personal gift to give. 
 
 ## It's like opening up a portal to a new world.
 
@@ -110,14 +112,16 @@ Darla sent me her hardcover book, bookmarks, magnets, activity sheets, stickers 
 
 Her goal of spreading the message extends to setting up a system so that when books are purchased, additional copies of the book are printed and donated to a school or local charity. She included in my red box a couple of extra copies and they will be my donation this Christmas to the sibling library at the Mount Sinai Hospital NICU department coordinated by Fabiana Bacchini founder of [HandFullHearts](http://www.handfullhearts.com/).
 
-I could go on with more books but I will finish with a wonderful collection of more than a hundred incredible creatures.
+I could go on and on but I will finish with [An Anthology of Intriguing Animals](https://www.chapters.indigo.ca/en-ca/books/an-anthology-of-intriguing-animals/9781465477026-item.html?ikwid=an+anthology+of+intriguing+animals&ikwsec=Home&ikwidx=0) from DK Canada. It's a wonderful collection of more than a hundred incredible creatures.
 
 ![intriguing-animals]({{ site.url }}/images/blog/intriguing-animals.jpg)
 
-I think it's a great Christmas morning book where you can browse the book with your child and read amazing stories and fascinating facts about your favourite animals and discover animals! This falls into my edutainment category of being a launch pad for learning but totally fun in the process. 
+I think this is a great Christmas morning book because you can browse the large pages with your child and read amazing stories and fascinating facts about your favourite animals and discover some new ones! This falls into my edutainment category of being a launch pad for learning but totally fun in the process.
 
 The hardcover requires no wrapping as it has foil on the cover, gilded edges and a ribbon for keeping your place. Give to the child age 7 to 10 who can't get enough of wildlife and nature!
 
 ![globaltv]({{ site.url }}/images/blog/globaltv.jpg)
+
+Here's my suggestions from last year!
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Christmas 2017 Book Flood](https://globalnews.ca/video/rd/1121613891533/)
