@@ -13,7 +13,7 @@ I love giving books.
 
 Why a book rather than a tie or perfume? My flippant answers include no batteries required, one size fits all, allergy free and it is easy to wrap.
 
-The best thing about giving a book is that it keeps giving. Reading a great story and sharing a great book is never ending. It's really a very personal gift to give.
+The best thing about giving a book is that it keeps giving. 
 
 ## It's like opening up a portal to a new world.
 
