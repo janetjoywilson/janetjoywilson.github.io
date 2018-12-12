@@ -9,7 +9,7 @@ tag:
 - Christmas
 ---
 
-I love giving books.
+I love giving books!
 
 Why a book rather than a tie or perfume? My flippant answers include no batteries required, one size fits all, allergy free and it is easy to wrap.
 
