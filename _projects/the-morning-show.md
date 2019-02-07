@@ -1,7 +1,7 @@
 ---
 layout: project
 title: TMS Book Lover
-link: http://penguinrandomhouse.ca/programs/tms-book-club
+link: https://www.facebook.com/janet.j.wilson.94
 weight: 1
 ---
 
