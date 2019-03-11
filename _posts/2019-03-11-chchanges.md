@@ -33,7 +33,7 @@ I love talking about books but I am also a cycling advocate and I'll have my tim
 
 Have you seen the video from last year's Book Ride??
 
-<i class="fa fa-television" aria-hidden="true"></i> 2018 Viaduct Book Ride [documentary](hhttps://youtu.be/h-jEswu9pKQ)
+<i class="fa fa-television" aria-hidden="true"></i> 2018 Viaduct Book Ride [documentary](https://youtu.be/h-jEswu9pKQ)
 
 
 this blog is in progress
