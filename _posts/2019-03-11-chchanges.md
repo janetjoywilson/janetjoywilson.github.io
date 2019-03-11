@@ -29,3 +29,4 @@ Next week I'm on the expanded national edition the Global TV The Morning Show. I
 
 I love talking about books but I am also a cycling advocate and I'll have my time on stage at month's end at the Ontario Bike Summit. 
 
+SOMETHING IS NOT WORKING with my photos so this blog is suspended in time unless repaired.
