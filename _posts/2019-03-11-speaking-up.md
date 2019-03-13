@@ -25,6 +25,10 @@ I was relieved when the students asked questions. There were the standard 'what'
 
 Next week I'm on the expanded national edition of Global TV's The Morning Show. It's a Monday in March so I'll be talking about mitigating March Madness - it is a thing, isn't it?
 
+I really liked last year's Brake for March Break episode as I provided Culinary Literary with Cooking Step by Step from DK Canada. 
+
+<i class="fa fa-television" aria-hidden="true"></i> Global TV The Morning Show [Brake for March Break](https://globalnews.ca/video/4058255/books-for-march-break-reading)
+
 ![bike-minds]({{ site.url }}/images/blog/bike-minds.jpg)
 
 I do love talking about books but I am also a cycling advocate and I'll have my time on stage at the [Ontario Bike Summit](https://www.sharetheroad.ca/ontario-bike-summit-s15917). [Bike Minds](https://beyondtheautomobile.ca/bikeminds/) in partnership with [Share the Road](https://www.sharetheroad.ca/)  is presenting [Bikes+Community](https://www.eventbrite.com/e/bike-minds-episode-7-bikescommunity-tickets-57933187724). Bike Minds is Toronto’s bicycle-themed storytelling event, where guests share personal, positive, and inspiring stories related to cycling. I'll be sharing the pedal powered story of [The Reading Line](http://thereadingline.ca/).
