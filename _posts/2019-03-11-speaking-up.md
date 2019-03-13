@@ -35,7 +35,9 @@ Have you seen the video from last year's Book Ride??
 
 ## speaking up
 
-In this next chapter of mine, title to be determined, I not only need to speak up for myself but listen to me. The 'busy' schedule I maintained was a great cover to hide or ignore what I really want for myself. Now ... designing my day, preparing for an empty nest and thinking about the future which is a wide open vista is exciting, daunting, heart stopping and thrilling all at the same time. I am blessed with friends who believe in me but as you know, you have to believe in yourself. 
+In this next chapter of mine, title to be determined, I not only need to speak up for myself but listen to me. The 'busy' schedule I maintained was a great cover to hide and ignore what I really want for myself. 
+
+Now ... I am designing my own day, preparing for an empty nest and thinking about the future. Tomorrow is a wide open vista and it's exciting, daunting, heart stopping and thrilling all at the same time! I am blessed with friends who believe in me but as you know, you have to believe in yourself. 
 
 ## "This above all: to thine own self be true" 
 
