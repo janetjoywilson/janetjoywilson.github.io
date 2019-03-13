@@ -25,9 +25,9 @@ I was relieved when the students asked questions. There were the standard 'what'
 
 Next week I'm on the expanded national edition of Global TV's The Morning Show. It's a Monday in March so I'll be talking about mitigating March Madness - it is a thing, isn't it?
 
-I really liked last year's Brake for March Break episode as I provided Culinary Literary with Cooking Step by Step from DK Canada. 
+I really liked last year's segment when I suggested [Cooking Step by Step](https://www.chapters.indigo.ca/en-ca/books/cooking-step-by-step/9781465465689-item.html) from DK Canada. It provides an opportunity for culinary literacy and a shared experience in the kitchen.
 
-<i class="fa fa-television" aria-hidden="true"></i> Global TV The Morning Show [Brake for March Break](https://globalnews.ca/video/4058255/books-for-march-break-reading)
+<i class="fa fa-television" aria-hidden="true"></i> The Morning Show [Brake for March Break](https://globalnews.ca/video/4058255/books-for-march-break-reading)
 
 ![bike-minds]({{ site.url }}/images/blog/bike-minds.jpg)
 
