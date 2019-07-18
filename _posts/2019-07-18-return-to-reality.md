@@ -12,6 +12,6 @@ After two months of travel with a backpack & carry on wheelie, it's now [back to
 
 Being in the here and now is so easy while traveling for a multitude of reasons including being far from your comfort zone. When I landed in Lilongwe, Malawi on May 4th after 30 hours of travel, reality hit me. I was in Africa. I was fulfilling a dream. But how do I get navigate the airport. Currency exchange. Security. Transportation. My own exhaustion?
 
-![IMG_4078]({{ site.url }}/images/blog/IMG_4078.jpg)
+![lilongwe]({{ site.url }}/images/blog/lilongwe.jpg)
 
 errors to correct before I continue ... just like when you travel.... be prepared for change.
