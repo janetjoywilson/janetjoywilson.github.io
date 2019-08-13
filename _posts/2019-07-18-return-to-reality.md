@@ -46,6 +46,6 @@ No. 8 Strike up a conversation with other travelers when flight is delayed.
 
 I met Anne who was traveling to Lilongwe. She's originally from Cardiff and has worked in Malawi for 15 plus years. She provided me with great conversation, advice and a ride to my hotel. She gave me her number as "things may change."
 
-
+![kids]({{ site.url }}/images/blog/kids.jpg)
 
 Photos won't upload. I have errors to correct before I continue ... just like when you travel.... be prepared for change.
