@@ -12,11 +12,7 @@ After two months of travel with a backpack & carry on wheelie, it's now [back to
 
 Being in the here and now is so easy while traveling for a multitude of reasons. When I landed in Lilongwe, Malawi on May 4th after 30 hours of travel, reality hit me. I was in Africa. I was fulfilling a dream. But how do I get navigate the airport. Currency exchange. Security. Transportation. My own exhaustion?
 
-![thomas]({{ site.url }}/images/blog/thomas.jpg)
-
-Thomas was our Habitat for Humanity Malawi driver. He is also a pastor. He blessed me for coming and working with my hands to help people here. He also became my teacher. Starting with vocabulary.
-
-Zikomo. Thank you.
+![lilongweUSE]({{ site.url }}/images/blog/lilongweUSE.jpg)
 
 I am thankful for the ability to travel this far and as I return to my journal I am reminded of some Travel Tips I penned as I propelled myself forward. Here they are as a reminder for me and perhaps helpful for you.
 
