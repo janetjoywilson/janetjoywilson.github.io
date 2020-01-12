@@ -22,4 +22,4 @@ My life is an open book and this website is the place where I will share my pass
 
 <i class="fa fa-television" aria-hidden="true"></i> GLOBAL TV The Morning Show [Are we there yet?](http://globalnews.ca/video/3457965/reading-your-road-trip-away)
 
-<i class="fa fa-newspaper-o" aria-hidden="true"></i>DANDYHORSE Magazine[From Russia with Love](http://dandyhorsemagazine.com/blog/2018/02/20/winter-cycling-conference-report-from-russia-by-janet-joy-wilson/)
+<i class="fa fa-newspaper-o" aria-hidden="true"></i>DANDYHORSE Magazine [From Russia with Love](http://dandyhorsemagazine.com/blog/2018/02/20/winter-cycling-conference-report-from-russia-by-janet-joy-wilson/)
