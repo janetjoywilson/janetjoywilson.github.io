@@ -8,7 +8,7 @@ layout: home
 
 Dear reader,
 
-I am an Advocate for Hire, a Marketing Guru and perhaps your new Consultant for a creative path to realize your vision of success.
+I am an Advocate for Hire and perhaps your new Consultant for a creative path to realize your vision of success.
 
 [Check out my favourite books!]({{ site.url }}/library/)
 
