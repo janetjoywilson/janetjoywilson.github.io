@@ -51,3 +51,27 @@ Receiving the news that [Habitat Canada](https://habitat.ca/en/volunteer/build-g
 
 Their decision was not taken lightly and is an important measure to protect the health and safety of staff, volunteers, partners and the families we serve from the growing spread of coronavirus (COVID-19). We know that there will be significant impacts to the local Habitats we partner with in Canada and other countries, who rely on volunteers to build and repair homes for people in need of decent housing.
 
+![killarneytwo]({{ site.url }}/images/blog/killarneytwo.jpg)
+
+## alpaca socks
+
+Today. Right now. In the moment. It's Sunday. The sky is blue. Birds are singing. Johann Sebastian Bach [The Well-Tempered Clavier Book 1 Fugue](https://youtu.be/_3qnL9ddHuw) is playing. I am wearing my alpaca socks.
+
+They were given to me by Denise last summer on our annual backcountry canoe trip. We had finished a portage and as I got into the canoe, I noticed blood flowing from my ankle. I had [leeches](http://theconversation.com/curious-kids-why-do-leeches-suck-our-blood-117316) attached to me. My first time ever and I was kinda freaked out. Once I scraped off the gruesome looking black blood suckers, I searched for bandages. Having a wound at the front of my ankle was not ideal for wading through more rivers and hiking. To keep the bandages in place Denise gave me her sock grey alpaca socks. When in the northern Ontario all supplies are gold and for her to share these socks with me was the best gift.
+
+Wearing these socks remind me of the variety of ways we can give to others.
+
+![sunsetbike]({{ site.url }}/images/blog/sunsetbike.jpg)
+
+My severance package is coming to an end. I do not have any forthcoming income. I'm not worried ... okay, maybe a little.
+
+## phi·lan·thro·py
+
+Philanthropy means literally "love of mankind". Thus, philanthropy is giving money for a purpose or cause benefiting people who you don't personally know. The greatest American philanthropists have included Warren Buffett, Bill Gates, Andrew Carnegie, and John D. Rockefeller, but tens of millions of us could be considered philanthropists on a much smaller scale. 
+
+I think of the Three Ts of Philanthropy a lot. They are:
+Time means helping other people 
+Talent is sharing, caring and giving 
+Treasure means giving to people without asking for something in return.
+
+Now more than ever it is time to give a pair of alpaca socks to someone in need because time is not standing still.
