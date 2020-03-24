@@ -21,4 +21,7 @@ In her Notes regarding the poem "A Complicated Relationship with Landscape" she 
 
 It is a slim book in size but the scope - expanse - breadth of feeling - is immense.
 
+I love this [review](http://poets.ca/2019/08/28/review-these-wings-by-kim-fahner/) which is beautifully written by Vera Constantineau. She really captures the collection of poetry's essence much better than I am able.
+
+
 Open YOUR wings and soar with her poems.
