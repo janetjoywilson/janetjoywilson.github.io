@@ -63,3 +63,5 @@ With graphs everywhere now with a directive to Flatten the Curve or Plank the Cu
 I think about this stuff, alot. I want quality rather than quantity. I don't need to be Olga and start track and field at 77. But I do want to be more like Olga. 
 
 Someone who is resilient, tenacious and determined to try new things regardless of her age.
+
+<i class="fa fa-microphone" aria-hidden="true"></i> [Angel from Montgomery](https://youtu.be/1T5NuI6Ai-o)
