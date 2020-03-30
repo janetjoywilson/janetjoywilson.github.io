@@ -2,7 +2,7 @@
 layout: book
 title: The Sweetness of a Simple Life
 author: Diana Beresford-Kroeger
-image: sweetness-of-a-simple-life.jpg
+image: sweetness.jpg
 isbn: 9780345812964
 publisher: Vintage Canada
 categories: [Nonfiction]
