@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "touch"
-date: 2020-03-25
-excerpt: "a basic need"
+title: "resilience"
+date: 2020-03-30
+excerpt: "mind and body"
 tag:
 - life
 - humanity
 - covid19
+- health
 
 ---
 I feel like I have been transported back to Februrary 2016 when I attended a ten day Vipassana [retreat](https://torana.dhamma.org/). 
@@ -57,6 +58,8 @@ During a time to implement new habits, I return to page 224 and Olga's Nine Rule
 
 With graphs everywhere now with a directive to Flatten the Curve or Plank the Curve, have you heard of Squaring the Curve?
 
-[Dr. Ken Cooper](https://www.dallasnews.com/news/healthy-living/2018/04/16/50-years-after-writing-aerobics-dallas-dr-kenneth-cooper-isn-t-slowing-down/) coined the phrase years ago and gerontologists picked up. Squaring the Curve means compressing the drop-off, shortening the period when disability or illness compromises the quality of life. Function and vitality and painlessness to the end of a natural lifespan rather than longer life spans. I think abou this stuff, alot. I want quality rather than quantity. I don't need to be Olga and start track and field at 77, I already did that in my teens. But I do want to be more like Olga. Someone who was resilient, tenacious and determined to try new things regardless of her age.
+[Dr. Ken Cooper](https://www.dallasnews.com/news/healthy-living/2018/04/16/50-years-after-writing-aerobics-dallas-dr-kenneth-cooper-isn-t-slowing-down/) coined the phrase years ago and gerontologists picked it up. Squaring the Curve means compressing the drop-off, shortening the period when disability or illness compromises the quality of life. Function and vitality and painlessness to the end of a natural lifespan rather than longer life spans. 
 
-![crocus]({{ site.url }}/images/blog/crocus.jpg)
+I think about this stuff, alot. I want quality rather than quantity. I don't need to be Olga and start track and field at 77. But I do want to be more like Olga. 
+
+Someone who is resilient, tenacious and determined to try new things regardless of her age.
