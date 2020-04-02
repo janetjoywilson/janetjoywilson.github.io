@@ -2,7 +2,7 @@
 layout: book
 title: That Time I Loved You
 author: Carrianne Leung
-image: that-time-I-loved-you.jpg
+image: that-time-I-loved-you-copy.jpg
 isbn: 9781443452861
 publisher: Harper Collins 
 categories: [Fiction]
