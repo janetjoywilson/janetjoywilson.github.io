@@ -12,7 +12,7 @@ tag:
 ---
 I love to support local businesses even when they are located in Victoria BC which of course not local to me but to you it may be!!
 
-## Smoking Lily
+## [Smoking Lily](https://smokinglily.com/)
 
 Trish Tacoma and her co-founder, Julie Higginson, launched the business in 1996 in a four-square-metre storefront in Victoria's Old Town. In those days, the founders sewed their products themselves in a spare bedroom in Ms. Tacoma's home in Esquimalt. They'd bring their wares to town by bicycle, pedalling across the city's historic blue bridge.
 
@@ -20,7 +20,7 @@ Trish owes her own love of sewing to her mother, who raised seven children on he
 
 I was curious about the name and it seems it was inspired by Trish's ex when he got annoyed at a smoker and extinguished the cigarette in a calla lily.
 
-I discovered Smoking Lily in this Globe and Mail [article](https://www.theglobeandmail.com/canada/alberta/article-albertas-top-doctor-brings-facts-and-flair-to-pandemic-updates/) when Deena Hinshaw, Alberta’s Chief Medical Officer of Health, wore a dress with a periodic table print. "Social scientists who study fashion diplomacy believe Dr. Hinshaw is sending coded messages. Trust science. Shop local. Women can be powerful and stylish. Come for the crisis update, stay for the style. Indeed, Toronto’s Chief Medical Officer, Eileen de Villa, is now known for her scientific prowess and sleek scarves. Someone launched a [Twitter account](https://twitter.com/de_scarf?s=20) dedicated to her scarves."
+I discovered [Smoking Lily](https://smokinglily.com/) in this Globe and Mail [article](https://www.theglobeandmail.com/canada/alberta/article-albertas-top-doctor-brings-facts-and-flair-to-pandemic-updates/) when Deena Hinshaw, Alberta’s Chief Medical Officer of Health, wore a dress with a periodic table print. "Social scientists who study fashion diplomacy believe Dr. Hinshaw is sending coded messages. Trust science. Shop local. Women can be powerful and stylish. Come for the crisis update, stay for the style. Indeed, Toronto’s Chief Medical Officer, Eileen de Villa, is now known for her scientific prowess and sleek scarves. Someone launched a [Twitter account](https://twitter.com/de_scarf?s=20) dedicated to her scarves."
 
 ![underlovelies]({{ site.url }}/images/blog/underlovelies.jpg)
 
