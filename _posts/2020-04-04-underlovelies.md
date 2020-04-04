@@ -36,4 +36,28 @@ My new favourite underwear! No elastic to pinch or give out, soft bamboo/cotton/
 
 These undies are one of the first items they made with their pretty studio bits, so the colour and print combinations are always different. They send you an email to let you know what's available before they ship. And it's FREE SHIPPING!
 
+t o u c h i n g  fabric 
+
+![the-hungry-ghosts.jpg]({{ site.url }}/images/blog/the-hungry-ghosts.jpg)
+
+I've found it challenging to read anything more than 140 characters since the Pandemic closed our borders. A few days ago I finally felt like reading and found [The Hungry Ghosts](https://www.penguinrandomhouse.ca/books/208988/the-hungry-ghosts-by-shyam-selvadurai/9780385670685) first edition on my shelf. I'm not sure why it caught my eye.  Perhaps it was the first line that drew me in ...
+
+"On the day I turned thirteen, my grandmother, with whom my mother, my sister and I lived by then, invited me to go for a drive after school."
+
+I don't know when I'll see my son again as he lives in Vancouver so I wanted / needed to escape my thoughts and live with this family in Sri Lanka where I've never been.
+
+[Shyam Selvadurai](http://www.shyamselvadurai.com/) is an acclaimed novelist and this novel was published on April 2, 2013. Shyam and I went to York University together and he wrote in my copy, "Hope the York bits ring true." 
+
+You bet he is on point with life at York University in the 1980s! 
+
+There is so much within this beautiful edition (texture of the book jacket and the pages are as rich as the spices used in Shivan's mother's curry) that make me want to hold it and focus only on the experience of reading. 
+
+In Sri Lankan myth, a person who dies may be reborn a "hungry ghost" - a ghost with a large stomach that can never be filled through its tiny mouth - if he has desired too much during his life. It is the duty of the living to free the dead who are doomed to this fate by transferring karma from their own good deeds.
+
+t o u c h i n g  books
+
 ![mother-son.jpg]({{ site.url }}/images/blog/mother-son.jpg)
+
+Twenty-four years and three months ago.
+
+t o u c h i n g  my son
