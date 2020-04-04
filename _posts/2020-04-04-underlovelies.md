@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "underlovelies"
-date: 2020-03-30
+date: 2020-04-04
 excerpt: "mourning the loss of touch"
 tag:
 - life
@@ -60,7 +60,7 @@ t o u c h i n g  books
 
 ## Mother and Child
 
-![mother-son.jpg]({{ site.url }}/images/blog/mother-son.jpg)
+![touching]({{ site.url }}/images/blog/touching.jpg)
 
 Twenty-four years and three months ago.
 
