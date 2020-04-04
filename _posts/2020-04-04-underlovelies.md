@@ -38,6 +38,8 @@ These undies are one of the first items they made with their pretty studio bits,
 
 t o u c h i n g  fabric 
 
+## [The Hungry Ghosts](https://nationalpost.com/entertainment/books/book-reviews/book-review-the-hungry-ghosts-by-shyam-selvadurai)
+
 ![the-hungry-ghosts.jpg]({{ site.url }}/images/blog/the-hungry-ghosts.jpg)
 
 I've found it challenging to read anything more than 140 characters since the Pandemic closed our borders. A few days ago I finally felt like reading and found [The Hungry Ghosts](https://www.penguinrandomhouse.ca/books/208988/the-hungry-ghosts-by-shyam-selvadurai/9780385670685) first edition on my shelf. I'm not sure why it caught my eye.  Perhaps it was the first line that drew me in ...
@@ -55,6 +57,8 @@ There is so much within this beautiful edition (texture of the book jacket and t
 In Sri Lankan myth, a person who dies may be reborn a "hungry ghost" - a ghost with a large stomach that can never be filled through its tiny mouth - if he has desired too much during his life. It is the duty of the living to free the dead who are doomed to this fate by transferring karma from their own good deeds.
 
 t o u c h i n g  books
+
+## Mother and Child
 
 ![mother-son.jpg]({{ site.url }}/images/blog/mother-son.jpg)
 
