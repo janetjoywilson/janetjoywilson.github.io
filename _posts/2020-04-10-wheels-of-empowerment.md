@@ -14,7 +14,7 @@ If you live in Toronto, do you remember that spring-like weekend in February? Th
 
 I ride Betsy the Blizzard (my winter bicycle) when there’s snow and ice on the roads. In the spring she gets an extra cleaning to keep her free from rust during the other months of the year. 
 
-Last year I hired Matteo to come with his [Mobile Bike Repair](https://matteosbikerepair.com/) to tune-up my three-season bicycle, Black Beauty, as the hydraulic brakes were seized up. It was not safe to ride to my wonderful local bicycle shop, [Hoopdriver Bicycle](http://www.hoopdriver.ca/). I live in a valley, which means pushing a heavy bicycle up a hill for a number of blocks to see Martin at Hoopdriver is not a great trip. The luxury of having Matteo arrive at my home and fix it would be worth extra money but get this, the fee is less than most in-retail locations. Why? Because Matteo doesn’t have a shop with four walls that he has to pay taxes on etc. He charges by the hour and parts.
+Last year I hired Matteo to come with his [Mobile Bike Repair](https://matteosbikerepair.com/) to tune-up my three-season bicycle, Black Beauty, as the hydraulic brakes were seized up. It was not safe to ride to my wonderful local bicycle shop, [Hoopdriver Bicycles](http://www.hoopdriver.ca/). I live in a valley, which means pushing a heavy bicycle up a hill for a number of blocks to see Martin at Hoopdriver is not a great trip. The luxury of having Matteo arrive at my home and fix it would be worth extra money but get this, the fee is less than most in-retail locations. Why? Because Matteo doesn’t have a shop with four walls that he has to pay taxes on etc. He charges by the hour and parts.
 
 I love supporting a pedal powered entrepreneur!
 
