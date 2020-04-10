@@ -65,14 +65,14 @@ At a recent [Bike Minds TO](https://bikeminds.ca/2020/03/12/bikes-limits/) event
 
 Mentors share the lessons of balance to ride a bicycle and how to discover the city. They are using “wheels of empowerment”.
 
-When asked what they needed to serve the 50 plus women on the waiting list … 50!!... Najia said mentors and bicycles.
+When asked what they needed to serve the 50 women on the waiting list … 50!!... Najia said mentors and bicycles.
 I contacted Najia and said I have a bicycle for her!
 
 I arranged with my generous neighbour Thom to help me transport the tuned-up and cleaned up bicycle to Flemingdon Park the following weekend.
 
 It was a perfect fit!!
 
-Thom and I met Najia and Shellah at a parking lot to give her the bicycle. Sellah had learned the lessons of balance to ride a bicycle in two days said Najia and now can discover the city ON HER OWN BICYCLE! 
+Thom and I met Najia and Shellah at a parking lot to give her the bicycle. Shellah had learned the lessons of balance to ride a bicycle in two days said Najia and now can discover the city ON HER OWN BICYCLE! 
 
 ![Shellah]({{ site.url }}/images/blog/Shellah.jpg)
 
@@ -102,7 +102,7 @@ Alix, the Executive Director, was thrilled with the bicycle we donated to the pr
 
 ## Winsome
 
-What to do with the other two ‘Susan’ bicycles? One was missing a saddle. They were smaller in size so definitely good for kids. Charlie’s FreeWheels program was suspended at this time as we were all physical distancing so I couldn’t ask Thom to drive me and two bicycles anywhere. 
+What to do with the other two ‘Susan’ bicycles? One was missing a saddle. They were smaller in size and would be great for kids. Charlie’s FreeWheels program was suspended at this time as we were all physical distancing so I couldn’t ask Thom to drive me and two bicycles anywhere. 
 
 I decided to put them on Facebook Marketplace. Immediately I had a response from Winsome. He would come and pick them up at my house. Perfect!
 
