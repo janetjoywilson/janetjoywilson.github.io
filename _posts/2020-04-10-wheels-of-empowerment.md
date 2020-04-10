@@ -22,7 +22,7 @@ So this year, I had an idea to expand what I had found so convenient.
 
 I am car free which means I have a driveway that is empty. Why not fill it with my neighbours’ bicycles!
 
-Use my driveway for good!
+## driveway for good!
 
 ![Matteo-driveway]({{ site.url }}/images/blog/Matteo-driveway.jpg)
 
@@ -47,7 +47,7 @@ AND my neighbours’ bicycles are safe to ride!
 
 YES! And then some … 
 
-Susan
+## Susan
 
 At the end of the day, an older woman with her dog came by. She told us she had four bicycles that her now adult children do not ride. Matteo was welcome to them if he could use them. We told her we’d come back at day’s end to take a look.
 
@@ -63,7 +63,7 @@ Najia Zewari is an Afghan/Canadian women’s rights activist, Founder of the Glo
 
 “We want to learn bike.” Said the middle-aged women from Afghanistan where mobility was prohibited.
 
-At a recent Bike Minds TO event, she told a story of women learning how to bike in their new country first with Culture Link then as a group determined to continue. 
+At a recent [Bike Minds TO](https://bikeminds.ca/2020/03/12/bikes-limits/) event, she told a story of women learning how to bike in their new country first with Culture Link then as a group determined to continue. 
 
 Mentors share the lessons of balance to ride a bicycle and how to discover the city. They are using “wheels of empowerment”.
 
@@ -80,9 +80,9 @@ Thom and I met Najia and Shellah at a parking lot to give her the bicycle. Sella
 
 Freedom!
 
-## Charlie’s FreeWheels
+## [Charlie’s FreeWheels](https://www.charliesfreewheels.ca/)
 
-Charlie’s FreeWheels uses bicycles to support the development of empowered young leaders, and build a community of self-assured young cyclists. They do this by improving youth access to bicycles, facilitating bicycle-related skill development, and inspiring youth to ride with confidence.
+[Charlie’s FreeWheels](https://www.charliesfreewheels.ca/mission/) uses bicycles to support the development of empowered young leaders, and build a community of self-assured young cyclists. They do this by improving youth access to bicycles, facilitating bicycle-related skill development, and inspiring youth to ride with confidence.
 
 Since 2008, their goal is to contribute to a life of physical activity, sustainable transportation and accessibility. In keeping with the ideals of a fallen cyclist, Charles Prinsep, they aim to inspire a spirit of exploration, and to mobilize, empower and engage youth, using bicycles a driver for personal growth and positive social change.
 
@@ -107,11 +107,14 @@ Alix, the Executive Director, was thrilled with the bicycle we donated to the pr
 ## Winsome
 
 What to do with the other two ‘Susan’ bicycles? One was missing a saddle. They were smaller in size so definitely good for kids. Charlie’s FreeWheels program was suspended at this time as we were all physical distancing so I couldn’t ask Thom to drive me and two bicycles anywhere. 
+
 I decided to put them on Facebook Marketplace. Immediately I had a response from Winsome. He would come and pick them up at my house. Perfect!
 
 I didn’t know what to expect as I am also hesitant about posting an ad but I was delighted by the warm soul who arrived. He had driven from Woodbridge to pick up these bicycles for a program in a small town in Jamaica where he’s originally from. The two bicycles mean he’s half way to his goal of 10 bikes that he’ll then ship together. 
 
-Simple gesture
+![susan]({{ site.url }}/images/blog/susan.jpg)
+
+## Simple gesture
 
 Four bicycles left to rust in a garage and with a little effort change they will change four lives.
 
