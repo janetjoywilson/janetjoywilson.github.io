@@ -24,7 +24,7 @@ I am car free which means I have a driveway that is empty. Why not fill it with 
 
 Use my driveway for good!
 
-![underlovelies]({{ site.url }}/images/blog/underlovelies.jpg)
+![Matteo-driveway]({{ site.url }}/images/blog/Matteo-driveway.jpg)
 
 We have an active neighbourhood facebook page so I posted a photo of Matteo with his bicycle, trailer and banner working on a bicycle in Bloor West Village with an invitation to come on March 7th with their bicycles. 
 
@@ -32,10 +32,14 @@ My goal was to promote Matteo, provide a convenient and cost effective service t
 
 Saturday morning arrived with blue skies and the sun shining! There were six families who ‘booked’ to come. I had a Sign-Up Sheet which meant they could drop off bikes and return later. I’m a visual learner so with my neighbours’ names written down it would help me to remember.
 
+![MatteoSafety]({{ site.url }}/images/blog/MatteoSafety.jpg)
+
 Matteo worked steadily throughout the day providing “How to safety check a bike” tutorials and general safety gear information. I made sure he was hydrated, provided him with access to my washroom and got to know him better.
 Did I meet my goals? 
 
 Matteo worked on over 10 bicycles (some were very tiny like Rowan’s wee trike) that day – he had to return later to tune-up mine as there wasn’t time! Those unable to come have his name & number so hopefully more business for him in the future.
+
+![Rowan]({{ site.url }}/images/blog/Rowan.jpg)
 
 I met new families! They are on streets a few blocks away but now we are united because of two wheels.
 
@@ -51,42 +55,56 @@ Matteo packed up his gear. I sat on his trailer – kinda like a parade float! H
 
 When Matteo returned later that week for my bicycle tune-up I asked him to fix up the women’s bicycle as I knew where it should go.
 
-Women’s Cycling Network
+![womens-cycling-network]({{ site.url }}/images/blog/womens-cycling-network.jpg)
 
-Najia Zewari is an Afghan/Canadian women’s rights activist, Founder of the Global Women’s Network, leads the Women’s Wellness Café and the Women’s Cycling Network (WCN).
-WCN is a community-led initiative in Thorncliffe and Flemingdon.
+## Women’s Cycling Network
+
+Najia Zewari is an Afghan/Canadian women’s rights activist, Founder of the Global Women’s Network, leads the Women’s Wellness Café and the Women’s Cycling Network (WCN). WCN is a community-led initiative in Thorncliffe and Flemingdon.
+
 “We want to learn bike.” Said the middle-aged women from Afghanistan where mobility was prohibited.
+
 At a recent Bike Minds TO event, she told a story of women learning how to bike in their new country first with Culture Link then as a group determined to continue. 
+
 Mentors share the lessons of balance to ride a bicycle and how to discover the city. They are using “wheels of empowerment”.
+
 When asked what they needed to serve the 50 plus women on the waiting list … 50!!... Najia said mentors and bicycles.
 I contacted Najia and said I have a bicycle for her!
+
 I arranged with my generous neighbour Thom to help me transport the tuned-up and cleaned up bicycle to Flemingdon Park the following weekend.
 
 It was a perfect fit!!
 
 Thom and I met Najia and Shellah at a parking lot to give her the bicycle. Sellah had learned the lessons of balance to ride a bicycle in two days said Najia and now can discover the city ON HER OWN BICYCLE! 
 
+![Shellah]({{ site.url }}/images/blog/Shellah.jpg)
+
 Freedom!
 
-Charlie’s FreeWheels
+## Charlie’s FreeWheels
 
 Charlie’s FreeWheels uses bicycles to support the development of empowered young leaders, and build a community of self-assured young cyclists. They do this by improving youth access to bicycles, facilitating bicycle-related skill development, and inspiring youth to ride with confidence.
 
 Since 2008, their goal is to contribute to a life of physical activity, sustainable transportation and accessibility. In keeping with the ideals of a fallen cyclist, Charles Prinsep, they aim to inspire a spirit of exploration, and to mobilize, empower and engage youth, using bicycles a driver for personal growth and positive social change.
 
+![charlies-freewheels]({{ site.url }}/images/blog/charlies-freewheels.jpg)
+
 The Spring Build-a-Bike Registration was open when Thom and I delivered the second ‘Susan’ bicycle.
+
 Each participant in the program is paired up with a used bicycle that they will build for themselves with staff and volunteer assistance, finishing the program with a fully functional, road-ready bike!
-The Build-a-Bike program is open to youth between the ages of 12-25 in Toronto.
+
+![build-a-bike]({{ site.url }}/images/blog/build-a-bike.jpg)
+
+The [Build-a-Bike program](www.charliesfreewheels.ca/build-a-bike) is open to youth between the ages of 12-25 in Toronto.
+
 All programs include -
 30 hours of bike mechanics and safe cycling education;
 A bicycle and all of the tools and materials required to fix it;
 Bike lights, a helmet and a lock;
 Vegetarian or vegan dinner options for every class!
-Register at: www.charliesfreewheels.ca/build-a-bike
 
 Alix, the Executive Director, was thrilled with the bicycle we donated to the program.
 
-Winsome
+## Winsome
 
 What to do with the other two ‘Susan’ bicycles? One was missing a saddle. They were smaller in size so definitely good for kids. Charlie’s FreeWheels program was suspended at this time as we were all physical distancing so I couldn’t ask Thom to drive me and two bicycles anywhere. 
 I decided to put them on Facebook Marketplace. Immediately I had a response from Winsome. He would come and pick them up at my house. Perfect!
