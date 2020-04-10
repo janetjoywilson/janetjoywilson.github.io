@@ -112,6 +112,8 @@ I didn’t know what to expect as I am also hesitant about posting an ad but I w
 
 ## Simple gesture
 
-Four bicycles left to rust in a garage and with a little effort change they will change four lives.
+Four bicycles.
+Four people.
+Four lives empowered by a one simple gesture.
 
-music or video ?
+<i class="fa fa-microphone" aria-hidden="true"></i>  [Bespoken](https://vimeo.com/jrandom/bespoken) Johnnyrandom says “I remember my first time riding a bicycle. It felt like freedom. I associate the sounds of a bike with this feeling” 
