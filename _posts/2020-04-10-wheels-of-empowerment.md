@@ -47,7 +47,7 @@ AND my neighbours’ bicycles are safe to ride!
 
 ## Susan
 
-At the end of the day, an older woman with her dog came by. She told us she had four bicycles that her now adult children do not ride. Matteo was welcome to them if he could use them. We told her we’d come at day’s end to take a look.
+At the end of the day, an older woman with her dog came by. Her name was Susan and she told us she had four bicycles that her now adult children do not ride. Matteo was welcome to them if he could use them. We told her we’d come at day’s end to take a look.
 
 Matteo packed up his gear. I sat on his trailer – kinda like a parade float! He cycled down the street to her house (he has pedal assist motor) with me. There she had stacked beside her house, one woman’s bicycle, an old Raleigh, and two smaller framed mountain bikes that were pretty rusty. But all solid bicycles! We decided to move them to my place where I could store them under a tarp as I had a plan.
 
