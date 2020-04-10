@@ -14,7 +14,7 @@ If you live in Toronto, do you remember that spring-like weekend in February? Th
 
 I ride Betsy the Blizzard (my winter bicycle) when there’s snow and ice on the roads. In the spring she gets an extra cleaning to keep her free from rust during the other months of the year. 
 
-Last year I hired Matteo to come with his [Mobile Bike Repair](https://matteosbikerepair.com/) to tune-up my three-season bicycle, Black Beauty, as the hydraulic brakes were seized up. It was not safe to ride to my local bicycle shop. I live in a valley, which means pushing a heavy bicycle up a hill for a number of blocks to my closest shop is not a fun trip. The luxury of having Matteo arrive at my home and fix it would be worth extra money but get this, the fee is less than most in-retail locations. Why? Because Matteo doesn’t have a shop with four walls that he has to pay taxes on etc. He charges by the hour and parts.
+Last year I hired Matteo to come with his [Mobile Bike Repair](https://matteosbikerepair.com/) to tune-up my three-season bicycle, Black Beauty, as the hydraulic brakes were seized up. It was not safe to ride to my wonderful local bicycle shop, [Hoopdriver Bicycle](http://www.hoopdriver.ca/). I live in a valley, which means pushing a heavy bicycle up a hill for a number of blocks to see Martin at Hoopdriver is not a great trip. The luxury of having Matteo arrive at my home and fix it would be worth extra money but get this, the fee is less than most in-retail locations. Why? Because Matteo doesn’t have a shop with four walls that he has to pay taxes on etc. He charges by the hour and parts.
 
 I love supporting a pedal powered entrepreneur!
 
@@ -61,11 +61,11 @@ Najia Zewari is an Afghan/Canadian women’s rights activist, Founder of the Glo
 
 “We want to learn bike.” Said the middle-aged women from Afghanistan where mobility was prohibited.
 
-At a recent [Bike Minds TO](https://bikeminds.ca/2020/03/12/bikes-limits/) event, she told a story of women learning how to bike in their new country first with [CultureLink](https://www.culturelink.ca/bike-host/) then as a group determined to continue. 
+At a recent [Bike Minds TO](https://bikeminds.ca/2020/03/12/bikes-limits/) event held at the awesome [Curbside Cycle](https://curbsidecycle.com/), she told us the story of women learning how to bike in their new country first with [CultureLink](https://www.culturelink.ca/bike-host/) then as a group determined to continue. 
 
-Mentors share the lessons of balance to ride a bicycle and how to discover the city. They are using “wheels of empowerment”.
+WCN mentors share the lessons of balance to ride a bicycle and how to discover the city. Najia said they are riding “wheels of empowerment”.
 
-When asked what they needed to serve the 50 women on the waiting list … 50!!... Najia said mentors and bicycles.
+When asked what she needed to serve the 50 women on the waiting list … 50!!... Najia said mentors and bicycles.
 I contacted Najia and said I have a bicycle for her!
 
 I arranged with my generous neighbour Thom to help me transport the tuned-up and cleaned up bicycle to Flemingdon Park the following weekend.
