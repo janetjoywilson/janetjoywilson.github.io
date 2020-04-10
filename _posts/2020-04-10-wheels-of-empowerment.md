@@ -61,7 +61,7 @@ Najia Zewari is an Afghan/Canadian women’s rights activist, Founder of the Glo
 
 “We want to learn bike.” Said the middle-aged women from Afghanistan where mobility was prohibited.
 
-At a recent [Bike Minds TO](https://bikeminds.ca/2020/03/12/bikes-limits/) event, she told a story of women learning how to bike in their new country first with Culture Link then as a group determined to continue. 
+At a recent [Bike Minds TO](https://bikeminds.ca/2020/03/12/bikes-limits/) event, she told a story of women learning how to bike in their new country first with [Culture Link](https://www.culturelink.ca/bike-host/) then as a group determined to continue. 
 
 Mentors share the lessons of balance to ride a bicycle and how to discover the city. They are using “wheels of empowerment”.
 
