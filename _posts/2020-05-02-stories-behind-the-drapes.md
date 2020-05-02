@@ -8,7 +8,7 @@ tag:
 - friendship
 - covid19
 - stories
--baking
+- baking
 
 ---
 Have you ever seen Alfred Hitchcock’s [REAR WINDOW](https://www.imdb.com/title/tt0047396/)?
