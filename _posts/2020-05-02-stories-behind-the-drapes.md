@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "stories behind the drapes"
-date: 2020-05-12
+date: 2020-05-02
 excerpt: "front window mysteries"
 tag:
 - life
