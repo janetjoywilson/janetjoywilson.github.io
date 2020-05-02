@@ -73,6 +73,8 @@ My “Canadian Butter Tarts” were pretty awesome and you know what I did this 
 
 It was the most satisfying baking experience I’ve ever had. AND the results!! The butter tarts tasted better after sharing them with Heather.
 
+![buttertart]({{ site.url }}/images/blog/buttertart.jpg)
+
 ## Baking a lovely day!
 
 <i class="fa fa-microphone" aria-hidden="true"></i>  Bill Wither’s [Lovely Day](https://youtu.be/bEeaS6fuUoA )
