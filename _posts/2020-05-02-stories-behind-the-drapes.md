@@ -19,7 +19,7 @@ Searching for a link to Rear Window, I found Roger Ebert’s [review](https://ww
 
 Here’s a quick story, I met and rubbed elbows with Roger Ebert once! Okay, maybe it was my elbow that brushed his as we were picking up programs at the TIFF Press Lounge and yeah he gave me a dirty look! 
 
-I was in the TIFF Press Lounged with a Press Pass because I was Publisher of ACTRA The Branch Line newsletter… those were the early days of TIFF on Bloor Street West and a hellavu lot of fun!
+I was in the TIFF Press Lounge with a Press Pass because I was Publisher of ACTRA The Branch Line newsletter… those were the early days of TIFF on Bloor Street West and it was a hellavu lot of fun!
 
 ## Toronto International Film Festival
 
@@ -29,13 +29,17 @@ In case you don’t know or forget, TIFF was founded in 1976, and is now one of 
 
 Ebert wrote “The hero of Alfred Hitchcock's "Rear Window" is trapped in a wheelchair, and we're trapped, too--trapped inside his point of view, inside his lack of freedom and his limited options. When he passes his long days and nights by shamelessly maintaining a secret watch on his neighbors, we share his obsession. It's wrong, we know, to spy on others, but after all, aren't we always voyeurs when we go to the movies? Here's a film about a man who does on the screen what we do in the audience--look through a lens at the private lives of strangers.”
 
+![birdhouse]({{ site.url }}/images/blog/birdhouse.jpg)
+
 I can’t help but reflect on the feeling of being trapped as I watch my neighbours from my dining room table. I have a large picture window with a front window street view. Do they wonder what I am doing behind my wooden blinds? 
 
 ## Skylark Suppers
 
-I have been watching out for a neighbour who turned 90 years old recently. She's lively and has the best stories. I learned a new one the other week. She told me about the social life on our little street back in the late 50's when the homes were first constructd.
+I have been watching out for a neighbour who turned 90 years old recently. She's lively and has the best stories. I learned a new one the other week. She told me about the social life on our little street back in the late 50's when the homes were first constructed.
 
 This was after [Hurricane Hazel](http://www.hurricanehazel.ca/?gclid=Cj0KCQjwtLT1BRD9ARIsAMH3BtUNj1W_9sIiKY2VMDfAtdSnAUKiTP8B5FmXZeesVyb6M29693wA3psaAl2TEALw_wcB) wrecked devastation in Toronto. Bridges and streets were washed out, homes and trailers were washed into Lake Ontario. Thousands were left homeless, and 81 people were killed—more than 30 on one street alone. The total cost of the destruction in Canada was estimated at $100 million (about $1 billion today). This storm would change the Toronto landscape forever and mobilize the need for managing watersheds on a regional basis. I think of this history every time I walk or cycle along the Humber River.
+
+![magwood]({{ site.url }}/images/blog/magwood.jpg)
 
 The social life on Skylark Road included scotch, Lillian said. The adults had suppers at each other's homes all the time. The kids played and grew up together. More stories will be shared when we can have supper together again!
 
@@ -51,13 +55,13 @@ The homemade bread urge hit me in the first week. I had old yeast in the cupboar
 
 Ingredients for a happy life includes people with white wine and pecans. Right? 
 
-Last year on Canada Day weekend I was making a new vegan recipe for a dinner party. I realized on that holiday Monday that I needed half a cup of white wine. I didn’t have any white wine! LCBO was closed for the holiday. I asked my usual suspects who were either away or didn’t have any (what?!). What’s a girl to do? I put on my summer hat, took out some lemon squares from the freezer (always have a sweet in the freezer ‘just in case someone drops by for tea’) and with my Corning measuring cup in hand, marched off down the street looking for someone to be out and about with a good wine cellar!
+Last year on Canada Day weekend I was making a new vegan recipe for a dinner party. I realized on that holiday Monday that I needed 1/2 cup of white wine. I didn’t have any white wine! LCBO was closed for the holiday. I asked my usual suspects who were either away or didn’t have any (what?!). What’s a girl to do? I put on my summer hat, took out some lemon squares from the freezer (always have a sweet in the freezer ‘just in case someone drops by for tea’) and with my Corning measuring cup in hand, marched off down the street looking for someone to be out and about with a good wine cellar!
 
 ## Heather
 
 Heather was in her front yard weeding. I called out and posed my question. Do you have white wine? I need ½ cup for a recipe. She asked “Chardonnay or Pinot Grigio?” As they say, the rest is history. I was invited to her back deck for a cold beer – it was a hot day! – and a conversation. We’d never met. I’ve lived in this neighbourhood for 25 years. She’s been here for 30!! Raising kids and working and being on the other side of the street past the intersection meant we’d never seen each other. 
 
-It’s actually easy to avoid getting to know others … walk outside your door, get in a car, drive off to work or shop or whatever. Working at home for many means exploring their hood more. 
+It’s actually easy to avoid getting to know others … walk outside your door, get in a car, drive off to work or shop or whatever. Working at home now provides the opportunity to explore one's hood more. 
 
 Since that day forward, she has become a trusted friend. During these COVID-19 weeks, I text her every morning so she knows I’m alive. Our opening line is usually ‘what are you having for breakfast?” Sometimes it’s garden talk. She and John have a glorious garden oasis!!
 
@@ -78,7 +82,7 @@ It was the most satisfying baking experience I’ve ever had. AND the results!! 
 ## Baking a lovely day!
 
 <i class="fa fa-microphone" aria-hidden="true"></i>  Bill Wither’s [Lovely Day](https://youtu.be/bEeaS6fuUoA )
-Released 1977, it's a song about clinging to the tiny pleasures that make life bearable, the rare feel-good tune that acknowledges there’s a lot to feel less-than-good about — a lifeline at a shit job. 
+released in 1977. It's a song about clinging to the tiny pleasures that make life bearable.
 
 Then I look at you And the world's alright with me Just one look at you And I know it's gonna be A lovely day 
 
