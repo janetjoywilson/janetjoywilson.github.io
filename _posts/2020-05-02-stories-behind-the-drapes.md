@@ -84,6 +84,4 @@ It was the most satisfying baking experience I’ve ever had. AND the results!! 
 <i class="fa fa-microphone" aria-hidden="true"></i>  Bill Wither’s [Lovely Day](https://youtu.be/bEeaS6fuUoA )
 released in 1977. It's a song about clinging to the tiny pleasures that make life bearable.
 
-Then I look at you And the world's alright with me Just one look at you And I know it's gonna be A lovely day 
-
-## A lovely day
+Then I look at you And the world's alright with me Just one look at you And I know it's gonna be A lovely day A lovely day
