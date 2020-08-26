@@ -35,7 +35,6 @@ Please don't wait as long as I did to journey with Kimmerer.
 
 
 
-
 Don't it always seem to go
 That you don't know what you've got til its gone
 They paved paradise
