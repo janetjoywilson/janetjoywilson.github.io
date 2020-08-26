@@ -13,7 +13,7 @@ layout: default
     <div class="content">
       {% include navigation.html %}
       <ul class="projects-list">
-      {% assign sorted = (site.projects | sort: 'weight') %}
+      {% assign sorted = site.projects | sort: 'weight' %}
       {% for project in sorted %}
         <li>
           <a href="{{ project.link }}" target="_blank" style="letter-spacing:1px;">
