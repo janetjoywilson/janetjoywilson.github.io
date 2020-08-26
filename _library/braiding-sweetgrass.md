@@ -19,7 +19,7 @@ love love love love love this book!
 
 ## thrives along disturbed edges
 
-I started underlining and making notes in my books when I was in university and then stopped. I use a pencil now because I want to remember. I want to remember the umph I got in my heart from a phrase and find it within the pages of a book. 
+I started underlining and making notes in my books when I was in university and then stopped. I use a pencil now because I want to remember. I want to remember the umph I got in my heart from a phrase and find it again within the pages of a book. 
 
 This one ... "A people's story moves along like a canoe caught in the current, being carried closer and closer to where we had begun."
 
