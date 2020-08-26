@@ -13,9 +13,7 @@ I am in the process of [depaving my driveway](https://www.theglobeandmail.com/re
 
 As a result, I have soil instead of asphalt and I've planted a [Three Sisters Garden](https://www.evergreen.ca/downloads/pdfs/BeanKeepers-ThreeSisters.pdf) to flourish in the exposed earth. As I've been sharing this green JOYney with others, a friend recommended I read [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass). I had heard of this book which was published in 2013 and always meant to read it well if not now then when?!
 
-love love love love love it
-
-Why? 
+love love love love love this book!
 
 "Sweetgrass is best planted not by seed, but by putting roots directly in the ground. Thus the plant is passed hand to earth across years and generations. Its favored habitat is sunny, well-watered meadows. It thrives along disturbed edges."
 
