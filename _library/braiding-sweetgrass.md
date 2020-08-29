@@ -11,7 +11,7 @@ Indigenuous Wisdom, Scientific Knowledge, and the Teachings of the Plants
 
 I am in the process of [depaving my driveway](https://www.theglobeandmail.com/real-estate/article-city-dwellers-are-depaving-their-land-to-reveal-the-earth-beneath/) to transform it into a greenway. 
 
-As a result, I have soil instead of asphalt and I've planted a [Three Sisters Garden](https://www.evergreen.ca/downloads/pdfs/BeanKeepers-ThreeSisters.pdf) to flourish in the exposed earth. As I've been sharing this green JOYney with others, a friend recommended I read [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass). I had heard of this book which was published in 2013 and always meant to read it well if not now then when?!
+As a result, I have soil instead of asphalt and I've planted a [Three Sisters Garden](https://www.evergreen.ca/downloads/pdfs/BeanKeepers-ThreeSisters.pdf) to flourish in the exposed earth. As I've been sharing this green JOYney with others, a friend recommended I read [Braiding Sweetgrass](https://milkweed.org/book/braiding-sweetgrass). I had heard of this book which was published in 2013 and always meant to read it, well if not now then when?!
 
 love love love love love this book!
 
@@ -27,7 +27,7 @@ Later I am stopped by this section within the chapter LEARNING THE GRAMMAR OF AN
 
 ## a hymn of love to the world
 
-I think Eliabeth Gilbert's quote on the front cover emcompasses the reason we all need to sit with this book. 
+I think Elizabeth Gilbert's quote on the front cover encompasses the reason we all need to sit with this book. 
 
 Please don't wait as long as I did to journey with Kimmerer.
 
