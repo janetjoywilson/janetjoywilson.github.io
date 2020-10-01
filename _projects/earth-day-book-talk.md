@@ -8,4 +8,4 @@ The Earth Day BOOK TALK was launched as a fundraiser for the CEC Educational Fou
 
 Join us at the Mattawa River Writers Festival where we are creating connections with our natural world through literature. 
 
-Save the date for a weekend of Writers in the Woods April 22-26, 2020.
+Save the date for a weekend of Writers in the Woods April 22, 2021.
