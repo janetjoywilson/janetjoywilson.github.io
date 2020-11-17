@@ -8,7 +8,7 @@ layout: home
 
 Dear reader,
 
-Thank you for landing here! I hope my writing, videos and book recommendations entertain and educate. 
+Thank you for landing here! I hope my writing, videos, and book recommendations entertain and educate. 
 
 [Check out my favourite books!]({{ site.url }}/library/)
 
