@@ -19,3 +19,6 @@ It is our goal to safely serve our communities during a time of crisis and beyon
 
 ![BikeBridgade.group]({{ site.url }}/images/blog/BikeBridgade.group.jpg)
 
+I signed up as a volunteer in March. 
+
+<i class="fa fa-microphone" aria-hidden="true"></i> [Watch this Breakfast TV BRIGHT SPOT interview](https://www.bttoronto.ca/videos/bt-bright-spot-the-bike-brigade-provides-free-delivery-to-help-communities-in-need/) with the originator David Shellnut also known as [The Biking Lawyer](https://www.thebikinglawyer.ca/).
