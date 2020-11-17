@@ -8,7 +8,7 @@ layout: home
 
 Dear reader,
 
-I am a Special Project Manager who can do it all & a Creative Consultant to help you to realize your vision of success.
+Thank you for landing here! I hope my writing, videos and book recommendations entertain and educate. 
 
 [Check out my favourite books!]({{ site.url }}/library/)
 
