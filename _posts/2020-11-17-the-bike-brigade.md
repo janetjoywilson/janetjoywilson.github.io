@@ -11,10 +11,11 @@ tag:
 - cycling
 
 ---
-## What is The Bike Brigade?
+## What is [The Bike Brigade](https://www.bikebrigade.ca/)?
 
 Toronto is a city of cyclists.  The Toronto Bike Brigade pairs volunteers who use pedal power with community organizations that serve isolated, vulnerable people, seniors and health care providers to deliver supplies during the COVID-19 pandemic. The Bike Brigade offers free delivery service for organizations and individuals in need.
 
 It is our goal to safely serve our communities during a time of crisis and beyond. Everyone could use some support sometimes; Toronto cyclists are here to help.
 
-![BikeBrigade.group]({{ site.url }}/images/blog/BikeBrigade.group.jpg)
+![BikeBridgade.group]({{ site.url }}/images/blog/BikeBridgade.group.jpg)
+
