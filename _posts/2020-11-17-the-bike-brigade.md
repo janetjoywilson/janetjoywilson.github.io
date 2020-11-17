@@ -35,6 +35,12 @@ With a community of 500 plus volunteer bikers, we offer our delivery services fr
 
 Additionally, we have been requested to marshall peaceful marches and demonstrations for organizations like [Black Lives Matter](https://jnyyz.wordpress.com/2020/07/31/critical-mass-for-black-lives-matter/).
 
+## solidarity not charity
 
+“Cyclists are a really strong force in our community in Toronto,” says [David Shellnutt](https://www.toronto.com/news-story/9803126-after-his-assault-toronto-s-biking-lawyer-moves-like-it-matters-/) “We just want to thank those community organizations. We’re here to support you.” 
 
-<i class="fa fa-microphone" aria-hidden="true"></i> Watch this [Breakfast TV BRIGHT SPOT](https://www.bttoronto.ca/videos/bt-bright-spot-the-bike-brigade-provides-free-delivery-to-help-communities-in-need/) with the originator David Shellnut also known as [The Biking Lawyer](https://www.thebikinglawyer.ca/).
+Watch for us on Tuesday nights as over 60 people riding bicycles with backpacks, panniers and trailers carrying Foodshare TO boxes travel across the city! 
+
+ <i class="fa fa-microphone" aria-hidden="true"></i>  Thanks to Dave Edwards for capturing on [video](https://youtu.be/JjuJURNS1SQ) one of those special Tuesday nights!
+
+<i class="fa fa-microphone" aria-hidden="true"></i> Watch this [Breakfast TV BRIGHT SPOT](https://www.bttoronto.ca/videos/bt-bright-spot-the-bike-brigade-provides-free-delivery-to-help-communities-in-need/) with founder David Shellnut also known as [The Biking Lawyer](https://www.thebikinglawyer.ca/).
