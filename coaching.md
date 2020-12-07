@@ -14,7 +14,7 @@ Where is your energy best utilized? Do you need help pivoting your challenges in
 
 ![Canoe.jjw]({{ site.url }}/images/blog/Canoe.jjw.jpg)
 
-## If you need a pair of fresh eyes with 30 years of publishing experience to help steer you in the right direction, I can get you back on course.
+## with 30 years of publishing experience I can steer you in the right direction
 
 ### for authors who want creative coaching
 
@@ -35,6 +35,6 @@ I came to Janet Joy seeking advice and direction for a nonfiction book proposal.
 says [Charles Hayter](https://charleshayter.com/), writer and physician
 
 
-### Fee Schedule
+### fee schedule
 
-please contact me at janetjoywilsonca AT gmail DOT com
+please contact me   janetjoywilsonca AT gmail DOT com
