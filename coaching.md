@@ -3,13 +3,13 @@ layout: coaching
 title: Coaching
 ---
 
-## What is an Author Coach?
+## Congratulations, you’ve written a book!
 
-you've written a book!
+How will you and your book get discovered? Should you self-publish or find a literary agent? Where is your energy best utilized? Do you need help pivoting your challenges into solutions? Are you feeling stuck because you don’t know what you don’t know? Let’s work together to bring your words off the page and into peoples’ hearts.
 
 ## All about fees
 
-Charging $$$ for stuffs 
+Negotiable
 
 ## Testimonials 
 
