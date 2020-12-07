@@ -5,9 +5,10 @@ title: Coaching
 
 # Congratulations, you’ve written a book!
 
-How will you and your book get discovered? 
-Should you self-publish or find a literary agent? 
-Where is your energy best utilized? Do you need help pivoting your challenges into solutions?  
+How will you and your book get discovered? <i class="fa fa-book" aria-hidden="true"></i>
+Should you self-publish or find a literary agent? <i class="fa fa-book" aria-hidden="true"></i>
+Where is your energy best utilized? <i class="fa fa-book" aria-hidden="true"></i>
+Do you need help pivoting your challenges into solutions?  
 
 ### Let’s work together to bring your words off the page and into peoples’ hearts.
 
@@ -34,6 +35,7 @@ I came to Janet Joy seeking advice and direction for a nonfiction book proposal.
 
 says [Charles Hayter](https://charleshayter.com/), writer and physician
 
+<i class="fa fa-book" aria-hidden="true"></i>
 
 ### fee schedule
 
