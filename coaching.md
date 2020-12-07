@@ -11,6 +11,11 @@ How will you and your book get discovered? Should you self-publish or find a lit
 ![Canoe.jjw]({{ site.url }}/images/blog/Canoe.jjw.jpg)
 If you need a pair of fresh eyes with 30 years of publishing experience to help steer you in the right direction, I can get you back on course.
 
+### for authors who want creative coaching
+
+Janet Joy Wilson has infinite insight into the world of publishing. She’s also exceptionally organized. It’s the perfect combination for authors who want creative coaching, from online presence to bio presentations or toolkits for post-publication plans. Janet’s approach is so thoughtful and she’s an abundant source of fresh ideas. I highly recommend her work!
+
+says Moira Welsh, author of [Happily Ever Older: Revolutionary Approaches to Long Term Care](https://ecwpress.com/products/happily-ever-older)
 
 ### able to help people perform at their best
 
