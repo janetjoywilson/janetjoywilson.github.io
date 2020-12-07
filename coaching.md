@@ -9,7 +9,7 @@ you've written a book!
 
 ## All about fees
 
-Charging $$$ for stuffs. 
+Charging $$$ for stuffs 
 
 ## Testimonials 
 
