@@ -14,7 +14,7 @@ Where is your energy best utilized? Do you need help pivoting your challenges in
 
 ![Canoe.jjw]({{ site.url }}/images/blog/Canoe.jjw.jpg)
 
-## with 30 years of publishing experience I can steer you in the right direction
+### with 30 years of publishing experience I can steer you in the right direction
 
 ### for authors who want creative coaching
 
