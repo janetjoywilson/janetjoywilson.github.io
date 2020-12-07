@@ -8,7 +8,7 @@ title: Coaching
 How will you and your book get discovered? Should you self-publish or find a literary agent? Where is your energy best utilized? Do you need help pivoting your challenges into solutions? Are you feeling stuck because you don’t know what you don’t know? Let’s work together to bring your words off the page and into peoples’ hearts.
 
 
-![Canoe.jj]({{ site.url }}/images/blog/Canoe.jj.jpg)
+![Canoe.jjw]({{ site.url }}/images/blog/Canoe.jjw.jpg)
 Do you need a pair of fresh eyes with 30 years of publishing experience to help steer you in the right direction? I can get you back on course.
 
 
