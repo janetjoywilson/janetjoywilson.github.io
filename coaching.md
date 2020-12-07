@@ -14,7 +14,7 @@ Where is your energy best utilized? Do you need help pivoting your challenges in
 
 ![Canoe.jjw]({{ site.url }}/images/blog/Canoe.jjw.jpg)
 
-If you need a pair of fresh eyes with 30 years of publishing experience to help steer you in the right direction, I can get you back on course.
+### If you need a pair of fresh eyes with 30 years of publishing experience to help steer you in the right direction, I can get you back on course.
 
 ### for authors who want creative coaching
 
