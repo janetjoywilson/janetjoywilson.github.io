@@ -5,10 +5,15 @@ title: Coaching
 
 # Congratulations, you’ve written a book!
 
-How will you and your book get discovered? Should you self-publish or find a literary agent? Where is your energy best utilized? Do you need help pivoting your challenges into solutions? Are you feeling stuck because you don’t know what you don’t know? Let’s work together to bring your words off the page and into peoples’ hearts.
+How will you and your book get discovered? 
+Should you self-publish or find a literary agent? 
+Where is your energy best utilized? Do you need help pivoting your challenges into solutions?  
+
+### Let’s work together to bring your words off the page and into peoples’ hearts.
 
 
 ![Canoe.jjw]({{ site.url }}/images/blog/Canoe.jjw.jpg)
+
 If you need a pair of fresh eyes with 30 years of publishing experience to help steer you in the right direction, I can get you back on course.
 
 ### for authors who want creative coaching
@@ -30,6 +35,6 @@ I came to Janet Joy seeking advice and direction for a nonfiction book proposal.
 says [Charles Hayter](https://charleshayter.com/), writer and physician
 
 
-## Fee Schedule
+### Fee Schedule
 
 please contact me at janetjoywilsonca AT gmail DOT com
