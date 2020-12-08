@@ -20,7 +20,7 @@ My career is a manuscript in progress. The Prologue is about life on a farm in s
 
 ![Canoe.jjw]({{ site.url }}/images/blog/Canoe.jjw.jpg)
 
-### with years of performing and publishing experience I can steer you into unchartered territory!
+### My years of performing coupled with working in the publishing industry provides me with the ability to steer you into exciting unchartered territory.
 
 ### for authors who want creative coaching
 
@@ -42,6 +42,6 @@ says [Charles Hayter](https://charleshayter.com/), writer and physician
 
 
 
-### fee schedule
+### I'm not just a coach fee schedule
 
 please contact me   janetjoywilsonca AT gmail DOT com
