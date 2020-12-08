@@ -3,19 +3,24 @@ layout: coaching
 title: Coaching
 ---
 
-# Congratulations, you’ve written a book!
+# COACH ~ one definition
 
-How will you and your book get discovered? 
-Should you self-publish or find a literary agent? 
-Where is your energy best utilized? 
-Do you need help pivoting your challenges into solutions?  
+a horse-drawn carriage, especially a closed one but in the workplace, it is the process of equipping people with the tools, knowledge, and opportunities they need to fully develop themselves to be effective in their commitment to themselves
 
-### Let’s work together to bring your words off the page and into peoples’ hearts.
+# AC·TOR ~ one definition
+
+a participant in an action or process
+
+# NICHE
+
+My career is a manuscript in progress. The Prologue is about life on a farm in southwestern Ontario where I learned the value of hard work. Chapter 1 encompasses singing, dancing, and acting on stages, tv sets and film locations. Chapter 2 spans a narrative arc from temp receptionist in a book packaging firm to Senior Executor Sales Director at the world’s largest English language publisher. Chapter 3 focusses on founding a non-profit organization blending my love of books and bicycles together into six literary events. Chapter 4 explores the creation and building of a literary festival within an outdoor education centre in the Ontario near north, promoting nature through the lens of literature. Chapter 5 is all about community engagement with the objective of leaving the world a better place. This brings me to Chapter 6. Coaching and consulting clients on creative paths to realize their vision of success.
+
+### Let’s work together to bring your project off the page and into peoples’ hearts.
 
 
 ![Canoe.jjw]({{ site.url }}/images/blog/Canoe.jjw.jpg)
 
-### with 30 years of publishing experience I can steer you in the right direction
+### with years of performing and publishing experience I can steer you into unchartered territory!
 
 ### for authors who want creative coaching
 
@@ -29,7 +34,7 @@ As a writer, I have worked with Janet Joy in several of her many roles. I have f
 
 says [Gary Barwin](https://garybarwin.com/), Canadian poet, writer, composer, multimedia artist, performer and educator
 
-### extensive knowledge of the publishing industry
+### incisive, humorous, gentle encouragement
 
 I came to Janet Joy seeking advice and direction for a nonfiction book proposal. I was not disappointed! Her extensive knowledge of the publishing industry, incisive and often humorous feedback, and gentle encouragement helped me immensely. In preparation for my appointment, she had already done thorough research in the genre in which I am writing, and so was readily able to to point out possible pitfalls ahead as well as opportunities. With her support, I was able to formulate a clear plan for taking my proposal forward to agents and publishers. I highly recommend her!
 
