@@ -20,7 +20,7 @@ My career is a manuscript in progress. The Prologue is about life on a farm in s
 
 ![Canoe.jjw]({{ site.url }}/images/blog/Canoe.jjw.jpg)
 
-### My years of performing coupled with working in the publishing industry provides me with the ability to steer you into exciting unchartered territory.
+### 
 
 ### for authors who want creative coaching
 
