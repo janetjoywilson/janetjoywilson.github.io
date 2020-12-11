@@ -5,7 +5,7 @@ title: Coaching
 
 # COACH ~ one definition
 
-a horse-drawn carriage, especially a closed one but in the workplace, it is the process of equipping people with the tools, knowledge, and opportunities they need to fully develop themselves to be effective in their commitment to themselves
+a horse-drawn carriage but in the workplace, it is the process of equipping people with the tools, knowledge, and opportunities they need to fully develop themselves to be effective in their commitment to themselves
 
 # AC·TOR ~ one definition
 
@@ -44,4 +44,4 @@ says [Charles Hayter](https://charleshayter.com/), writer and physician
 
 ### I'm not just a coach fee schedule
 
-please contact me   janetjoywilsonca AT gmail DOT com
+let's start a conversation    janetjoywilsonca AT gmail DOT com
