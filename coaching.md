@@ -3,15 +3,15 @@ layout: coaching
 title: Coaching
 ---
 
-# COACH ~ one definition
+# COACH ~ 
 
 a horse-drawn carriage but in the workplace, it is the process of equipping people with the tools, knowledge, and opportunities they need to fully develop themselves to be effective in their commitment to themselves
 
-# AC·TOR ~ one definition
+# AC·TOR ~ 
 
 a participant in an action or process
 
-# NICHE
+# NICHE ~
 
 My career is a manuscript in progress. The Prologue is about life on a farm in southwestern Ontario where I learned the value of hard work. Chapter 1 encompasses singing, dancing, and acting on stages, tv sets and film locations. Chapter 2 spans a narrative arc from temp receptionist in a book packaging firm to Senior Executor Sales Director at the world’s largest English language publisher. Chapter 3 focusses on founding a non-profit organization blending my love of books and bicycles together into six literary events. Chapter 4 explores the creation and building of a literary festival within an outdoor education centre in the Ontario near north, promoting nature through the lens of literature. Chapter 5 is all about community engagement with the objective of leaving the world a better place. This brings me to Chapter 6. Coaching and consulting clients on creative paths to realize their vision of success.
 
