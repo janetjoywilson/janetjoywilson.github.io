@@ -27,7 +27,7 @@ Quick backstory, our sons met in the Toddler Room at YTV Daycare then attended M
 
 We texted later that day. Made a date to walk along the river as she lives upstream from me! Note – Moira is taller than me and is a FAST WALKER! So not only did our walk turn into a ‘Thursdays with Moira’ morning of invigorating exercise with fresh air BUT an hour of stimulating conversation. 
 
-![ThaiChiMorning]({{ site.url }}/images/blog/ThaiChiMorning.jpg)
+![TaiChiMorning]({{ site.url }}/images/blog/TaiChiMorning.jpg)
 
 This past Thursday, we changed our route due to icy trails. As we were approaching a path for a walk in the woods, I was greeted with a warm Hello from a woman who was standing on the playground step swining her leg back and forth. I don’t wear glasses when I walk so her face was blurry. Her greeting was so familiar I thought perhaps I knew her. Moira thought the same. We stopped. We asked about her leg swinging which is for her hip mobility. She swings 50 times a day. Another man was standing by the actual swings. Told us they were waiting for Frank. Every morning at 7:30 am Frank leads them and others in Tai Chi. Every day. Year round. Either on the basketball court, baseball field or in the grassy field depending on the conditions.
 
@@ -43,7 +43,7 @@ I was welcomed. Invited to follow along. And that was it.
 
 The warm up movements were calming, centering, and warmed the muscles on this Saturday morning in December. I was alive. By the time we began the 108 Tai Chai movements I had a little body memory happening as I learned some of the movements at York U during my acting days.
 
-![ThaiChi]({{ site.url }}/images/blog/ThaiChi.jpg)
+![TaiChi]({{ site.url }}/images/blog/TaiChi.jpg)
 
 From [Harvard Education](https://www.health.harvard.edu/staying-healthy/the-health-benefits-of-tai-chi) Tai chi is often described as "meditation in motion," but it might well be called "medication in motion." There is growing evidence that this mind-body practice, which originated in China as a martial art, has value in treating or preventing many health problems. And you can get started even if you aren't in top shape or the best of health.
 
@@ -66,7 +66,7 @@ Frank was born in 1939 in a little town near Hong Kong in China. His family move
 
 I am filled with gratitude for discovering Frank. 
 
-My morning mindset has been reset.
+I hope you also discover something and or someone today.
 
  <i class="fa fa-television" aria-hidden="true"></i>  Master Moy Lin Shin, founder of the Fung Loy Kok Institute of Taoism, [demonstrates]( https://youtu.be/f9BFWJsrmSY ) the Taoist Tai Chi® arts. 
 
