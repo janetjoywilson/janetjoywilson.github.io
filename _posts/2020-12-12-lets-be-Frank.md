@@ -29,7 +29,7 @@ We texted later that day. Made a date to walk along the river as she lives upstr
 
 ![ThaiChiMorning]({{ site.url }}/images/blog/ThaiChiMorning.jpg)
 
-This past Thursday, we changed our route due to icy trails. As we were approaching a trail for a walk in the woods, I was greeted with a warm Hello from a woman who was standing on the playground step swining her leg back and forth. I don’t wear glasses when I walk so her face was blurry. Her greeting was so familiar I thought perhaps I knew her. Moira thought the same. We stopped. We asked about her leg swinging which is for her hip mobility. She swings 50 times a day. Another man was standing by the actual swings. Told us they were waiting for Frank. Every morning at 7:30 am Frank leads them and others in Tai Chi. Every day. Year round. Either on the basketball court, baseball field or in the grassy field depending on the conditions.
+This past Thursday, we changed our route due to icy trails. As we were approaching a path for a walk in the woods, I was greeted with a warm Hello from a woman who was standing on the playground step swining her leg back and forth. I don’t wear glasses when I walk so her face was blurry. Her greeting was so familiar I thought perhaps I knew her. Moira thought the same. We stopped. We asked about her leg swinging which is for her hip mobility. She swings 50 times a day. Another man was standing by the actual swings. Told us they were waiting for Frank. Every morning at 7:30 am Frank leads them and others in Tai Chi. Every day. Year round. Either on the basketball court, baseball field or in the grassy field depending on the conditions.
 
 ## Frank
 
@@ -41,7 +41,7 @@ Then Frank arrived.
 
 I was welcomed. Invited to follow along. And that was it.
 
-The warm up movements were calming, centering, and warmed the muscles on this Saturday morning in December. I was alive. By the time we began the 108 Tai Chai movements I had a little body memory happening as I remember lessons at York U during my acting days.
+The warm up movements were calming, centering, and warmed the muscles on this Saturday morning in December. I was alive. By the time we began the 108 Tai Chai movements I had a little body memory happening as I learned some of the movements at York U during my acting days.
 
 ![ThaiChi]({{ site.url }}/images/blog/ThaiChi.jpg)
 
