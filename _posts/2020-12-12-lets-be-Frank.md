@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "let's be Frank"
-date: 2020-11-17
+date: 2020-12-12
 excerpt: "moving morning meditation"
 tag:
 - life
