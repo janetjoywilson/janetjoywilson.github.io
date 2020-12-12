@@ -64,7 +64,7 @@ I’d note that my [Monkey Mind](https://laughteryoga.org/vipassana-meditation-t
 
 Frank was born in 1939 in a little town near Hong Kong in China. His family moved to Canada in 1949. They lived near Yonge St and he attended a school where he was the only one not white. He said he learned quick how to speak English. He’s lived at Jane and Bloor for decades now and walks to the Humber River every morning to lead Tai Chi. This giving back to the community is his work he says. 
 
-I am filled with gratitude for discovering Frank. 
+I am filled with gratitude for finding Frank. 
 
 I hope you also discover something and or someone today.
 
