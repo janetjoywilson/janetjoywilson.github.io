@@ -2,7 +2,7 @@
 layout: book
 title: The Goldfinch
 author: Donna Tartt
-image: the-goldfinch.jpg
+image: TheGoldfinch.jpg
 isbn: 9780316055420
 publisher: Little, Brown and Company
 categories: [Fiction, re·read]
