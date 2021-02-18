@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Mattawa River Writers Festival Literary Curator
+title: Mattawa River Writers Festival Artistic Director
 link: https://mattawariverwriters.ca/
 weight: 2
 ---
@@ -8,4 +8,4 @@ The Earth Day BOOK TALK was launched as a fundraiser for the CEC Educational Fou
 
 Join us at the Mattawa River Writers Festival where we are creating connections with our natural world through literature. 
 
-Save the date for a weekend of Writers in the Woods April 22, 2021.
+Pandemic Pivot: ZOOM INTO THE WOODS with our new series, In Conversation, beginning March 24, 2021! 
