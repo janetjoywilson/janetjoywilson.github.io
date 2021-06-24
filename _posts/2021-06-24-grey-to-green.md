@@ -76,6 +76,8 @@ The City of Toronto supports private tree planting and stewardship initiatives. 
 
 I paid for my own trees because I needed a columnar shaped tree. I choose Kindred Spirit OAK as I already had two in the backyard and they fit into a narrow property. 
 
+ ![TreePot]({{ site.url }}/images/blog/TreePot.jpg)
+
 I come by a love of trees honestly as my father was always planting trees. He also gave me life lessons like “ once the land is gone, it’s gone.” As a family farm who supported ourselves with what we grew, good soil was important.
 
 All the subdivisions built on good land, made him incredibly sad. Peeling off the rich soil and covering it with asphalt and concrete and highways, that’s gone. It’s like paving over a wetland and trying to recreate is not the same. This is one reason we have a decreasing insect population which is our lifeline as it’s part of the food chain.   
