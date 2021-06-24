@@ -138,4 +138,6 @@ Resources to discover native plants in Canada include [CANPLANT](https://can-pla
 
 LINK to a garden tour!
 
+My Garden Playlist on [Spotify](https://open.spotify.com/playlist/7vTwcX5ozy6UKfFFsfiuZN?si=1dfece3ca8a04bcb)
+
 ![DepavedToday]({{ site.url }}/images/blog/DepavedToday.jpg)
