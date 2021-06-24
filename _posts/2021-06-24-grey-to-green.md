@@ -148,7 +148,7 @@ To discover native plants in Canada take a  look  at [CANPLANT](https://can-plan
 
 💚 [Bringing Nature Home](https://www.goodreads.com/book/show/2227735.Bringing_Nature_Home) by Douglas  W. Tallamy UPDATED edition 9780881929928 Timber Press
 
-💚 [Easy Growing](https://www.amazon.ca/Easy-Growing-Organic-Edible-Flowers/dp/0307886875)  by Gayla Trail 9780307886873  Clarkson Potter
+💚 [Easy Growing](https://www.amazon.ca/Easy-Growing-Organic-Edible-Flowers/dp/0307886875)  by Gayla Trail 9780307886873  Clarkson Potter and look up any of her articles but I really liked [this one](http://yougrowgirl.com/growing-strawberries-the-globe-and-mail/) about strawberries.
 
 ## Twitter and YouTube and Spotify
 
