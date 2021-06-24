@@ -64,13 +64,13 @@ Obviously, a water-permeable parking area is an environmental choice as it’s a
 
 I have been car free & CARE FREE using my bicycles for transportation, one a folding acoustic and the other a pedal assist cargobike, for over two years. Looking at a driveway of asphalt 15x32’ makes a girl dream. 
 
-In 2019 I met a landscaper who did some stone work repair for me. I found out from asking questions that she has installed ribbon driveways and would love to be a part of this project.
+In 2019 I met a landscaper who did some stone work repair for me. I found out from asking questions Laura that she has installed ribbon driveways and would love to be a part of this project. She was a source of  information, education, brute strengh, and encouragement.
 
 ![paversgreen]({{ site.url }}/images/blog/paversgreen.jpg)
 
 I split it into two phases and I’m so glad I did because once ¼ of the pavement was gone in 2020 and I’d planted my first three Sisters garden along with other vegetables, I wanted more garden and less space allocated for parking a car. 
 
-Along the way, while researching plants, and designs, and just having green dreams. I found a guy who removes fences between neighbours as a community project. In between the driveways was a 50 year old chain link fence and now it’s gone. He used the metal and [upCycled](https://www.blogto.com/city/2021/01/volunteer-group-toronto-will-remove-fences-yards-free/?fbclid=IwAR1Y0tMWLpnG0vmkv6EjPcqO95WgRMMNDBBOkVhF3IFaBbVWrO6F1daTByQ) it into Bicycle Racks!!
+Along the way, while researching plants, and designs, and just having green dreams. I found Dave and Santiago who remove fences between neighbours as a community project. In between the driveways was a 50 year old chain link fence and now it’s gone. He used the metal and [upCycled](https://www.blogto.com/city/2021/01/volunteer-group-toronto-will-remove-fences-yards-free/?fbclid=IwAR1Y0tMWLpnG0vmkv6EjPcqO95WgRMMNDBBOkVhF3IFaBbVWrO6F1daTByQ) it into Bicycle Racks!!
 
 ![FenceRemove]({{ site.url }}/images/blog/FenceRemove.jpg)
 
@@ -122,5 +122,5 @@ They smile when they look at my colourful Butterflyway which they didn’t when 
 
 Thank you for bee-ing here with me during Pollinator Week!
 
-I hope I’ve planted a SEED in you to look at new (old) Ways You can help expand the butterflyway as every native plant you put In the ground whether i’s in your Yard or in a pot on balcony. Just do it! And enjoy
+I hope I’ve planted a SEED in you to look at new (old) Ways You can help expand the butterflyway as every native plant you put In the ground whether i’s in your Yard or in a pot on balcony. Just do it!
 
