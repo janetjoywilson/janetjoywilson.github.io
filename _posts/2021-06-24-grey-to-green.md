@@ -72,7 +72,7 @@ I have been car free & CARE FREE using my bicycles for transportation, one a fol
 
 ## mud and meadows
 
-In 2019 I was lucky to meet a landscaper who came to my house and executed some stone work repair for me. We hit it off and upon asking a few questions I found out she had indeed installed ribbon driveways and would love to be a part of this project. Over the course of months she was a source of information, education, brute strengh, and encouragement. My grey became green because of Laura! 
+In 2019 I was lucky to meet a landscaper who came to my house and executed some stone work repair for me. We hit it off and upon asking a few questions I found out she had indeed installed ribbon driveways and would love to be a part of this project. Over the course of months she was a source of information, education, brute strengh, and encouragement. My grey became more than green because of Laura! 
 
 ![paversgreen]({{ site.url }}/images/blog/paversgreen.jpg)
 
