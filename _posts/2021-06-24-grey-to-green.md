@@ -54,7 +54,9 @@ I’ve always wanted a ‘ribbon driveway’.
 
 WHAT IS THAT?
 
-[Ribbon driveways](https://www.gardenista.com/posts/hardscaping-101-ribbon-driveways/?fbclid=IwAR09N2yjieCFcIjggunRBv2OYLF__X9ERAMLq6J9aIApg_5JsxT1dVzdEtY), sometimes called Hollywood driveways, usually consist of two parallel tracks paved with a hard material and separated by an unpaved area. The tracks, or ribbons, are normally a couple of feet wide with a three-foot strip between them
+[Ribbon driveways](https://www.gardenista.com/posts/hardscaping-101-ribbon-driveways/?fbclid=IwAR09N2yjieCFcIjggunRBv2OYLF__X9ERAMLq6J9aIApg_5JsxT1dVzdEtY), sometimes called Hollywood driveways, usually consist of two parallel tracks paved with a hard material and separated by an unpaved area. The tracks, or ribbons, are normally a couple of feet wide with a three-foot strip between them.
+
+![temperature]({{ site.url }}/images/blog/temperature.jpg)
 
 Obviously, a water-permeable parking area is an environmental choice as it’s assists with stormwater management and mitigates heat island effect.
 
@@ -63,6 +65,8 @@ Obviously, a water-permeable parking area is an environmental choice as it’s a
 I have been car free & CARE FREE using my bicycles for transportation, one a folding acoustic and the other a pedal assist cargobike, for over two years. Looking at a driveway of asphalt 15x32’ makes a girl dream. 
 
 In 2019 I met a landscaper who did some stone work repair for me. I found out from asking questions that she has installed ribbon driveways and would love to be a part of this project.
+
+![paversgreen]({{ site.url }}/images/blog/paversgreen.jpg)
 
 I split it into two phases and I’m so glad I did because once ¼ of the pavement was gone in 2020 and I’d planted my first three Sisters garden along with other vegetables, I wanted more garden and less space allocated for parking a car. 
 
@@ -88,11 +92,19 @@ So my life in the city has been about supporting parks, shoreline cleanups, and 
 
 I’d like to tell you about LEAF. It stands for Local. Enhancement and Appreciation of Forests. I purchased my low bush blueberry and st john’s wort shrubs from them and think the organization is amazing! Their Backyard Tree Planting Program offers native trees and shrubs to property owners at a subsidized cost.
 
+![stjohnswort]({{ site.url }}/images/blog/stjohnswort.jpg)
+
 LEAF is a non-profit organization that teaches people about trees and gets them excited about the urban forest. They  plant native species in backyards and public spaces, and educate people on how to care for trees in their communities. The focus of their work is on community engagement and tree stewardship. 
 They envision healthy, vibrant communities where everyone values and cares for the urban forest.
 My little depaving project has generated benefits in more way than Climate change action.
 
 This year I am a volunteer for the David Suzuki. Foundation BUTTERFLYWAY PROJECT. I have learned so much this year!! My goal is to educate and encourage my neighbourhood to plant pollinator plots for a habitat highway. 
+
+![Seeds]({{ site.url }}/images/blog/Seeds.jpg)
+
+From seed to food for bees! 
+
+![borage]({{ site.url }}/images/blog/borage.jpg)
 
 Being in the front ‘yard’ in an expanded garden has me answering questions as people walk by with their dogs, giving impromptu garden tours, and educating curious children. 
 
@@ -103,6 +115,8 @@ I hope to inspire others to Rethink their space. That one, two, three cars do no
 Red Clover could be sown for the bees! I’ve planted. Strawberries in the middle so that kids can come and pick them! Remember I don’t have a car so this space is 99% of the time filled with with fruit, moss on the pavers, thyme and more! Guest Parking here during a pandemic is nil!
 
 I now have dozens of native plants, pollinators, new trees, fruit and vegetables and growing a community who is more aware of environmental options. 
+
+![milkweed]({{ site.url }}/images/blog/milkweed.jpg)
 
 They smile when they look at my colourful Butterflyway which they didn’t when it was a grey Driveway.  
 
