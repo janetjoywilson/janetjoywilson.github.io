@@ -70,7 +70,7 @@ Obviously, a water-permeable parking area is an environmental choice as it assis
 
 I have been car free & CARE FREE using my bicycles for transportation, one a folding acoustic and the other a pedal assist cargobike, for over two years. Looking at a driveway of asphalt 15x32’ makes a girl dream. 
 
-In 2019 I met a landscaper who did some stone work repair for me. I found out from asking questions Laura that she has installed ribbon driveways and would love to be a part of this project. She was a source of  information, education, brute strengh, and encouragement.
+In 2019 I met a landscaper who did some stone work repair for me. I found out from asking Laura questions that she has installed ribbon driveways and would love to be a part of this project. She was a source of  information, education, brute strengh, and encouragement.
 
 ![paversgreen]({{ site.url }}/images/blog/paversgreen.jpg)
 
