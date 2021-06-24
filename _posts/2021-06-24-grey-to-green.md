@@ -150,16 +150,16 @@ To discover native plants in Canada include [CANPLANT](https://can-plant.ca/), [
 
 ![DepavedToday]({{ site.url }}/images/blog/DepavedToday.jpg)
 
-## PLANT LIST
+## Plant List  
 
-Spotted Bee Balm
-Dense Blazing Star
-Great Blue Lobelia
-Harebell
-Smooth Oxeye
-New England Aster
-Wild Bergamot
-Canada Milkvetch
+🐝 Spotted Bee Balm
+🦋 Dense Blazing Star
+💚 Great Blue Lobelia
+🌿 Harebell
+🌙 Smooth Oxeye
+🌺 New England Aster
+💙 Wild Bergamot
+🐛 Canada Milkvetch
 🐝 Monarda bee balm ‘bubblegum blast’
 🦋 Greyheaded coneflower
 🐝 Golden Alexander
@@ -173,7 +173,7 @@ Canada Milkvetch
 🦋 Dyers Coreopsis
 🌿 Acorus Americanus
 💚 Helleborus ‘Blushing Bridesmaid’
-🌱Hatris Spicata
+🌱 Hatris Spicata
 🦋 Soulmate Swamp Milkweed
 🍓 Strawberry fields
 🌙 Coreopsis ‘verticillata’
@@ -184,49 +184,56 @@ Canada Milkvetch
 🌿 St. John’s wort
 💙 Blue-eyed Grass
 🌺 Veronica Spicata ‘Red Fox’
-🌱Doone Valley Thyme
+🌱 Doone Valley Thyme
 🌿 Nodding Onion
 🦋 Bloody Dock
-🌱Anise Hyssop
+🌱 Anise Hyssop
 🐝 Spotted Hawkweed
 🦋 Borage
-White Feather Hosta
+🌙 White Feather Hosta
 
-Fruit & Vegetables
+## Fruit and Vegetables
+
 🫐 Lowbush Blueberry
-Blackberries 
-Rhubarb
-Lettuce
-Radish
-Peas
-Beans
-Corn
-Sugar Pie Pumpkin
-Butternut Squash
-Heirloom Tomatoes:
-Sam Hiebert Mennonite 
-Green Grape 
-Morden yellow pear 
-Flin Flon 
-Carbon 
-Early Annie 
-Purple Bumble Bee Cherry 
-Aunt Ruby’s German Green 
+💙 Blackberries 
+🌱 Rhubarb
+🌿 Lettuce
+🌺 Radish
+💚 Peas
+🌱 Beans
+🌙 Corn
+💚 Sugar Pie Pumpkin
+🦋 Butternut Squash
 
-Three trees in front yard:
+## Heirloom Tomatoes
+
+🐛 Sam Hiebert Mennonite 
+💚 Green Grape 
+🐛  Morden yellow pear 
+💚 Flin Flon 
+🐛 Carbon 
+💚 Early Annie 
+🐛 Purple Bumble Bee Cherry 
+💚 Aunt Ruby’s German Green 
+
+## Trees
+
 🌳 kindred spirit OAK
 
-Long established in my front yard:
-Chives
-Lavender 
-Milkweed
-Dillweed
-Cup Flower
-Thyme
-Blue Flax
-Lilacs
-Sage
-Hosta
-Coneflowers
+## Long established in my front yard
 
-Coming this fall will be dozens of BULBS to plant for an embarrassment of colour in the spring!
+🌱 Chives
+💚 Lavender 
+🌱 Milkweed
+💚 Dillweed
+🌱 Cup Flower
+💚 Thyme
+🌱 Blue Flax
+💚 Lilacs
+🌱 Sage
+💚 Hosta
+🌱 Coneflowers
+
+## Coming this fall 
+
+💚 dozens of [BULBS](https://www.brecksbulbs.ca/) to plant for an embarrassment of colour in the spring!
