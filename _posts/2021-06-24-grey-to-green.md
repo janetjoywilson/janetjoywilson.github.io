@@ -175,7 +175,6 @@ To discover native plants in Canada include [CANPLANT](https://can-plant.ca/), [
 💚 Helleborus ‘Blushing Bridesmaid’
 🌱 Hatris Spicata
 🦋 Soulmate Swamp Milkweed
-🍓 Strawberry fields
 🌙 Coreopsis ‘verticillata’
 🌙 Coreopsis ‘tickseed’ ‘Li’l Bang Red Elf’
 🌙 Coreopsis ‘Plains Coreopsis
@@ -195,6 +194,7 @@ To discover native plants in Canada include [CANPLANT](https://can-plant.ca/), [
 ## Fruit and Vegetables
 
 🫐 Lowbush Blueberry
+🍓 Strawberry fields of ever bearing and alpine
 💙 Blackberries 
 🌱 Rhubarb
 🌿 Lettuce
@@ -209,7 +209,7 @@ To discover native plants in Canada include [CANPLANT](https://can-plant.ca/), [
 
 🐛 Sam Hiebert Mennonite 
 💚 Green Grape 
-🐛  Morden yellow pear 
+🐛 Morden yellow pear 
 💚 Flin Flon 
 🐛 Carbon 
 💚 Early Annie 
@@ -233,6 +233,7 @@ To discover native plants in Canada include [CANPLANT](https://can-plant.ca/), [
 🌱 Sage
 💚 Hosta
 🌱 Coneflowers
+💚 Russian Sage
 
 ## Coming this fall 
 
