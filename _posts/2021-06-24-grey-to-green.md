@@ -140,7 +140,17 @@ I hope I’ve planted a SEED in you to look at new (old) Ways You can help expan
 
 ## Resources
 
-To discover native plants in Canada take a  look  at [CANPLANT](https://can-plant.ca/), [Lacewing](https://lacewing.ca/), [Bees Love Trees](https://www.yourleaf.org/sites/default/files/2017_-_bees_love_trees_fact_sheet.pdf?fbclid=IwAR1rJNr8Gl5yTML2bANrnqoYZ9lPRO_k9DO4S3uGl8yVI7HpK2ITdd6nqVg). Additionally, I'm inspired by [Brother Nature](https://www.evergreen.ca/tools-publications/gardening-with-brother-nature-video-series/?gclid=Cj0KCQjw2tCGBhCLARIsABJGmZ5wo-W_WlDGSKyDKhG7g_sRA9oxTqdp-IR_r81vDSO-T9BoGfMzs7IaAn6IEALw_wcB)
+To discover native plants in Canada take a  look  at [CANPLANT](https://can-plant.ca/), [Lacewing](https://lacewing.ca/), [Bees Love Trees](https://www.yourleaf.org/sites/default/files/2017_-_bees_love_trees_fact_sheet.pdf?fbclid=IwAR1rJNr8Gl5yTML2bANrnqoYZ9lPRO_k9DO4S3uGl8yVI7HpK2ITdd6nqVg). Additionally, I'm inspired by [Brother Nature](https://www.evergreen.ca/tools-publications/gardening-with-brother-nature-video-series/?gclid=Cj0KCQjw2tCGBhCLARIsABJGmZ5wo-W_WlDGSKyDKhG7g_sRA9oxTqdp-IR_r81vDSO-T9BoGfMzs7IaAn6IEALw_wcB) at  Evergreen Brickworks.
+
+##  Books
+
+💚 read any books or articles by [Lorraine Johnson] (https://www.thestar.com/opinion/contributors/2020/05/04/lets-spark-a-city-grown-food-movement-with-a-victory-garden-revival.html) and attend any and  all events she is  speaking at!
+
+💚 [Bringing Nature Home](https://www.goodreads.com/book/show/2227735.Bringing_Nature_Home) by Douglas  W. Tallamy UPDATED edition 9780881929928 Timber Press
+
+💚 [Easy Growing](https://www.amazon.ca/Easy-Growing-Organic-Edible-Flowers/dp/0307886875)  by Gayla Trail 9780307886873  Clarkson Potter
+
+## Twitter and YouTube and Spotify
 
 [LINK](https://www.oise.utoronto.ca/oise/News/2020/OISE_Stay_at_Home_Club.html) to OISE Stay At Home Club LIVE  TWITTER presentation  June 24 2021
 
