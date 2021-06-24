@@ -70,6 +70,8 @@ Obviously, a water-permeable parking area is an environmental choice as it assis
 
 I have been car free & CARE FREE using my bicycles for transportation, one a folding acoustic and the other a pedal assist cargobike, for over two years. Looking at a driveway of asphalt 15x32’ makes a girl dream. 
 
+## mud and meadows
+
 In 2019 I met a landscaper who did some stone work repair for me. I found out from asking Laura questions that she has installed ribbon driveways and would love to be a part of this project. She was a source of  information, education, brute strengh, and encouragement.
 
 ![paversgreen]({{ site.url }}/images/blog/paversgreen.jpg)
@@ -81,6 +83,8 @@ Along the way, while researching plants, and designs, and just having green drea
 ![FenceRemove]({{ site.url }}/images/blog/FenceRemove.jpg)
 
 My design plan now included 3 bike racks and 3 trees along the property line as a very functional ‘fence line’ that provides secure parking for my friends who use Active Transportation and The Trees are a needed addition to Toronto’s tree Canopy.
+
+## tree canopy
 
 The City of Toronto supports private tree planting and stewardship initiatives. Efforts to expand Toronto's urban forest constitutes a valuable investment in the city's future.
 
@@ -95,6 +99,8 @@ All the subdivisions built on good land, made him incredibly sad. Peeling off th
 So my life in the city has been about supporting parks, shoreline cleanups, and at home growing  as much food as possible. My first raised bed was and is 4x10 feet. With another 5’ up with trellis for vertical growing. Rethinking your space means seeing your opportunities not only horizontally but vertically which is ideal for small yards, balconies, or a window ledge.
 
  ![cargobike]({{ site.url }}/images/blog/cargobike.jpg)
+
+## LEAF 
 
 I’d like to tell you about LEAF. It stands for Local. Enhancement and Appreciation of Forests. I purchased my low bush blueberry and st john’s wort shrubs from them and think the organization is amazing! Their Backyard Tree Planting Program offers native trees and shrubs to property owners at a subsidized cost.
 
@@ -111,6 +117,8 @@ This year I am a volunteer for the David Suzuki Foundation [BUTTERFLYWAY PROJECT
 From [seed](https://uharvest.ca/shop/) to food for bees! 
 
 ![borage]({{ site.url }}/images/blog/borage.jpg)
+
+## butterflyway
 
 Being in the front ‘yard’ in an expanded garden has me answering questions as people walk by with their dogs, giving impromptu garden tours, and educating curious children. 
 
@@ -130,7 +138,9 @@ I hope I’ve planted a SEED in you to look at new (old) Ways You can help expan
 
 ![june24me]({{ site.url }}/images/blog/june24me.jpg)
 
-Resources to discover native plants in Canada include [CANPLANT](https://can-plant.ca/), [Lacewing](https://lacewing.ca/), [Bees Love Trees](https://www.yourleaf.org/sites/default/files/2017_-_bees_love_trees_fact_sheet.pdf?fbclid=IwAR1rJNr8Gl5yTML2bANrnqoYZ9lPRO_k9DO4S3uGl8yVI7HpK2ITdd6nqVg),  
+## Resources
+
+To discover native plants in Canada include [CANPLANT](https://can-plant.ca/), [Lacewing](https://lacewing.ca/), [Bees Love Trees](https://www.yourleaf.org/sites/default/files/2017_-_bees_love_trees_fact_sheet.pdf?fbclid=IwAR1rJNr8Gl5yTML2bANrnqoYZ9lPRO_k9DO4S3uGl8yVI7HpK2ITdd6nqVg),  
 
 [LINK](https://www.oise.utoronto.ca/oise/News/2020/OISE_Stay_at_Home_Club.html) to OISE Stay At Home Club LIVE  TWITTER presentation  June 24 2021
 
@@ -139,3 +149,84 @@ Resources to discover native plants in Canada include [CANPLANT](https://can-pla
 <i class="fa fa-microphone" aria-hidden="true"></i> My Garden Playlist on [Spotify](https://open.spotify.com/playlist/7vTwcX5ozy6UKfFFsfiuZN?si=1dfece3ca8a04bcb)
 
 ![DepavedToday]({{ site.url }}/images/blog/DepavedToday.jpg)
+
+## PLANT LIST
+
+Spotted Bee Balm
+Dense Blazing Star
+Great Blue Lobelia
+Harebell
+Smooth Oxeye
+New England Aster
+Wild Bergamot
+Canada Milkvetch
+🐝 Monarda bee balm ‘bubblegum blast’
+🦋 Greyheaded coneflower
+🐝 Golden Alexander
+🌻 Sunflowers ‘Teddy Bear’
+🦋 Jerusalem Artichoke
+🐝 Globe Thistle
+🌺 Gaura ‘Whirling Butterflies’
+💚 Gaura ‘Siskiyou Pink’
+🌙 Geum ‘Petticoats Peach’
+🐛 Ajuga Reptans ‘Black Scallop’
+🦋 Dyers Coreopsis
+🌿 Acorus Americanus
+💚 Helleborus ‘Blushing Bridesmaid’
+🌱Hatris Spicata
+🦋 Soulmate Swamp Milkweed
+🍓 Strawberry fields
+🌙 Coreopsis ‘verticillata’
+🌙 Coreopsis ‘tickseed’ ‘Li’l Bang Red Elf’
+🌙 Coreopsis ‘Plains Coreopsis
+🌸 Heuchera ‘green spice’
+☀️ Nasturtiums
+🌿 St. John’s wort
+💙 Blue-eyed Grass
+🌺 Veronica Spicata ‘Red Fox’
+🌱Doone Valley Thyme
+🌿 Nodding Onion
+🦋 Bloody Dock
+🌱Anise Hyssop
+🐝 Spotted Hawkweed
+🦋 Borage
+White Feather Hosta
+
+Fruit & Vegetables
+🫐 Lowbush Blueberry
+Blackberries 
+Rhubarb
+Lettuce
+Radish
+Peas
+Beans
+Corn
+Sugar Pie Pumpkin
+Butternut Squash
+Heirloom Tomatoes:
+Sam Hiebert Mennonite 
+Green Grape 
+Morden yellow pear 
+Flin Flon 
+Carbon 
+Early Annie 
+Purple Bumble Bee Cherry 
+Aunt Ruby’s German Green 
+
+Three trees in front yard:
+🌳 kindred spirit OAK
+
+Long established in my front yard:
+Chives
+Lavender 
+Milkweed
+Dillweed
+Cup Flower
+Thyme
+Blue Flax
+Lilacs
+Sage
+Hosta
+Coneflowers
+
+Coming this fall will be dozens of BULBS to plant for an embarrassment of colour in the spring!
