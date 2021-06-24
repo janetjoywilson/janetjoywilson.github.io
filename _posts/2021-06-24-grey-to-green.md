@@ -100,7 +100,7 @@ I’d like to tell you about LEAF. It stands for Local. Enhancement and Apprecia
 
 ![stjohnswort]({{ site.url }}/images/blog/stjohnswort.jpg)
 
-LEAF is a non-profit organization that teaches people about trees and gets them excited about the urban forest. They  plant native species in backyards and public spaces, and educate people on how to care for trees in their communities. The focus of their work is on community engagement and tree stewardship. 
+[LEAF](https://www.yourleaf.org/) is a non-profit organization that teaches people about trees and gets them excited about the urban forest. They  plant native species in backyards and public spaces, and educate people on how to care for trees in their communities. The focus of their work is on community engagement and tree stewardship. 
 They envision healthy, vibrant communities where everyone values and cares for the urban forest.
 My little depaving project has generated benefits in more way than Climate change action.
 
@@ -108,7 +108,7 @@ This year I am a volunteer for the David Suzuki. Foundation BUTTERFLYWAY PROJECT
 
 ![Seeds]({{ site.url }}/images/blog/Seeds.jpg)
 
-From seed to food for bees! 
+From [seed](https://uharvest.ca/shop/) to food for bees! 
 
 ![borage]({{ site.url }}/images/blog/borage.jpg)
 
