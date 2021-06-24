@@ -108,7 +108,7 @@ From seed to food for bees!
 
 Being in the front ‘yard’ in an expanded garden has me answering questions as people walk by with their dogs, giving impromptu garden tours, and educating curious children. 
 
- ![DepavedToday]({{ site.url }}/images/blog/DepavedToday.jpg)
+![DepavedToday]({{ site.url }}/images/blog/DepavedToday.jpg)
 
 I hope to inspire others to Rethink their space. That one, two, three cars do not need an entire driveway of asphalt. A Ribbon Driveway will support the vehicle and provide space for plants.
 
