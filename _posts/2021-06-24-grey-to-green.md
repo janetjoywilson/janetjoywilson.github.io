@@ -104,7 +104,7 @@ I’d like to tell you about LEAF. It stands for Local. Enhancement and Apprecia
 They envision healthy, vibrant communities where everyone values and cares for the urban forest.
 My little depaving project has generated benefits in more way than Climate change action.
 
-This year I am a volunteer for the David Suzuki Foundation [BUTTERFLYWAY PROJECT](https://davidsuzuki.org/press/citizen-led-butterflyway-project-aims-to-help-revive-pollinators/?gclid=Cj0KCQjw2tCGBhCLARIsABJGmZ5Z171eBaP1P4I8HElEWViGEga9mpgObY8j8G1Uz195V1z4ly5WCkwaAqd-EALw_wcB). I have learned so much this year!! My goal is to educate and encourage my neighbourhood to plant pollinator plots for a habitat highway. 
+This year I am a volunteer for the David Suzuki Foundation [BUTTERFLYWAY PROJECT](https://davidsuzuki.org/press/citizen-led-butterflyway-project-aims-to-help-revive-pollinators/?gclid=Cj0KCQjw2tCGBhCLARIsABJGmZ5Z171eBaP1P4I8HElEWViGEga9mpgObY8j8G1Uz195V1z4ly5WCkwaAqd-EALw_wcBa). I have learned so much this year!! My goal is to educate and encourage my neighbourhood to plant pollinator plots for a habitat highway. 
 
 ![Seeds]({{ site.url }}/images/blog/Seeds.jpg)
 
@@ -134,7 +134,7 @@ Resources to discover native plants in Canada include [CANPLANT](https://can-pla
 
 [LINK](https://www.oise.utoronto.ca/oise/News/2020/OISE_Stay_at_Home_Club.html) to OISE Stay At Home Club LIVE  TWITTER presentation  June 24 2021
 
-LINK to a garden tour!
+[LINK](https://youtu.be/XeOewDa0YsQ) to a garden tour!
 
 <i class="fa fa-microphone" aria-hidden="true"></i> My Garden Playlist on [Spotify](https://open.spotify.com/playlist/7vTwcX5ozy6UKfFFsfiuZN?si=1dfece3ca8a04bcb)
 
