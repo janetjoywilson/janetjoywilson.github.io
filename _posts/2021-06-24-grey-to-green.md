@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "no fooling"
+title: "grey to green"
 date: 2021-06-24
-excerpt: "grey to green"
+excerpt: "my story of depaving a driveway to become a greenway"
 tag:
 - life
 - spring
@@ -14,7 +14,7 @@ tag:
 
 this is my story of turning grey into green & I’m not talking about my hair colour!
 
-![why]({{ site.url }}/images/blog/why.jpg)
+![asphalt]({{ site.url }}/images/blog/asphalt.jpg)
 
 ## who
 
@@ -31,6 +31,8 @@ Step two - BE BRAVE because unfortunately returning to natural is different. We 
 ## inspiration
 
 I took inspiration from a song called BIG YELLOW TAXI, it was written, composed, and originally recorded by Canadian singer-songwriter Joni Mitchell in 1970, and released on her album Ladies of the Canyon.
+
+![waiting]({{ site.url }}/images/blog/waiting.jpg)
 
 Joni Mitchell received her inspiration for “Big Yellow Taxi” on a trip to Hawaii. She was looking out of her hotel window at the magnificent Pacific scenery and then shifted her gaze downward to find a parking lot. The natural beauty of Hawaii had been rudely interrupted by a slab of pavement. She wrote:
 
