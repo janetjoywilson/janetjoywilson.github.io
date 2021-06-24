@@ -144,7 +144,7 @@ To discover native plants in Canada take a  look  at [CANPLANT](https://can-plan
 
 ##  Books
 
-💚 read any books or articles by [Lorraine Johnson] (https://www.thestar.com/opinion/contributors/2020/05/04/lets-spark-a-city-grown-food-movement-with-a-victory-garden-revival.html) and attend any and  all events she is  speaking at!
+💚 read any books or articles by [Lorraine Johnson](https://www.thestar.com/opinion/contributors/2020/05/04/lets-spark-a-city-grown-food-movement-with-a-victory-garden-revival.html) and attend any and  all events she is  speaking at!
 
 💚 [Bringing Nature Home](https://www.goodreads.com/book/show/2227735.Bringing_Nature_Home) by Douglas  W. Tallamy UPDATED edition 9780881929928 Timber Press
 
