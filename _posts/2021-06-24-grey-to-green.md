@@ -104,7 +104,7 @@ I’d like to tell you about LEAF. It stands for Local. Enhancement and Apprecia
 They envision healthy, vibrant communities where everyone values and cares for the urban forest.
 My little depaving project has generated benefits in more way than Climate change action.
 
-This year I am a volunteer for the David Suzuki. Foundation BUTTERFLYWAY PROJECT. I have learned so much this year!! My goal is to educate and encourage my neighbourhood to plant pollinator plots for a habitat highway. 
+This year I am a volunteer for the David Suzuki Foundation [BUTTERFLYWAY PROJECT](https://davidsuzuki.org/press/citizen-led-butterflyway-project-aims-to-help-revive-pollinators/?gclid=Cj0KCQjw2tCGBhCLARIsABJGmZ5Z171eBaP1P4I8HElEWViGEga9mpgObY8j8G1Uz195V1z4ly5WCkwaAqd-EALw_wcB). I have learned so much this year!! My goal is to educate and encourage my neighbourhood to plant pollinator plots for a habitat highway. 
 
 ![Seeds]({{ site.url }}/images/blog/Seeds.jpg)
 
