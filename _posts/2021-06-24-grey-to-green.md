@@ -133,3 +133,11 @@ Thank you for bee-ing here with me during Pollinator Week!
 I hope I’ve planted a SEED in you to look at new (old) Ways You can help expand the butterflyway as every native plant you put In the ground whether i’s in your Yard or in a pot on balcony. Just do it!
 
 ![june24me]({{ site.url }}/images/blog/june24me.jpg)
+
+Resources to discover native plants in Canada include [CANPLANT](https://can-plant.ca/), [Lacewing](https://lacewing.ca/), [Bees Love Trees](https://www.yourleaf.org/sites/default/files/2017_-_bees_love_trees_fact_sheet.pdf?fbclid=IwAR1rJNr8Gl5yTML2bANrnqoYZ9lPRO_k9DO4S3uGl8yVI7HpK2ITdd6nqVg),  
+
+[LINK](https://www.oise.utoronto.ca/oise/News/2020/OISE_Stay_at_Home_Club.html) to OISE Stay At Home Club LIVE  TWITTER presentation  June 24 2021
+
+LINK to a garden tour!
+
+![milkweed]({{ site.url }}/images/blog/milkweed.jpg)
