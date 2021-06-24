@@ -26,6 +26,8 @@ This land is precious and I acknowledge the land I live on is of the traditional
 
 Step one - RE THINK what’s around you.
 
+![beforeANDafter]({{ site.url }}/images/blog/beforeANDafter.jpg)
+
 Step two - BE BRAVE because unfortunately returning to natural is different. We have over manicured our green space to be monocultures with lawns and plants that aren’t native and don’t feed the insects. It's a billion dollar industry and letting nature RE WILD is free! 
 
 ## inspiration
@@ -34,7 +36,11 @@ I took inspiration from a song called BIG YELLOW TAXI, it was written, composed,
 
 ![waiting]({{ site.url }}/images/blog/waiting.jpg)
 
-Joni Mitchell received her inspiration for “Big Yellow Taxi” on a trip to Hawaii. She was looking out of her hotel window at the magnificent Pacific scenery and then shifted her gaze downward to find a parking lot. The natural beauty of Hawaii had been rudely interrupted by a slab of pavement. She wrote:
+Joni Mitchell received her inspiration for “Big Yellow Taxi” on a trip to Hawaii. She was looking out of her hotel window at the magnificent Pacific scenery and then shifted her gaze downward to find a parking lot. The natural beauty of Hawaii had been rudely interrupted by a slab of pavement. 
+
+![june24above]({{ site.url }}/images/blog/june24above.jpg)
+
+She wrote:
 
 I said, don't it always seem to go
 That you don't know what you've got
@@ -112,6 +118,8 @@ Being in the front ‘yard’ in an expanded garden has me answering questions a
 
 I hope to inspire others to Rethink their space. That one, two, three cars do not need an entire driveway of asphalt. A Ribbon Driveway will support the vehicle and provide space for plants.
 
+![june24]({{ site.url }}/images/blog/june24.jpg)
+
 Red Clover could be sown for the bees! I’ve planted. Strawberries in the middle so that kids can come and pick them! Remember I don’t have a car so this space is 99% of the time filled with with fruit, moss on the pavers, thyme and more! Guest Parking here during a pandemic is nil!
 
 I now have dozens of native plants, pollinators, new trees, fruit and vegetables and growing a community who is more aware of environmental options. 
@@ -124,3 +132,4 @@ Thank you for bee-ing here with me during Pollinator Week!
 
 I hope I’ve planted a SEED in you to look at new (old) Ways You can help expand the butterflyway as every native plant you put In the ground whether i’s in your Yard or in a pot on balcony. Just do it!
 
+![june24me]({{ site.url }}/images/blog/june24me.jpg)
