@@ -64,7 +64,7 @@ WHAT IS THAT?
 
 ![temperature]({{ site.url }}/images/blog/temperature.jpg)
 
-Obviously, a water-permeable parking area is an environmental choice as it’s assists with stormwater management and mitigates heat island effect.
+Obviously, a water-permeable parking area is an environmental choice as it assists with stormwater management and mitigates heat island effect.
 
  ![pavers]({{ site.url }}/images/blog/pavers.jpg)
 
@@ -115,8 +115,6 @@ From seed to food for bees!
 Being in the front ‘yard’ in an expanded garden has me answering questions as people walk by with their dogs, giving impromptu garden tours, and educating curious children. 
 
 I hope to inspire others to Rethink their space. That one, two, three cars do not need an entire driveway of asphalt. A Ribbon Driveway will support the vehicle and provide space for plants.
-
-![june24]({{ site.url }}/images/blog/june24.jpg)
 
 Red Clover could be sown for the bees! I’ve planted. Strawberries in the middle so that kids can come and pick them! Remember I don’t have a car so this space is 99% of the time filled with with fruit, moss on the pavers, thyme and more! Guest Parking here during a pandemic is nil!
 
