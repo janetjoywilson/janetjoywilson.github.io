@@ -36,6 +36,16 @@ I took inspiration from a song called BIG YELLOW TAXI, it was written, composed,
 
 Joni Mitchell received her inspiration for “Big Yellow Taxi” on a trip to Hawaii. She was looking out of her hotel window at the magnificent Pacific scenery and then shifted her gaze downward to find a parking lot. The natural beauty of Hawaii had been rudely interrupted by a slab of pavement. 
 
+she wrote:
+
+I said, don't it always seem to go
+That you don't know what you've got
+'Til it's gone
+They paved paradise
+Put up a parking lot
+
+<i class="fa fa-microphone" aria-hidden="true"></i> [Big Yellow Taxi](https://youtu.be/GFB-d-8_bvY)
+
 ![before]({{ site.url }}/images/blog/before.jpg)
 a lot of wasted  space
 ![beforetwo]({{ site.url }}/images/blog/beforetwo.jpg)
@@ -45,15 +55,8 @@ to exit my front door and see this transformation was AHmazing!
 ![beforefour]({{ site.url }}/images/blog/beforefour.jpg)
 my first three sisters garden.
 
-She wrote:
 
-I said, don't it always seem to go
-That you don't know what you've got
-'Til it's gone
-They paved paradise
-Put up a parking lot
 
-<i class="fa fa-microphone" aria-hidden="true"></i> [Big Yellow Taxi](https://youtu.be/GFB-d-8_bvY)
 
 ![asphalt]({{ site.url }}/images/blog/asphalt.jpg)
 
