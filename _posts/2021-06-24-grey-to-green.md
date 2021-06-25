@@ -134,7 +134,7 @@ Being in the front ‘yard’ in an expanded garden has me answering questions a
 
 I hope to inspire others to Rethink their space. That one, two, three cars do not need an entire driveway of asphalt. A Ribbon Driveway will support the vehicle and provide space for plants.
 
-Red Clover could be sown for the bees! I’ve planted. Strawberries in the middle so that kids can come and pick them! Remember I don’t have a car so this space is 99% of the time filled with with fruit, moss on the pavers, thyme and more! Guest Parking here during a pandemic is nil!
+Red Clover could be sown for the bees! I’ve planted strawberries in the middle so that kids can come and pick them! Remember I don’t have a car so this space is 99% of the time filled with with fruit, moss on the pavers, thyme and more! Guest Parking here during a pandemic is nil!
 
 I now have dozens of native plants, pollinators, new trees, fruit and vegetables and growing a community who is more aware of environmental options. 
 
@@ -142,9 +142,9 @@ I now have dozens of native plants, pollinators, new trees, fruit and vegetables
 
 They smile when they look at my colourful Butterflyway which they didn’t when it was a grey Driveway.  
 
-Thank you for bee-ing here with me during Pollinator Week!
+Thank you for bee-ing here and reading this long essay during national [Pollinator Week](https://www.pollinator.org/pollinator-week!
 
-I hope I’ve planted a SEED in you to look at new (old) Ways You can help expand the butterflyway as every native plant you put In the ground whether i’s in your Yard or in a pot on balcony. Just do it!
+I hope I’ve planted a SEED in you to look at new (old) ways you can help expand the butterflyway as every native plant you put In the ground whether it’s in your yard or in a pot on balcony. Try it!
 
 ![june24me]({{ site.url }}/images/blog/june24me.jpg)
 
@@ -166,7 +166,7 @@ To discover native plants in Canada take a  look  at [CANPLANT](https://can-plan
 
 [LINK](https://www.oise.utoronto.ca/oise/News/2020/OISE_Stay_at_Home_Club.html) to OISE Stay At Home Club LIVE  TWITTER presentation  June 24 2021
 
-[LINK](https://youtu.be/XeOewDa0YsQ) to a garden tour!
+[LINK](https://youtu.be/XeOewDa0YsQ) to a garden tour with me
 
 <i class="fa fa-microphone" aria-hidden="true"></i> My Garden Playlist on [Spotify](https://open.spotify.com/playlist/7vTwcX5ozy6UKfFFsfiuZN?si=1dfece3ca8a04bcb)
 
@@ -213,7 +213,6 @@ To discover native plants in Canada take a  look  at [CANPLANT](https://can-plan
 🦋 Borage
 🌙 White Feather Hosta
 
-
 ![strawberry]({{ site.url }}/images/blog/strawberry.jpg)
 
 ## Fruit and Vegetables
@@ -231,8 +230,10 @@ To discover native plants in Canada take a  look  at [CANPLANT](https://can-plan
 🦋 Butternut Squash
 
 ![robinandtomatoes]({{ site.url }}/images/blog/robinandtomatoes.jpg)
-a gift of heirloom tomatoes delivered by cargobike!
+a gift of heirloom tomatoes from Robin
+
 ![robinunloading]({{ site.url }}/images/blog/robinunloading.jpg)
+of course she delivered using her cargobike!
 
 ## Heirloom Tomatoes
 
@@ -247,7 +248,8 @@ a gift of heirloom tomatoes delivered by cargobike!
 
 ## Trees
 
-🌳 kindred spirit OAK
+🌳 Quercus x warei 'Nadler'  
+Kindred spirit OAK is a dense deciduous tree with a strong central leader and a narrowly upright and columnar growth habit purchased by [Connon Nurseries in Waterdown](http://plants.ritchiefeed.com/11090003/Plant/18935/Kindred_Spirit_Oak/)
 
 ## Long established in my front yard
 
