@@ -142,7 +142,7 @@ I now have dozens of native plants, pollinators, new trees, fruit and vegetables
 
 They smile when they look at my colourful Butterflyway which they didn’t when it was a grey Driveway.  
 
-Thank you for bee-ing here and reading this long essay during national [Pollinator Week](https://www.pollinator.org/pollinator-week!
+Thank you for bee-ing here and reading this long essay during national [Pollinator Week](https://www.pollinator.org/pollinator-week!)
 
 I hope I’ve planted a SEED in you to look at new (old) ways you can help expand the butterflyway as every native plant you put In the ground whether it’s in your yard or in a pot on balcony. Try it!
 
