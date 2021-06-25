@@ -14,7 +14,7 @@ tag:
 
 this is my story of turning grey into green & I’m not talking about my hair colour!
 
-![asphalt]({{ site.url }}/images/blog/asphalt.jpg)
+![globeandmail]({{ site.url }}/images/blog/globeandmail.jpg)
 
 ## who
 
@@ -50,6 +50,8 @@ Put up a parking lot
 
 <i class="fa fa-microphone" aria-hidden="true"></i> [Big Yellow Taxi](https://youtu.be/GFB-d-8_bvY)
 
+![asphalt]({{ site.url }}/images/blog/asphalt.jpg)
+
 I removed my parking lot to restore paradise!
 
  ![BeforeDepaving]({{ site.url }}/images/blog/BeforeDepaving.jpg)
@@ -78,9 +80,12 @@ In 2019 I was lucky to meet a landscaper who came to my house and executed some 
 
 I split it into two phases and I’m so glad I did because once ¼ of the pavement was gone in 2020 and I’d planted my first three Sisters garden along with other vegetables, I wanted more garden and less space allocated for parking a car. 
 
+![bikerack]({{ site.url }}/images/blog/bikerack.jpg)
+
 Along the way, while researching plants, and designs, and just having green dreams. I found Dave and Santiago who remove fences between neighbours as a community project. In between the driveways was a 50 year old chain link fence and now it’s gone. He used the metal and [upCycled](https://www.blogto.com/city/2021/01/volunteer-group-toronto-will-remove-fences-yards-free/?fbclid=IwAR1Y0tMWLpnG0vmkv6EjPcqO95WgRMMNDBBOkVhF3IFaBbVWrO6F1daTByQ) it into Bicycle Racks!!
 
-![FenceRemove]({{ site.url }}/images/blog/FenceRemove.jpg)
+![rowanbicycle]({{ site.url }}/images/blog/rowanbicycle.jpg)
+![robincargobike]({{ site.url }}/images/blog/robincargobike.jpg)
 
 My design plan now included 3 bike racks and 3 trees along the property line as a very functional ‘fence line’ that provides secure parking for my friends who use Active Transportation and The Trees are a needed addition to Toronto’s tree Canopy.
 
@@ -201,6 +206,9 @@ To discover native plants in Canada take a  look  at [CANPLANT](https://can-plan
 🦋 Borage
 🌙 White Feather Hosta
 
+
+![strawberry]({{ site.url }}/images/blog/strawberry.jpg)
+
 ## Fruit and Vegetables
 
 🫐 Lowbush Blueberry
@@ -214,6 +222,10 @@ To discover native plants in Canada take a  look  at [CANPLANT](https://can-plan
 🌙 Corn
 💚 Sugar Pie Pumpkin
 🦋 Butternut Squash
+
+![robinandtomatoes]({{ site.url }}/images/blog/robinandtomatoes.jpg)
+a gift of heirloom tomatoes delivered by cargobike!
+![robinunloading]({{ site.url }}/images/blog/robinunloading.jpg)
 
 ## Heirloom Tomatoes
 
@@ -245,6 +257,29 @@ To discover native plants in Canada take a  look  at [CANPLANT](https://can-plan
 🌱 Coneflowers
 💚 Russian Sage
 
+![bulbs]({{ site.url }}/images/blog/bulbs.jpg)
+
 ## Coming this fall 
 
 💚 dozens of [BULBS](https://www.brecksbulbs.ca/) to plant for an embarrassment of colour in the spring!
+
+## budget
+
+I have invested in depaving, restoring the soil, providing habitat for birds, bees, butterflies & bunnies! I  spent over $12,000 in this two year project.  This comes from  my travel budget  which seems  appropriate as  I  am able to escape within a few feet of my front door.
+
+## budget  friendly
+
+SEED and PLANT sharing can be coordinated in your neighbourhood.  
+
+![seedshakura]({{ site.url }}/images/blog/seedshakura.jpg)
+photo credit: Shakura
+
+It's a great way to  engage  with your community and share plants for free.
+
+![seedsharing]({{ site.url }}/images/blog/seedsharing.jpg)
+
+LEAF offers native shrubs  & plants at a  subsidized cost.
+
+![endofseason]({{ site.url }}/images/blog/endofseason.jpg)
+
+URBAN HARVEST  recently had an end of season sale where al their  plants  were $1.
