@@ -55,9 +55,6 @@ to exit my front door and see this transformation was AHmazing!
 ![beforefour]({{ site.url }}/images/blog/beforefour.jpg)
 my first three sisters garden.
 
-
-
-
 ![asphalt]({{ site.url }}/images/blog/asphalt.jpg)
 
 I removed my parking lot to restore paradise!
@@ -294,4 +291,8 @@ LEAF offers native shrubs  & plants at a  subsidized cost.
 
 ![endofseason]({{ site.url }}/images/blog/endofseason.jpg)
 
-URBAN HARVEST  recently had an end of season sale where al their  plants  were $1.
+URBAN HARVEST  recently had an end of season sale where all their  plants  were $1.
+
+My front yard garden has been a work in progress for years as it will continue to be until I can no longer lift a trowel! 
+
+![seedsisters]({{ site.url }}/images/blog/seedsisters.jpg)
