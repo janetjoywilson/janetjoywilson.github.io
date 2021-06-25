@@ -34,14 +34,18 @@ Step two - BE BRAVE because unfortunately returning to natural is different. We 
 
 I took inspiration from a song called BIG YELLOW TAXI, it was written, composed, and originally recorded by Canadian singer-songwriter Joni Mitchell in 1970, and released on her album Ladies of the Canyon.
 
-![before]({{ site.url }}/images/blog/beforee.jpg)
+![before]({{ site.url }}/images/blog/before.jpg)
 
 Joni Mitchell received her inspiration for “Big Yellow Taxi” on a trip to Hawaii. She was looking out of her hotel window at the magnificent Pacific scenery and then shifted her gaze downward to find a parking lot. The natural beauty of Hawaii had been rudely interrupted by a slab of pavement. 
 
 ![before]({{ site.url }}/images/blog/before.jpg)
+a lot of wasted  space
 ![beforetwo]({{ site.url }}/images/blog/beforetwo.jpg)
+two layers of asphalt to be excavated
 ![beforethree]({{ site.url }}/images/blog/beforethree.jpg)
+to exit my front door and see this transformation was AHmazing!
 ![beforefour]({{ site.url }}/images/blog/beforefour.jpg)
+my first three sisters garden.
 
 She wrote:
 
