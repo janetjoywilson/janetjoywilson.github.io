@@ -274,7 +274,7 @@ a gift of heirloom tomatoes delivered by cargobike!
 
 I have invested in depaving, restoring the soil, providing habitat for birds, bees, butterflies & bunnies! I  spent over $12,000 in this two year project.  This comes from  my travel budget  which seems  appropriate as  I  am able to escape within a few feet of my front door.
 
-Breakdown includes excavation, removal & recycling, stones,  pavers, labour plus soil, mulch, trees, 30 plants. Additionally three black matte painted bike racks, four garden hoops all upcycled from old metal fences. Plus some shopping at Lee Valley for garden spikes, plant markers, and obelisks.
+Breakdown includes excavation, removal & recycling, stones,  pavers, labour plus soil, mulch, trees, too many wonderful plants to count. Additionally three black matte painted bike racks, four garden hoops all upcycled from old metal fences. Plus I splured at Lee Valley for garden spikes, plant markers, and obelisks.
 
 ## budget  friendly
 
