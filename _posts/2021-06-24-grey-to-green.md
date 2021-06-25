@@ -301,7 +301,7 @@ URBAN HARVEST recently had an end of season sale where all their plants were $1.
 ![tomato]({{ site.url }}/images/blog/tomato.jpg)
 Tomatoes are starting to grow!
 
-![sugarpiepumpkin]({{ site.url }}/images/blog/sugarpiepumpkin.jpg
+![sugarpiepumpkin]({{ site.url }}/images/blog/sugarpiepumpkin.jpg)
 Love seeing the Sugar Pie Pumpkins start to spread themselves across the garden. Grown from Urban Harvest [seeds](https://uharvest.ca/shop/index.php?main_page=product_info&cPath=21_44&products_id=89).
 
 My front yard garden has been a work in progress for years as it will continue to be until I can no longer lift a shovel! 
