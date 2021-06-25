@@ -298,7 +298,7 @@ Growing seeds & using homemade  paper pots is also a money saver and satisfying 
 
 URBAN HARVEST recently had an end of season sale where all their plants were $1. I purchased alpine strawberries, oregano, dyers coreopsis and more grey headed coneflowers because you can never have enough plants when  they are $1.00!!
 
-![tomato]({{ site.url }}/images/blog/tomato.jpg
+![tomato]({{ site.url }}/images/blog/tomato.jpg)
 Tomatoes are starting to grow!
 
 ![sugarpiepumpkin]({{ site.url }}/images/blog/sugarpiepumpkin.jpg
@@ -306,10 +306,10 @@ Love seeing the Sugar Pie Pumpkins start to spread themselves across the garden.
 
 My front yard garden has been a work in progress for years as it will continue to be until I can no longer lift a shovel! 
 
-![bunny]({{ site.url }}/images/blog/bunny.jpg
+![bunny]({{ site.url }}/images/blog/bunny.jpg)
 I love that the bunnies enJOY my  garden. They are welcome and there is more  than enough food to share.
 
-![lettucejune25]({{ site.url }}/images/blog/lettucejune25.jpg
+![lettucejune25]({{ site.url }}/images/blog/lettucejune25.jpg)
 
 Growing my own fruit and vegetables is an activity that makes me very happy. Something I wish for all of you!  
 <i class="fa fa-microphone" aria-hidden="true"></i>  [Strawberry Fields Forever](https://youtu.be/HtUH9z_Oey8)
