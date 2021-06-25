@@ -272,9 +272,9 @@ a gift of heirloom tomatoes delivered by cargobike!
 
 ## budget
 
-I have invested in depaving, restoring the soil, providing habitat for birds, bees, butterflies & bunnies! I  spent over $12,000 in this two year project.  This comes from  my travel budget  which seems  appropriate as  I  am able to escape within a few feet of my front door.
+I have invested in depaving, restoring the soil, providing habitat for birds, bees, butterflies & bunnies! I  spent over $12,000 over the course of this two year project.  The money  came from  my travel savings. Ontario bound due to COVID-19  so spending it on my front  yard oasis and groceries seems on point.
 
-Breakdown includes excavation, removal & recycling, stones,  pavers, labour plus soil, mulch, trees, too many wonderful plants to count. Additionally three black matte painted bike racks, four garden hoops all upcycled from old metal fences. Plus I splured at Lee Valley for garden spikes, plant markers, and obelisks.
+Breakdown includes excavation, removal & recycling, stones,  pavers, labour (woman owned business), plus soil, mulch, trees, too many wonderful plants to count. Additionally three black matte painted bike racks, four garden hoops all upcycled from old metal fences. Plus I splured at Lee Valley for [tomato spirals](https://www.leevalley.com/en-ca/shop/garden/planting/stakes/10451-tomato-spirals?item=XM101), [plant markers](https://www.leevalley.com/en-ca/shop/garden/planting/labelling-and-marking/10458-flower-and-plant-markers?item=EA307), and [obelisks](https://www.leevalley.com/en-ca/shop/garden/planting/trellises/110193-compact-garden-obelisk).
 
 ## budget  friendly
 
@@ -285,14 +285,29 @@ photo credit: Shakura
 
 It's a great way to  engage  with your community and share plants for free.
 
+![paperpotting]({{ site.url }}/images/blog/paperpotting.jpg)
+Growing seeds & using homemade  paper pots is also a money saver and satisfying to do!
+
 ![seedsharing]({{ site.url }}/images/blog/seedsharing.jpg)
 
-LEAF offers native shrubs  & plants at a  subsidized cost.
+[LEAF](https://www.yourleaf.org/) offers native shrubs  & plants at a  subsidized cost.
 
 ![endofseason]({{ site.url }}/images/blog/endofseason.jpg)
 
-URBAN HARVEST  recently had an end of season sale where all their  plants  were $1.
+URBAN HARVEST recently had an end of season sale where all their plants were $1. I purchased alpine strawberries, oregano, dyers coreopsis and more grey headed coneflowers because you can never have enough plants when  they are $1.00!!
 
-My front yard garden has been a work in progress for years as it will continue to be until I can no longer lift a trowel! 
+![tomato]({{ site.url }}/images/blog/tomato.jpg
+Tomatoes are starting to grow!
 
-![seedsisters]({{ site.url }}/images/blog/seedsisters.jpg)
+![sugarpiepumpkin]({{ site.url }}/images/blog/sugarpiepumpkin.jpg
+Love seeing the Sugar Pie Pumpkins start to spread themselves across the garden. Grown from Urban Harvest [seeds](https://uharvest.ca/shop/index.php?main_page=product_info&cPath=21_44&products_id=89).
+
+My front yard garden has been a work in progress for years as it will continue to be until I can no longer lift a shovel! 
+
+![bunny]({{ site.url }}/images/blog/bunny.jpg
+I love that the bunnies enJOY my  garden. They are welcome and there is more  than enough food to share.
+
+![lettucejune25]({{ site.url }}/images/blog/lettucejune25.jpg
+
+Growing my own fruit and vegetables is an activity that makes me very happy. Something I wish for all of you!  
+<i class="fa fa-microphone" aria-hidden="true"></i>  [Strawberry Fields Forever](https://youtu.be/HtUH9z_Oey8)
