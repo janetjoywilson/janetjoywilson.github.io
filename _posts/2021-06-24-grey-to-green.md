@@ -144,7 +144,7 @@ They smile when they look at my colourful Butterflyway which they didn’t when 
 
 Thank you for bee-ing here and reading this long essay during national [Pollinator Week](https://www.pollinator.org/pollinator-week!)
 
-I hope I’ve planted a SEED in you to look at new (old) ways you can help expand the butterflyway as every native plant you put In the ground whether it’s in your yard or in a pot on balcony. Try it!
+I hope I’ve planted a SEED in you to look at new (old) ways you can help expand the butterflyway as every native plant you put in the ground is important.
 
 ![june24me]({{ site.url }}/images/blog/june24me.jpg)
 
@@ -276,7 +276,7 @@ Kindred spirit OAK is a dense deciduous tree with a strong central leader and a 
 
 I have invested in depaving, restoring the soil, providing habitat for birds, bees, butterflies & bunnies! I  spent over $12,000 over the course of this two year project.  The money  came from  my travel savings. Ontario bound due to COVID-19  so spending it on my front  yard oasis and groceries seems on point.
 
-Breakdown includes excavation, removal & recycling, stones,  pavers, labour (woman owned business), plus soil, mulch, trees, too many wonderful plants to count. Additionally three black matte painted bike racks, four garden hoops all upcycled from old metal fences. Plus I splured at Lee Valley for [tomato spirals](https://www.leevalley.com/en-ca/shop/garden/planting/stakes/10451-tomato-spirals?item=XM101), [plant markers](https://www.leevalley.com/en-ca/shop/garden/planting/labelling-and-marking/10458-flower-and-plant-markers?item=EA307), and [obelisks](https://www.leevalley.com/en-ca/shop/garden/planting/trellises/110193-compact-garden-obelisk).
+Breakdown includes excavation, removal & recycling, stones,  pavers, labour (woman owned business), plus soil, mulch, trees, too many wonderful plants to count. Additionally three black matte painted bike racks, four garden hoops all upcycled from old metal fences. Plus I splurged at Lee Valley for [tomato spirals](https://www.leevalley.com/en-ca/shop/garden/planting/stakes/10451-tomato-spirals?item=XM101), [plant markers](https://www.leevalley.com/en-ca/shop/garden/planting/labelling-and-marking/10458-flower-and-plant-markers?item=EA307), and [obelisks](https://www.leevalley.com/en-ca/shop/garden/planting/trellises/110193-compact-garden-obelisk).
 
 ## budget  friendly
 
@@ -285,18 +285,15 @@ SEED and PLANT sharing can be coordinated in your neighbourhood.
 ![seedshakura]({{ site.url }}/images/blog/seedshakura.jpg)
 photo credit: Shakura
 
+![seedsharing]({{ site.url }}/images/blog/seedsharing.jpg)
 It's a great way to  engage  with your community and share plants for free.
 
 ![paperpotting]({{ site.url }}/images/blog/paperpotting.jpg)
 Growing seeds & using homemade  paper pots is also a money saver and satisfying to do!
 
-![seedsharing]({{ site.url }}/images/blog/seedsharing.jpg)
-
-[LEAF](https://www.yourleaf.org/) offers native shrubs  & plants at a  subsidized cost.
-
 ![endofseason]({{ site.url }}/images/blog/endofseason.jpg)
 
-URBAN HARVEST recently had an end of season sale where all their plants were $1. I purchased alpine strawberries, oregano, dyers coreopsis and more grey headed coneflowers because you can never have enough plants when  they are $1.00!!
+URBAN HARVEST recently had an end of season sale! I purchased alpine strawberries, oregano, dyers coreopsis and more grey headed coneflowers because you can never have enough plants when they are $1.00!!
 
 ![tomato]({{ site.url }}/images/blog/tomato.jpg)
 Tomatoes are starting to grow!
