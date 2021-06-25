@@ -34,11 +34,14 @@ Step two - BE BRAVE because unfortunately returning to natural is different. We 
 
 I took inspiration from a song called BIG YELLOW TAXI, it was written, composed, and originally recorded by Canadian singer-songwriter Joni Mitchell in 1970, and released on her album Ladies of the Canyon.
 
-![waiting]({{ site.url }}/images/blog/waiting.jpg)
+![before]({{ site.url }}/images/blog/beforee.jpg)
 
 Joni Mitchell received her inspiration for “Big Yellow Taxi” on a trip to Hawaii. She was looking out of her hotel window at the magnificent Pacific scenery and then shifted her gaze downward to find a parking lot. The natural beauty of Hawaii had been rudely interrupted by a slab of pavement. 
 
-![june24above]({{ site.url }}/images/blog/june24above.jpg)
+![before]({{ site.url }}/images/blog/before.jpg)
+![beforetwo]({{ site.url }}/images/blog/beforetwo.jpg)
+![beforethree]({{ site.url }}/images/blog/beforethree.jpg)
+![beforefour]({{ site.url }}/images/blog/beforefour.jpg)
 
 She wrote:
 
@@ -146,6 +149,8 @@ I hope I’ve planted a SEED in you to look at new (old) Ways You can help expan
 ## Resources
 
 To discover native plants in Canada take a  look  at [CANPLANT](https://can-plant.ca/), [Lacewing](https://lacewing.ca/), [Bees Love Trees](https://www.yourleaf.org/sites/default/files/2017_-_bees_love_trees_fact_sheet.pdf?fbclid=IwAR1rJNr8Gl5yTML2bANrnqoYZ9lPRO_k9DO4S3uGl8yVI7HpK2ITdd6nqVg). Additionally, I'm inspired by [Brother Nature](https://www.evergreen.ca/tools-publications/gardening-with-brother-nature-video-series/?gclid=Cj0KCQjw2tCGBhCLARIsABJGmZ5wo-W_WlDGSKyDKhG7g_sRA9oxTqdp-IR_r81vDSO-T9BoGfMzs7IaAn6IEALw_wcB) at  Evergreen Brickworks.
+
+![june24above]({{ site.url }}/images/blog/june24above.jpg)
 
 ##  Books
 
