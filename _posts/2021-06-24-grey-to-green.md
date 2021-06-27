@@ -112,7 +112,7 @@ So my life in the city has been about supporting parks, shoreline cleanups, and 
 
 ## LEAF 
 
-I’d like to tell you about LEAF. It stands for Local. Enhancement and Appreciation of Forests. I purchased my low bush blueberry and st john’s wort shrubs from them and think the organization is amazing! Their Backyard Tree Planting Program offers native trees and shrubs to property owners at a subsidized cost.
+I’d like to tell you about LEAF. It stands for Local. Enhancement and Appreciation of Forests. I purchased my low bush blueberry and [st john’s wort](https://www.pascoe.ca/herbal-index/stjohnswort?utm_source=adwords&utm_medium=dynamic&utm_campaign=medical-conditions&gclid=CjwKCAjww-CGBhALEiwAQzWxOlsjUe1iqQxlLCTTuP1EX1hi1QOnB3MttWxlrBl5Pqi-vsQu956-7hoCEIUQAvD_BwE) shrubs from them and think the organization is amazing! Their Backyard Tree Planting Program offers native trees and shrubs to property owners at a subsidized cost.
 
 ![stjohnswort]({{ site.url }}/images/blog/stjohnswort.jpg)
 
