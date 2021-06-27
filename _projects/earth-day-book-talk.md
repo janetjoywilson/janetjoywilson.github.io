@@ -8,4 +8,4 @@ The Earth Day BOOK TALK was launched as a fundraiser for the CEC Educational Fou
 
 Join us at the Mattawa River Writers Festival where we are creating connections with our natural world through literature. 
 
-Pandemic Pivot: ZOOM INTO THE WOODS with our new series, In Conversation, beginning March 24, 2021! 
+Pandemic Pivot: ZOOM INTO THE WOODS with our new series, In Conversation, launched in 2021! 
