@@ -6,6 +6,8 @@ excerpt: "truth and reconciliation"
 tag:
 - education
 - indigenous
+- orange shirt day
+- TRC
 
 ---
 
@@ -44,3 +46,26 @@ I planted a field of strawberries that I flippantly said was inspired by John Le
 I only learned recently the significance of the [strawberry](https://youtu.be/RSi39qSrVYI) from Indigenous elders. 
 
 The strawberry teaches forgiveness and peace. The strawberry is shaped like a heart, and strawberries are known to the Anishinaabe as heart berries. 
+
+
+Today. I will re-read the [Truth and Reconciliation Commission's 94 Calls to Action](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/calls_to_action_english2.pdf).
+
+I will also continue to read Indigenous writers. I have been a long time subscriber to [RAVEN READS](https://ravenreads.org/) subscription box and I highly recommend it.
+
+It was in 2015, shortly after the TRC released its final report, [Raven Reads founder Nicole McLaren](https://ravenreads.org/pages/about-us#story) started a book club. The book club was a gathering place to not only share incredible books but to open a dialogue as well. To bring this experience to a wider audience, Raven Reads was born.
+
+It was designed as a safe space for people to learn about other cultures, about history and to discover beautifully crafted products made by Indigenous entrepreneurs from around the globe.
+
+I'll leave this post here with Nicole Mclaren's words:
+
+"My mixed-heritage and Indigenous roots have instilled a passion in me for finding interesting ways to engage, inspire and motivate those around me. Raven Reads was born from a desire to educate others about the devastating impact residential schools had on Indigenous people in Canada.
+
+Residential schools were in place in Canada for more than a century, with the last one closing in 1996. Over 150,000 children attended these schools and many never returned. Often underfunded and overcrowded, these schools were used as a tool of assimilation. Thousands of students suffered physical and sexual abuse - all suffered from loneliness and a longing to be home with their families. Entire cultures, languages and ways of life were wiped out and the impact inflicted by these schools continues to be felt to this day.
+
+The Truth & Reconciliation Committee’s final report (released in 2015) laid the foundation for a way to find common ground for moving forward for both Indigenous and non-Indigenous peoples.
+
+As many of us do, I frequently ask myself what does reconciliation mean and what role can I play in this? I know that reconciliation means different things to different people. To many, it’s about establishing and maintaining a mutually respectful relationship between Indigenous and non-Indigenous peoples in this country. For that to happen, there must be awareness of our collective past along with action that will change behaviour.
+
+We are not there yet. The relationship between Indigenous and non-Indigenous peoples is not a mutually respectful one.
+
+But I believe we can get there."
