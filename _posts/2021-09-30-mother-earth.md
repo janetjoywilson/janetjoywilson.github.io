@@ -11,7 +11,7 @@ tag:
 
 ---
 
-In order to redress the legacy of residential schools and advance the process of Canadian reconciliation, the Truth and Reconciliation Commission makes the following calls to action. Read it [here](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/calls_to_action_english2.pdf).
+In order to redress the legacy of residential schools and advance the process of Canadian reconciliation, the Truth and Reconciliation Commission made the following calls to action in 2015. Read it [here](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/calls_to_action_english2.pdf).
 
 In March 2018, CBC News launched [Beyond 94](https://newsinteractives.cbc.ca/longform-single/beyond-94?&cta=1), a website that monitors progress on the Truth and Reconciliation Commission's 94 Calls to Action. 
 
@@ -43,7 +43,7 @@ She earned diplomas in Business Administration from the Nicola Valley Institute 
 
 I planted a field of strawberries that I flippantly said was inspired by John Lennon's song [Strawberry Fields Forever](https://youtu.be/HtUH9z_Oey8) as my depaving project was inspired by Joni Mitchell's [Big Yellow Taxi](https://youtu.be/GFB-d-8_bvY).
 
-I only learned recently the significance of the [strawberry](https://youtu.be/RSi39qSrVYI) from Indigenous elders. 
+I only learned recently learned the significance of the [strawberry](https://youtu.be/RSi39qSrVYI) from Indigenous elders. 
 
 The strawberry teaches forgiveness and peace. The strawberry is shaped like a heart, and strawberries are known to the Anishinaabe as heart berries. 
 
