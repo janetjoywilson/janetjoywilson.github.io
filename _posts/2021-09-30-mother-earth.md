@@ -49,6 +49,7 @@ I only learned recently learned the significance of the [strawberry](https://you
 
 The strawberry teaches forgiveness and peace. The strawberry is shaped like a heart, and strawberries are known to the Anishinaabe as heart berries. 
 
+## must reads
 
 Today. I will re-read the [Truth and Reconciliation Commission's 94 Calls to Action](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/calls_to_action_english2.pdf).
 
