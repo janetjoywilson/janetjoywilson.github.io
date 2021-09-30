@@ -69,3 +69,14 @@ As many of us do, I frequently ask myself what does reconciliation mean and what
 We are not there yet. The relationship between Indigenous and non-Indigenous peoples is not a mutually respectful one.
 
 But I believe we can get there."
+
+## musicians
+
+<i class="fa fa-microphone" aria-hidden="true"></i> [You Got To Run  Spirit Of The Wind](https://youtu.be/o5zb0WTSLsY) by the incomparable [Buffy Sainte-Marie](https://buffysainte-marie.com/) and [Tanya Tagaq](https://www.tanyatagaq.com/)
+
+<i class="fa fa-microphone" aria-hidden="true"></i>  [The Spark](https://youtu.be/se2ydGeArdo) by
+[William Prince](https://www.williamprincemusic.com/about)
+
+<i class="fa fa-microphone" aria-hidden="true"></i> [The Ridge](https://youtu.be/hwm_7Aibh4M) by [Julian Taylor](https://juliantaylormusic.ca/)
+
+<i class="fa fa-microphone" aria-hidden="true"></i>  According to 2021 Polaris Music Prize, here's [six indigenous artists](https://www.cbc.ca/music/6-indigenous-artists-you-need-to-know-in-2021-1.6067395) you should listen to.  
