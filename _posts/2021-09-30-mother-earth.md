@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "mother earth"
-date: 2021-06-24
+date: 2021-09-30
 excerpt: "truth and reconciliation"
 tag:
 - education
