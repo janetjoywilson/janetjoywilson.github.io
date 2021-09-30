@@ -11,6 +11,8 @@ tag:
 
 ---
 
+Murray Sinclair, former senator and Truth and Reconciliation Committee head, said the most important goal of the TRC wasn't just uncovering what happened at residential schools, but "to make it part of our national memory," so that it cannot be forgotten. CBC Interview with Rosanna Deerchild [here](https://www.cbc.ca/radio/unreserved/national-day-for-truth-and-reconciliation-is-1-step-on-a-long-journey-says-murray-sinclair-1.6184561).
+
 In order to redress the legacy of residential schools and advance the process of Canadian reconciliation, the Truth and Reconciliation Commission made the following calls to action in 2015. Read it [here](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/indigenous-people/aboriginal-peoples-documents/calls_to_action_english2.pdf).
 
 In March 2018, CBC News launched [Beyond 94](https://newsinteractives.cbc.ca/longform-single/beyond-94?&cta=1), a website that monitors progress on the Truth and Reconciliation Commission's 94 Calls to Action. 
@@ -80,3 +82,7 @@ But I believe we can get there."
 <i class="fa fa-microphone" aria-hidden="true"></i> [The Ridge](https://youtu.be/hwm_7Aibh4M) by [Julian Taylor](https://juliantaylormusic.ca/)
 
 <i class="fa fa-microphone" aria-hidden="true"></i>  According to 2021 Polaris Music Prize, here's [six indigenous artists](https://www.cbc.ca/music/6-indigenous-artists-you-need-to-know-in-2021-1.6067395) you should listen to.  
+
+## Support
+
+A national Indian Residential School Crisis Line has been set up to provide support for residential school survivors and others affected. People can access emotional and crisis referral services by calling the 24-hour national crisis line: 1-866-925-4419.
