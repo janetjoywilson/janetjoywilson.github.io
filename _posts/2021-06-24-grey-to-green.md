@@ -18,7 +18,7 @@ this is my story of turning grey into green & I’m not talking about my hair co
 
 ## who
 
-I grew up on a small family farm in southern Ontario. I’ve lived in this house in the west end of Toronto for over 25 years. I am not a professional gardener. I have made moved plants around many times, and made many mistakes and continue to experiment as I am a life-long learner.
+I grew up on a small family farm in southern Ontario. I’ve lived in this house in the west end of Toronto for over 25 years. I am not a professional gardener. I have moved plants around many times, made many mistakes, and continue to experiment as I am a life-long learner.
 
 This land is precious and I acknowledge the land I live on is of the traditional territory of the Mississauga of New Credit, the Anishinaabe, the Haudenosaunee, and the Huron Wendat. Tkaronto is home to many indigenous people from across Turtle Island, and I am grateful to be on this land and I intend to be a mindful steward.
 
@@ -34,7 +34,7 @@ Step two - BE BRAVE because unfortunately returning to natural is different. We 
 
 I took inspiration from a song called BIG YELLOW TAXI, it was written, composed, and originally recorded by Canadian singer-songwriter Joni Mitchell in 1970, and released on her album Ladies of the Canyon.
 
-Joni Mitchell received her inspiration for “Big Yellow Taxi” on a trip to Hawaii. She was looking out of her hotel window at the magnificent Pacific scenery and then shifted her gaze downward to find a parking lot. The natural beauty of Hawaii had been rudely interrupted by a slab of pavement. 
+Joni Mitchell got her inspiration for “Big Yellow Taxi” on a trip to Hawaii. She was looking out of her hotel window at the magnificent Pacific scenery and then shifted her gaze downward to find a parking lot. The natural beauty of Hawaii had been rudely interrupted by a slab of pavement. 
 
 she wrote:
 
