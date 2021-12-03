@@ -310,3 +310,16 @@ I love that the bunnies enJOY my  garden. They are welcome and there is more  th
 
 Growing my own fruit and vegetables is an activity that makes me very happy. Something I wish for all of you!  
 <i class="fa fa-microphone" aria-hidden="true"></i>  [Strawberry Fields Forever](https://youtu.be/HtUH9z_Oey8)
+
+## Rain Garden
+
+When you remove asphalt and concrete the water can be absorbed into the earth and soaked up by the plants. Watch [this](https://youtu.be/sQkAcIANd4s).
+
+
+## Fall Colours and update
+
+Pumpkins, beans, tomatoes, strawberries, blackberries, blueberries, rhubarb, potatoes, kale, lettuce, garlic, onions, peppers, herbs galore, and more as I had an abundance of produce from start to finish of the season finishing with [Jerusalem Artichokes](https://youtu.be/dsdkQxk-AyI)
+
+![NOV2021OakLeaves in fall]({{ site.url }}/images/blog/NOV2021OakLeaves in fall.jpg)
+
+ Here's what November looks like in my garden that used to be asphalt just a few months ago!
