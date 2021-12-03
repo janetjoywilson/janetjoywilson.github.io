@@ -320,6 +320,11 @@ When you remove asphalt and concrete the water can be absorbed into the earth an
 
 Pumpkins, beans, tomatoes, strawberries, blackberries, blueberries, rhubarb, potatoes, kale, lettuce, garlic, onions, peppers, herbs galore, and more as I had an abundance of produce from start to finish of the season finishing with [Jerusalem Artichokes](https://youtu.be/dsdkQxk-AyI)
 
-![NOV2021OakLeaves in fall]({{ site.url }}/images/blog/NOV2021OakLeaves in fall.jpg)
-
- Here's what November looks like in my garden that used to be asphalt just a few months ago!
+Here's what November looks like in my garden that used to be asphalt just a few months ago!
+![NOV2021OakLeaves]({{ site.url }}/images/blog/NOV2021OakLeaves.jpg)
+🌳 Quercus x warei 'Nadler'  
+Kindred spirit OAK
+![NOV2021SoulmateSwampMilkweed]({{ site.url }}/images/blog/NOV2021SoulmateSwampMilkweed.jpg)
+🦋 Soulmate Swamp Milkweed
+![NOV2021Strawberries]({{ site.url }}/images/blog/NOV2021Strawberries.jpg)
+The ribbon driveway filled in with transplanted strawberries and moss from the backyard patio stones. AND yes, there has been vehicles parked on it over the last few months. Permeable pavers work!
