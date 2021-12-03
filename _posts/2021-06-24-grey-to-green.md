@@ -326,5 +326,5 @@ Here's what November looks like in my garden that used to be asphalt just a few 
 Kindred spirit OAK
 ![NOV2021SoulmateSwampMilkweed]({{ site.url }}/images/blog/NOV2021SoulmateSwampMilkweed.jpg)
 🦋 Soulmate Swamp Milkweed
-![NOV2021Strawberries]({{ site.url }}/images/blog/NOV2021Strawberries.jpg)
+![NOV2021strawberries]({{ site.url }}/images/blog/NOV2021strawberries.jpg)
 The ribbon driveway filled in with transplanted strawberries and moss from the backyard patio stones. AND yes, there has been vehicles parked on it over the last few months. Permeable pavers work!
