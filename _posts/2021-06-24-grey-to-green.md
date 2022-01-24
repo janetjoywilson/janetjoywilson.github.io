@@ -331,3 +331,21 @@ Kindred spirit OAK
 The ribbon driveway filled in with transplanted strawberries and moss from the backyard patio stones. 
 ![NOV2021strawberries]({{ site.url }}/images/blog/NOV2021strawberries.jpg)
 AND yes, there has been vehicles parked on it over the last few months. Permeable pavers work!
+
+## Winter update
+
+One of the next most valuable things you can do to support pollinators and other invertebrates is to provide them with the winter cover they need in the form of fall leaves and standing dead plant material. 
+
+![WinterMilkweed]({{ site.url }}/images/blog/WinterMilkweed.jpg)
+
+Beyond butterflies, bumble bees also rely on leaf litter for protection. At the end of summer, mated queen bumble bees burrow only an inch or two into the earth to hibernate for winter. More information in this Leave the Leaves [article](https://xerces.org/blog/leave-the-leaves).
+
+![WinterView]({{ site.url }}/images/blog/WinterView.jpg)
+
+I've watched young woodpeckers peck on the tall dry broom corn stalks, birds gather seeds from the dried sunflowers, and enJOY the natural art installation the snow and winter garden provides.
+
+![WinterPavers]({{ site.url }}/images/blog/WinterPavers.jpg)
+
+One of the common questions I heard was "how do you shovel snow?!" Same as I shovel snow off the stone steps and the concrete sidewalk. I have a short path to push it onto the strawberries in the middle or off to the side into the garden. My greenway means I can put all the snow into this space that in the summer mitigates heat and in the winter is a depository for excess snow. In the spring it will melt and feed the plants! Photo is post Toronto's major [snowstorm](https://www.theguardian.com/weather/2022/jan/20/toronto-struggles-blizzard-dependence-cars) in January 2022.
+
+![WinterCargoBike]({{ site.url }}/images/blog/WinterCargoBike.jpg)
