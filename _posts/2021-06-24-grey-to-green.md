@@ -346,6 +346,10 @@ I've watched young woodpeckers peck on the tall dry broom corn stalks, birds gat
 
 ![WinterPavers]({{ site.url }}/images/blog/WinterPavers.jpg)
 
-One of the common questions I heard was "how do you shovel snow?!" Same as I shovel snow off the stone steps and the concrete sidewalk. I have a short path to push it onto the strawberries in the middle or off to the side into the garden. My greenway means I can put all the snow into this space that in the summer mitigates heat and in the winter is a depository for excess snow. In the spring it will melt and feed the plants! Photo is post Toronto's major [snowstorm](https://www.theguardian.com/weather/2022/jan/20/toronto-struggles-blizzard-dependence-cars) in January 2022.
+One of the common questions I heard was "how do you shovel snow?!" Same as I shovel snow off the stone steps and the concrete sidewalk. I have a short path to push it onto the strawberries in the middle or off to the side into the garden. My greenway means I can put all the snow into this space that in the summer mitigates heat and in the winter is a depository for excess snow. In the spring it will melt and feed the plants! 
 
 ![WinterCargoBike]({{ site.url }}/images/blog/WinterCargoBike.jpg)
+
+Winter photos were taken post Toronto's major [snowstorm](https://www.theguardian.com/weather/2022/jan/20/toronto-struggles-blizzard-dependence-cars) in January 2022.
+
+A garden is a year round gift.
